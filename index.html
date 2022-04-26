@@ -140,6 +140,7 @@
                             <table class="table events">
                                 <tr>
                                     <th scope="col" class="sort" data-sort="abr">Name</th>
+                                    <th scope="col" class="sort" data-sort="desc">Descripción</th>
                                     <th scope="col" class="sort" data-sort="price">Price</th>
                                     <th scope="col" class="sort" data-sort="karmatype">Karma</th>
                                 </tr>
@@ -235,8 +236,8 @@
         let eventList = null;
         $.getJSON(eventListURL, function(data) {
             var options = {
-                valueNames: ['abr', 'price', 'karmatype'],
-                item: '<tr><td class="abr" scope="row"></td><td class="price"></td><td class="karmatype"></td></tr>'
+                valueNames: ['abr', 'price', 'desc', 'karmatype'],
+                item: '<tr><td class="abr" scope="row"></td><td class="desc"></td><td class="price"></td><td class="karmatype"></td></tr>'
             };
 
             var eventData = [];
