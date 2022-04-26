@@ -3,11 +3,13 @@
 	{
 		"abr": "tornado",
 		"price": 800,
+		"desc": "Invoca un tornado",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
 		"price": 2600,
+		"desc": "Invoca varios tornados",
 		"karmatype": "Bad"
 	},
 	{
