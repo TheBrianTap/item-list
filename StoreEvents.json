@@ -417,7 +417,7 @@
 	{
 		"abr": "cirugia",
 		"price": 1,
-		"desc": "Se utiliza para agregarle una cirujia a tu colono. Ejemplo: $cirugia brazobiónico",
+		"desc": "Se utiliza para agregarle una cirugia a tu colono. Ejemplo: $cirugia brazobiónico",
 		"karmatype": "Neutral"
 	},
 	{
