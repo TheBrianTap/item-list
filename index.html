@@ -41,7 +41,7 @@
                 <h1 class="display-3">Rimworld CHAT</h1>
                 <p>Rimworld es un simulador de colonia en donde los integrantes (colonos) tendrán que sobrevivir a distintas catástrofes como tornados, olas de calor, animales salvajes, asaltos enemigos o a ellos mismos como peleas de ideología, enfermedades, discusiones y rasgos con problemas de personalidad. El juego es un simple PVE, lo que he hecho fue integrarle una diversidad de distintos mods en donde permitiesen la iteración entre "colono -> espectador" a traves del chat de Twitch.</p>
                 <ul class="list-group">
-                    <li class="list-group-item">!bal - Mira tu balance de dinero y KARMA</li>
+                    <li class="list-group-item">!bal - Mira tu balance de dinero y karma</li>
                     <li class="list-group-item">!join - Ingresa a al cola de espera</li>
                     <li class="list-group-item">$colono [raza]- Compra un colono de forma inmediata</li>
                     <li class="list-group-item">Razas: android(2200), asari(2500), drell(2500), droidebatalla(3000), droidwork(2000), harpy(1850), humano(1500), naga(2200), thrumkin(3500)</li>
@@ -138,7 +138,7 @@
                                     Ordenar por precio
                                 </button>
                                 <button type="button" class="btn btn-primary sort" data-sort="karmatype">
-                                    Ordenar por KARMA
+                                    Ordenar por Karma
                                 </button>
                             </p>
                             <table class="table events">
@@ -159,13 +159,13 @@
                         <div id="events">
                             <div class="input-group input-group-sm mb-3">
                                 <div class="input-group-prepend">
-                                    <span class="input-group-text" id="inputGroup-sizing-sm">Search</span>
+                                    <span class="input-group-text" id="inputGroup-sizing-sm">Buscar</span>
                                 </div>
                                 <input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
                             </div>
                             <p>
                                 <button type="button" class="btn btn-primary sort" data-sort="abr">
-                                    Ordebar
+                                    Ordenar
                                 </button>
                                 <button type="button" class="btn btn-primary sort" data-sort="price">
                                     Ordenar por precio
@@ -336,10 +336,10 @@
             });
 	    triatList.filter(function(item) {
                 var allow = true;
-                if (minPrice != "" && parseInt(item.values().price) < minPrice) {
+                if (minPrice != "" && parseInt(item.values().addprice) < minPrice) {
                     allow = false;
                 }
-                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
+                if (maxPrice != "" && parseInt(item.values().addprice) > maxPrice) {
                     allow = false;
                 }
                 return allow;
