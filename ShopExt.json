@@ -1,7 +1,7 @@
 {
   "traits": [
     {
-      "description": "Regulus disfruta de la sensación de libertad que resulta de estar completamente desnudo. Puede soportar la ropa, pero será más feliz si no trae nada.",
+      "description": "Regulus disfruta de la sensación de libertad que resulta de estar completamente desnudo. Puede soportar la ropa, pero será más feliz si no trae nada. ",
       "stats": [
 
       ],
@@ -13,7 +13,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -22,8 +22,8 @@
 
         ]
       },
-      "defName": "Nudist",
-      "name": "nudista",
+      "defName": "Nudist ",
+      "name": "nudista ",
       "canAdd": true,
       "canRemove": true,
       "price": 2000,
@@ -31,7 +31,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus se apresura a hacer daño a la gente y no le importa ver sangre o muerte. Es cuatro veces más probable que empiece una pelea.",
+      "description": "Regulus se apresura a hacer daño a la gente y no le importa ver sangre o muerte. Es cuatro veces más probable que empiece una pelea. ",
       "stats": [
         "Mórbido meditation focus type allowed."
       ],
@@ -43,7 +43,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -52,8 +52,8 @@
           "Mórbido meditation focus type allowed."
         ]
       },
-      "defName": "Bloodlust",
-      "name": "sanguinario",
+      "defName": "Bloodlust ",
+      "name": "sanguinario ",
       "canAdd": true,
       "canRemove": true,
       "price": 3710,
@@ -61,12 +61,12 @@
       "degree": 0
     },
     {
-      "description": "Regulus es una persona excepcionalmente agradable y generosa. él nunca insulta a los demás y a veces ofrece palabras amables para alegrar el ánimo de los que le rodean. Tampoco juzga a las personas por su aspecto. Su simpatía también le hace más proclive a conformarse con las opiniones predominantes.",
+      "description": "Regulus es una persona excepcionalmente agradable y generosa. él nunca insulta a los demás y a veces ofrece palabras amables para alegrar el ánimo de los que le rodean. Tampoco juzga a las personas por su aspecto. Su simpatía también le hace más proclive a conformarse con las opiniones predominantes. ",
       "stats": [
         "x200% factor de pérdida de certeza global"
       ],
       "conflicts": [
-        "intratable",
+        "intratable ",
         "psicópata"
       ],
       "bypassLimit": false,
@@ -74,18 +74,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "intratable",
+          "intratable ",
           "psicópata"
         ],
         "stats": [
           "x200% factor de pérdida de certeza global"
         ]
       },
-      "defName": "Kind",
-      "name": "amable",
+      "defName": "Kind ",
+      "name": "amable ",
       "canAdd": true,
       "canRemove": true,
       "price": 3530,
@@ -93,9 +93,9 @@
       "degree": 0
     },
     {
-      "description": "Regulus no tiene empatía. El sufrimiento de los demás no le molesta en lo más mínimo. A él no le importa que otras personas sean descuartizadas, se les deje sin enterrar, se les encarcele o que sean vendidas a la esclavitud, a no ser que lo afecte directamente. él no podrá mejorar su humor socializando con la gente.",
+      "description": "Regulus no tiene empatía. El sufrimiento de los demás no le molesta en lo más mínimo. A él no le importa que otras personas sean descuartizadas, se les deje sin enterrar, se les encarcele o que sean vendidas a la esclavitud, a no ser que lo afecte directamente. él no podrá mejorar su humor socializando con la gente. ",
       "stats": [
-        "Mórbido meditation focus type allowed.",
+        "Mórbido meditation focus type allowed. ",
         "x50% factor de pérdida de certeza global"
       ],
       "conflicts": [
@@ -106,18 +106,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "Mórbido meditation focus type allowed.",
+          "Mórbido meditation focus type allowed. ",
           "x50% factor de pérdida de certeza global"
         ]
       },
-      "defName": "Psychopath",
-      "name": "psicópata",
+      "defName": "Psychopath ",
+      "name": "psicópata ",
       "canAdd": true,
       "canRemove": true,
       "price": 3600,
@@ -125,7 +125,7 @@
       "degree": 0
     },
     {
-      "description": "A Regulus le enseñaron que comer carne humana está mal y es algo horrible. Pero una vez, hace mucho tiempo, él la probó... y le gustó.",
+      "description": "A Regulus le enseñaron que comer carne humana está mal y es algo horrible. Pero una vez, hace mucho tiempo, él la probó... y le gustó. ",
       "stats": [
         "Mórbido meditation focus type allowed."
       ],
@@ -137,7 +137,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -146,8 +146,8 @@
           "Mórbido meditation focus type allowed."
         ]
       },
-      "defName": "Cannibal",
-      "name": "caníbal",
+      "defName": "Cannibal ",
+      "name": "caníbal ",
       "canAdd": true,
       "canRemove": true,
       "price": 2800,
@@ -155,7 +155,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus siempre dice exactamente lo que le pasa por la cabeza, especialmente si es algo que lo molesta. Y eso tiende a irritar a la gente.",
+      "description": "Regulus siempre dice exactamente lo que le pasa por la cabeza, especialmente si es algo que lo molesta. Y eso tiende a irritar a la gente. ",
       "stats": [
         "x50% factor de pérdida de certeza global"
       ],
@@ -167,7 +167,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -176,8 +176,8 @@
           "x50% factor de pérdida de certeza global"
         ]
       },
-      "defName": "Abrasive",
-      "name": "intratable",
+      "defName": "Abrasive ",
+      "name": "intratable ",
       "canAdd": true,
       "canRemove": true,
       "price": 1900,
@@ -185,17 +185,17 @@
       "degree": 0
     },
     {
-      "description": "La inteligencia de Regulus es demasiado elevada para su propio bien. él aprende cualquier cosa mucho más rápido que todos los demás, pero puede comportarse de forma excéntrica.",
+      "description": "La inteligencia de Regulus es demasiado elevada para su propio bien. él aprende cualquier cosa mucho más rápido que todos los demás, pero puede comportarse de forma excéntrica. ",
       "stats": [
-        "+75% factor de aprendizaje global",
-        "+12% umbral de colapso mental",
+        "+75% factor de aprendizaje global ",
+        "+12% umbral de colapso mental ",
         "x50% factor de pérdida de certeza global"
       ],
       "conflicts": [
-        "voluntaddehierro",
-        "resuelto",
-        "nervioso",
-        "inestable",
+        "voluntaddehierro ",
+        "resuelto ",
+        "nervioso ",
+        "inestable ",
         "aprendizlento"
       ],
       "bypassLimit": false,
@@ -203,23 +203,23 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "voluntaddehierro",
-          "resuelto",
-          "nervioso",
-          "inestable",
+          "voluntaddehierro ",
+          "resuelto ",
+          "nervioso ",
+          "inestable ",
           "aprendizlento"
         ],
         "stats": [
-          "+75% factor de aprendizaje global",
-          "+12% umbral de colapso mental",
+          "+75% factor de aprendizaje global ",
+          "+12% umbral de colapso mental ",
           "x50% factor de pérdida de certeza global"
         ]
       },
-      "defName": "TooSmart",
-      "name": "demasiadolisto",
+      "defName": "TooSmart ",
+      "name": "demasiadolisto ",
       "canAdd": true,
       "canRemove": true,
       "price": 5500,
@@ -227,16 +227,16 @@
       "degree": 0
     },
     {
-      "description": "A Regulus le encanta pelear cara a cara. Su puntería aumenta significativamente durante el combate cuerpo a cuerpo, pero él se enfadará bastante si se le pide que lleve un arma a distancia.",
+      "description": "A Regulus le encanta pelear cara a cara. Su puntería aumenta significativamente durante el combate cuerpo a cuerpo, pero él se enfadará bastante si se le pide que lleve un arma a distancia. ",
       "stats": [
-        "Frenesí de tiro inspiration disabled.",
-        "+4 cuerpo a cuerpo",
-        "-4 tiro",
+        "Frenesí de tiro inspiration disabled. ",
+        "+4 cuerpo a cuerpo ",
+        "-4 tiro ",
         "+4.0 prob. de golpe cuerpo a cuerpo"
       ],
       "conflicts": [
-        "tiradorcuidadoso",
-        "gatilloalegre",
+        "tiradorcuidadoso ",
+        "gatilloalegre ",
         "cobarde"
       ],
       "bypassLimit": false,
@@ -244,22 +244,22 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "tiradorcuidadoso",
-          "gatilloalegre",
+          "tiradorcuidadoso ",
+          "gatilloalegre ",
           "cobarde"
         ],
         "stats": [
-          "Frenesí de tiro inspiration disabled.",
-          "+4 cuerpo a cuerpo",
-          "-4 tiro",
+          "Frenesí de tiro inspiration disabled. ",
+          "+4 cuerpo a cuerpo ",
+          "-4 tiro ",
           "+4.0 prob. de golpe cuerpo a cuerpo"
         ]
       },
-      "defName": "Brawler",
-      "name": "luchador",
+      "defName": "Brawler ",
+      "name": "luchador ",
       "canAdd": true,
       "canRemove": true,
       "price": 5900,
@@ -267,7 +267,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus encuentra algo emocionante en ser herido. él no sabe por qué, su cerebro está programado de manera diferente.",
+      "description": "Regulus encuentra algo emocionante en ser herido. él no sabe por qué, su cerebro está programado de manera diferente. ",
       "stats": [
         "Mórbido meditation focus type allowed."
       ],
@@ -279,7 +279,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "cobarde"
@@ -288,8 +288,8 @@
           "Mórbido meditation focus type allowed."
         ]
       },
-      "defName": "Masochist",
-      "name": "masoquista",
+      "defName": "Masochist ",
+      "name": "masoquista ",
       "canAdd": true,
       "canRemove": true,
       "price": 3500,
@@ -297,7 +297,7 @@
       "degree": 0
     },
     {
-      "description": "A Regulus le gusta estar despierto durante la noche, y dormir durante el día.\n\n recibe un bono de humor si se despierta por la noche (23h-6h) y una pérdida de humor si se despierta durante el día (11h-18h).\n\nNo sufre de penalización de humor por estar en la oscuridad.",
+      "description": "A Regulus le gusta estar despierto durante la noche, y dormir durante el día.\n\n recibe un bono de humor si se despierta por la noche (23h-6h) y una pérdida de humor si se despierta durante el día (11h-18h).\n\nNo sufre de penalización de humor por estar en la oscuridad. ",
       "stats": [
 
       ],
@@ -309,7 +309,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -318,8 +318,8 @@
 
         ]
       },
-      "defName": "NightOwl",
-      "name": "nocturno",
+      "defName": "NightOwl ",
+      "name": "nocturno ",
       "canAdd": true,
       "canRemove": true,
       "price": 2000,
@@ -327,12 +327,12 @@
       "degree": 0
     },
     {
-      "description": "Regulus necesita un dormitorio realmente impresionante. Pierde humor si no consigue lo que quiere.",
+      "description": "Regulus necesita un dormitorio realmente impresionante. Pierde humor si no consigue lo que quiere. ",
       "stats": [
 
       ],
       "conflicts": [
-        "austero",
+        "austero ",
         "celoso"
       ],
       "bypassLimit": false,
@@ -340,18 +340,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "austero",
+          "austero ",
           "celoso"
         ],
         "stats": [
 
         ]
       },
-      "defName": "Greedy",
-      "name": "codicioso",
+      "defName": "Greedy ",
+      "name": "codicioso ",
       "canAdd": true,
       "canRemove": true,
       "price": 3560,
@@ -359,12 +359,12 @@
       "degree": 0
     },
     {
-      "description": "Para Regulus es degradante tener un dormitorio menos impresionante que el de alguien más. él pierde humor si algún colono tiene un dormitorio más impresionante.",
+      "description": "Para Regulus es degradante tener un dormitorio menos impresionante que el de alguien más. él pierde humor si algún colono tiene un dormitorio más impresionante. ",
       "stats": [
         "Mórbido meditation focus type allowed."
       ],
       "conflicts": [
-        "austero",
+        "austero ",
         "codicioso"
       ],
       "bypassLimit": false,
@@ -372,18 +372,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "austero",
+          "austero ",
           "codicioso"
         ],
         "stats": [
           "Mórbido meditation focus type allowed."
         ]
       },
-      "defName": "Jealous",
-      "name": "celoso",
+      "defName": "Jealous ",
+      "name": "celoso ",
       "canAdd": true,
       "canRemove": true,
       "price": 2340,
@@ -391,15 +391,15 @@
       "degree": 0
     },
     {
-      "description": "Regulus ha renunciado a las comodidades físicas y a los placeres en favor de un estilo de vida simple y puro. él será infeliz si tiene un dormitorio demasiado impresionante. A él también le disgusta la comida elegante y prefiere comer su comida cruda. Nunca juzga a los demás por su apariencia.",
+      "description": "Regulus ha renunciado a las comodidades físicas y a los placeres en favor de un estilo de vida simple y puro. él será infeliz si tiene un dormitorio demasiado impresionante. A él también le disgusta la comida elegante y prefiere comer su comida cruda. Nunca juzga a los demás por su apariencia. ",
       "stats": [
-        "Artístico meditation focus type disabled.",
-        "Mínimo meditation focus type allowed.",
+        "Artístico meditation focus type disabled. ",
+        "Mínimo meditation focus type allowed. ",
         "x50% factor de pérdida de certeza global"
       ],
       "conflicts": [
-        "codicioso",
-        "celoso",
+        "codicioso ",
+        "celoso ",
         "glotón"
       ],
       "bypassLimit": false,
@@ -407,21 +407,21 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "codicioso",
-          "celoso",
+          "codicioso ",
+          "celoso ",
           "glotón"
         ],
         "stats": [
-          "Artístico meditation focus type disabled.",
-          "Mínimo meditation focus type allowed.",
+          "Artístico meditation focus type disabled. ",
+          "Mínimo meditation focus type allowed. ",
           "x50% factor de pérdida de certeza global"
         ]
       },
-      "defName": "Ascetic",
-      "name": "austero",
+      "defName": "Ascetic ",
+      "name": "austero ",
       "canAdd": true,
       "canRemove": true,
       "price": 3510,
@@ -429,7 +429,7 @@
       "degree": 0
     },
     {
-      "description": "A Regulus le atrae la gente de su mismo sexo.",
+      "description": "A Regulus le atrae la gente de su mismo sexo. ",
       "stats": [
 
       ],
@@ -441,7 +441,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -450,8 +450,8 @@
 
         ]
       },
-      "defName": "Gay",
-      "name": "homosexual",
+      "defName": "Gay ",
+      "name": "homosexual ",
       "canAdd": true,
       "canRemove": true,
       "price": 3000,
@@ -459,7 +459,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus se siente románticamente atraído tanto por hombres como por mujeres.",
+      "description": "Regulus se siente románticamente atraído tanto por hombres como por mujeres. ",
       "stats": [
 
       ],
@@ -471,7 +471,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -480,8 +480,8 @@
 
         ]
       },
-      "defName": "Bisexual",
-      "name": "bisexual",
+      "defName": "Bisexual ",
+      "name": "bisexual ",
       "canAdd": true,
       "canRemove": true,
       "price": 3000,
@@ -489,7 +489,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus no tiene ninguna atracción sexual hacia nadie en absoluto.",
+      "description": "Regulus no tiene ninguna atracción sexual hacia nadie en absoluto. ",
       "stats": [
 
       ],
@@ -501,7 +501,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -510,8 +510,8 @@
 
         ]
       },
-      "defName": "Asexual",
-      "name": "asexual",
+      "defName": "Asexual ",
+      "name": "asexual ",
       "canAdd": true,
       "canRemove": true,
       "price": 3000,
@@ -519,7 +519,7 @@
       "degree": 0
     },
     {
-      "description": "La voz de Regulus tiene una cualidad aguda y nasal terriblemente incómoda al oído humano. Esto predispone a los demás contra él.",
+      "description": "La voz de Regulus tiene una cualidad aguda y nasal terriblemente incómoda al oído humano. Esto predispone a los demás contra él. ",
       "stats": [
 
       ],
@@ -531,7 +531,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -540,8 +540,8 @@
 
         ]
       },
-      "defName": "AnnoyingVoice",
-      "name": "vozchillona",
+      "defName": "AnnoyingVoice ",
+      "name": "vozchillona ",
       "canAdd": true,
       "canRemove": true,
       "price": 1170,
@@ -549,7 +549,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus tiene una respiración muy sonora y profunda todo el tiempo. Además, siempre está sudando. Los demás se sienten incómodos a su alrededor.",
+      "description": "Regulus tiene una respiración muy sonora y profunda todo el tiempo. Además, siempre está sudando. Los demás se sienten incómodos a su alrededor. ",
       "stats": [
 
       ],
@@ -561,7 +561,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -570,8 +570,8 @@
 
         ]
       },
-      "defName": "CreepyBreathing",
-      "name": "respiraciónespeluznante",
+      "defName": "CreepyBreathing ",
+      "name": "respiraciónespeluznante ",
       "canAdd": true,
       "canRemove": true,
       "price": 1550,
@@ -579,9 +579,9 @@
       "degree": 0
     },
     {
-      "description": "Regulus ama el fuego. Nunca apagará los incendios. Para aliviar el estrés, ocasionalmente encenderá fuego al azar. Esto sucede más a menudo si su humor es bajo.",
+      "description": "Regulus ama el fuego. Nunca apagará los incendios. Para aliviar el estrés, ocasionalmente encenderá fuego al azar. Esto sucede más a menudo si su humor es bajo. ",
       "stats": [
-        "Llameante meditation focus type allowed.",
+        "Llameante meditation focus type allowed. ",
         "Only mental break \"FireStartingSpree\" allowed."
       ],
       "conflicts": [
@@ -592,18 +592,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "Llameante meditation focus type allowed.",
+          "Llameante meditation focus type allowed. ",
           "Only mental break \"FireStartingSpree\" allowed."
         ]
       },
-      "defName": "Pyromaniac",
-      "name": "pirómano",
+      "defName": "Pyromaniac ",
+      "name": "pirómano ",
       "canAdd": true,
       "canRemove": true,
       "price": 1670,
@@ -611,13 +611,13 @@
       "degree": 0
     },
     {
-      "description": "Regulus es débil y cobarde. Incluso un poco de dolor lo inmovilizará.",
+      "description": "Regulus es débil y cobarde. Incluso un poco de dolor lo inmovilizará. ",
       "stats": [
-        "-60% umbral de dolor",
+        "-60% umbral de dolor ",
         "x200% factor de pérdida de certeza global"
       ],
       "conflicts": [
-        "luchador",
+        "luchador ",
         "masoquista"
       ],
       "bypassLimit": false,
@@ -625,19 +625,19 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "luchador",
+          "luchador ",
           "masoquista"
         ],
         "stats": [
-          "-60% umbral de dolor",
+          "-60% umbral de dolor ",
           "x200% factor de pérdida de certeza global"
         ]
       },
-      "defName": "Wimp",
-      "name": "cobarde",
+      "defName": "Wimp ",
+      "name": "cobarde ",
       "canAdd": true,
       "canRemove": true,
       "price": 2430,
@@ -645,9 +645,9 @@
       "degree": 0
     },
     {
-      "description": "Regulus tiene una remarcable inteligencia cinestésica. él parece bailar alrededor del peligro con una gracia preternatural.",
+      "description": "Regulus tiene una remarcable inteligencia cinestésica. él parece bailar alrededor del peligro con una gracia preternatural. ",
       "stats": [
-        "+15.0 prob. de esquivar golpes CaC.",
+        "+15.0 prob. de esquivar golpes CaC. ",
         "x10% prob. de activación de trampa"
       ],
       "conflicts": [
@@ -658,18 +658,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "+15.0 prob. de esquivar golpes CaC.",
+          "+15.0 prob. de esquivar golpes CaC. ",
           "x10% prob. de activación de trampa"
         ]
       },
-      "defName": "Nimble",
-      "name": "ágil",
+      "defName": "Nimble ",
+      "name": "ágil ",
       "canAdd": true,
       "canRemove": true,
       "price": 3840,
@@ -677,7 +677,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus tiene un don para aprender. él capta las cosas mucho más rápido que otros.",
+      "description": "Regulus tiene un don para aprender. él capta las cosas mucho más rápido que otros. ",
       "stats": [
         "+75% factor de aprendizaje global"
       ],
@@ -689,7 +689,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -698,8 +698,8 @@
           "+75% factor de aprendizaje global"
         ]
       },
-      "defName": "FastLearner",
-      "name": "aprendizrápido",
+      "defName": "FastLearner ",
+      "name": "aprendizrápido ",
       "canAdd": true,
       "canRemove": true,
       "price": 4030,
@@ -707,9 +707,9 @@
       "degree": 0
     },
     {
-      "description": "Regulus es lento en la captación. Aprende mucho más lento que otros.",
+      "description": "Regulus es lento en la captación. Aprende mucho más lento que otros. ",
       "stats": [
-        "-75% factor de aprendizaje global",
+        "-75% factor de aprendizaje global ",
         "x50% factor de pérdida de certeza global"
       ],
       "conflicts": [
@@ -720,18 +720,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "demasiadolisto"
         ],
         "stats": [
-          "-75% factor de aprendizaje global",
+          "-75% factor de aprendizaje global ",
           "x50% factor de pérdida de certeza global"
         ]
       },
-      "defName": "SlowLearner",
-      "name": "aprendizlento",
+      "defName": "SlowLearner ",
+      "name": "aprendizlento ",
       "canAdd": true,
       "canRemove": true,
       "price": 1050,
@@ -739,7 +739,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus no necesita estar al aire libre. él nunca se sentirá encerrado ni tendrá claustrofobia, no importa cuánto tiempo se quede adentro y no le molesta la oscuridad.",
+      "description": "Regulus no necesita estar al aire libre. él nunca se sentirá encerrado ni tendrá claustrofobia, no importa cuánto tiempo se quede adentro y no le molesta la oscuridad. ",
       "stats": [
         "Mórbido meditation focus type allowed."
       ],
@@ -751,7 +751,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -760,8 +760,8 @@
           "Mórbido meditation focus type allowed."
         ]
       },
-      "defName": "Undergrounder",
-      "name": "subterráneo",
+      "defName": "Undergrounder ",
+      "name": "subterráneo ",
       "canAdd": true,
       "canRemove": true,
       "price": 2640,
@@ -769,7 +769,7 @@
       "degree": 0
     },
     {
-      "description": "Se siente limitado en su débil cuerpo humano. A menudo sueña con ser mejorado con partes del cuerpo artificiales.",
+      "description": "Se siente limitado en su débil cuerpo humano. A menudo sueña con ser mejorado con partes del cuerpo artificiales. ",
       "stats": [
 
       ],
@@ -781,7 +781,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "puristacorporal"
@@ -790,8 +790,8 @@
 
         ]
       },
-      "defName": "Transhumanist",
-      "name": "modificadordelcuerpo",
+      "defName": "Transhumanist ",
+      "name": "modificadordelcuerpo ",
       "canAdd": true,
       "canRemove": true,
       "price": 2500,
@@ -799,7 +799,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus cree que el cuerpo humano está limitado por una razón. Para él, las partes artificiales del cuerpo son poco éticas y repugnantes.",
+      "description": "Regulus cree que el cuerpo humano está limitado por una razón. Para él, las partes artificiales del cuerpo son poco éticas y repugnantes. ",
       "stats": [
 
       ],
@@ -811,7 +811,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "modificadordelcuerpo"
@@ -820,8 +820,8 @@
 
         ]
       },
-      "defName": "BodyPurist",
-      "name": "puristacorporal",
+      "defName": "BodyPurist ",
+      "name": "puristacorporal ",
       "canAdd": true,
       "canRemove": true,
       "price": 2740,
@@ -829,7 +829,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus realmente odia y desconfía de los hombres.",
+      "description": "Regulus realmente odia y desconfía de los hombres. ",
       "stats": [
 
       ],
@@ -841,7 +841,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -850,8 +850,8 @@
 
         ]
       },
-      "defName": "DislikesMen",
-      "name": "misándrico",
+      "defName": "DislikesMen ",
+      "name": "misándrico ",
       "canAdd": true,
       "canRemove": true,
       "price": 2000,
@@ -859,7 +859,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus realmente odia y desconfía de las mujeres.",
+      "description": "Regulus realmente odia y desconfía de las mujeres. ",
       "stats": [
 
       ],
@@ -871,7 +871,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -880,8 +880,8 @@
 
         ]
       },
-      "defName": "DislikesWomen",
-      "name": "misógino",
+      "defName": "DislikesWomen ",
+      "name": "misógino ",
       "canAdd": true,
       "canRemove": true,
       "price": 2000,
@@ -889,7 +889,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus tiene una memoria fantástica para los detalles. él perderá habilidades no utilizadas a la mitad del ritmo de otras personas.",
+      "description": "Regulus tiene una memoria fantástica para los detalles. él perderá habilidades no utilizadas a la mitad del ritmo de otras personas. ",
       "stats": [
 
       ],
@@ -901,7 +901,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -910,8 +910,8 @@
 
         ]
       },
-      "defName": "GreatMemory",
-      "name": "granmemoria",
+      "defName": "GreatMemory ",
+      "name": "granmemoria ",
       "canAdd": true,
       "canRemove": true,
       "price": 3500,
@@ -919,7 +919,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus tiene piel gruesa, carne densa y huesos fuertes. él recibe mucho menos daño que otras personas por los mismos golpes. él es extremadamente difícil de matar.",
+      "description": "Regulus tiene piel gruesa, carne densa y huesos fuertes. él recibe mucho menos daño que otras personas por los mismos golpes. él es extremadamente difícil de matar. ",
       "stats": [
         "x50% multiplicador de daño recibido"
       ],
@@ -931,7 +931,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -940,8 +940,8 @@
           "x50% multiplicador de daño recibido"
         ]
       },
-      "defName": "Tough",
-      "name": "resistente",
+      "defName": "Tough ",
+      "name": "resistente ",
       "canAdd": true,
       "canRemove": true,
       "price": 4300,
@@ -949,7 +949,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus se siente alienado e incomprendido por otros seres humanos. él tendrá una constante perdida de humor, pero tendrá una probabilidad del (50%) de obtener una inspiración creativa después de sufrir un colapso mental.",
+      "description": "Regulus se siente alienado e incomprendido por otros seres humanos. él tendrá una constante perdida de humor, pero tendrá una probabilidad del (50%) de obtener una inspiración creativa después de sufrir un colapso mental. ",
       "stats": [
         "Mórbido meditation focus type allowed."
       ],
@@ -961,7 +961,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -970,8 +970,8 @@
           "Mórbido meditation focus type allowed."
         ]
       },
-      "defName": "TorturedArtist",
-      "name": "artistatorturado",
+      "defName": "TorturedArtist ",
+      "name": "artistatorturado ",
       "canAdd": true,
       "canRemove": true,
       "price": 3540,
@@ -979,9 +979,9 @@
       "degree": 0
     },
     {
-      "description": "La vida de Regulus gira en torno a la comida. Le entra hambre rápidamente, y de vez en cuando se ve superado por el impulso de comer vorazmente, incluso cuando no tiene hambre.",
+      "description": "La vida de Regulus gira en torno a la comida. Le entra hambre rápidamente, y de vez en cuando se ve superado por el impulso de comer vorazmente, incluso cuando no tiene hambre. ",
       "stats": [
-        "Only mental break \"Binging_Food\" allowed.",
+        "Only mental break \"Binging_Food\" allowed. ",
         "+4 cocina"
       ],
       "conflicts": [
@@ -992,18 +992,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "austero"
         ],
         "stats": [
-          "Only mental break \"Binging_Food\" allowed.",
+          "Only mental break \"Binging_Food\" allowed. ",
           "+4 cocina"
         ]
       },
-      "defName": "Gourmand",
-      "name": "glotón",
+      "defName": "Gourmand ",
+      "name": "glotón ",
       "canAdd": true,
       "canRemove": true,
       "price": 2840,
@@ -1011,7 +1011,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus no necesita dormir tanto como una persona normal. Si él está durmiendo en una cama o en el suelo, estará completamente descansado en dos tercios del tiempo habitual.",
+      "description": "Regulus no necesita dormir tanto como una persona normal. Si él está durmiendo en una cama o en el suelo, estará completamente descansado en dos tercios del tiempo habitual. ",
       "stats": [
         "+50% multi. de la tasa de reposo"
       ],
@@ -1023,7 +1023,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1032,8 +1032,8 @@
           "+50% multi. de la tasa de reposo"
         ]
       },
-      "defName": "QuickSleeper",
-      "name": "sueñorápido",
+      "defName": "QuickSleeper ",
+      "name": "sueñorápido ",
       "canAdd": true,
       "canRemove": true,
       "price": 3860,
@@ -1041,9 +1041,9 @@
       "degree": 0
     },
     {
-      "description": "Regulus siempre se queda atrás cada vez que viaja en grupo.",
+      "description": "Regulus siempre se queda atrás cada vez que viaja en grupo. ",
       "stats": [
-        "Frenesí de movimiento inspiration disabled.",
+        "Frenesí de movimiento inspiration disabled. ",
         "-0.20 velocidad de movimiento"
       ],
       "conflicts": [
@@ -1054,18 +1054,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "Frenesí de movimiento inspiration disabled.",
+          "Frenesí de movimiento inspiration disabled. ",
           "-0.20 velocidad de movimiento"
         ]
       },
-      "defName": "SpeedOffset",
-      "name": "pausado",
+      "defName": "SpeedOffset ",
+      "name": "pausado ",
       "canAdd": true,
       "canRemove": true,
       "price": 2200,
@@ -1073,7 +1073,7 @@
       "degree": -1
     },
     {
-      "description": "A Regulus le gusta llegar a los sitios rápido. él camina más rápido que el resto de la gente.",
+      "description": "A Regulus le gusta llegar a los sitios rápido. él camina más rápido que el resto de la gente. ",
       "stats": [
         "+0.20 velocidad de movimiento"
       ],
@@ -1085,7 +1085,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1094,8 +1094,8 @@
           "+0.20 velocidad de movimiento"
         ]
       },
-      "defName": "SpeedOffset",
-      "name": "conprisa",
+      "defName": "SpeedOffset ",
+      "name": "conprisa ",
       "canAdd": true,
       "canRemove": true,
       "price": 3500,
@@ -1103,7 +1103,7 @@
       "degree": 1
     },
     {
-      "description": "Regulus siempre se mueve como si tuviera prisa, tan deprisa que normalmente deja atrás a todos los demás.",
+      "description": "Regulus siempre se mueve como si tuviera prisa, tan deprisa que normalmente deja atrás a todos los demás. ",
       "stats": [
         "+0.40 velocidad de movimiento"
       ],
@@ -1115,7 +1115,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1124,8 +1124,8 @@
           "+0.40 velocidad de movimiento"
         ]
       },
-      "defName": "SpeedOffset",
-      "name": "trotador",
+      "defName": "SpeedOffset ",
+      "name": "trotador ",
       "canAdd": true,
       "canRemove": true,
       "price": 3620,
@@ -1133,7 +1133,7 @@
       "degree": 2
     },
     {
-      "description": "Regulus tiene una fascinación intensa por los químicos recreativos. El consumo de drogas recreativas mejorará el humor, mientras que la abstención conducirá a una creciente frustración a lo largo del tiempo y posiblemente a borracheras de drogas. Ignorará las directivas de no usar drogas recreativas, y consumirá más que una persona normal.",
+      "description": "Regulus tiene una fascinación intensa por los químicos recreativos. El consumo de drogas recreativas mejorará el humor, mientras que la abstención conducirá a una creciente frustración a lo largo del tiempo y posiblemente a borracheras de drogas. Ignorará las directivas de no usar drogas recreativas, y consumirá más que una persona normal. ",
       "stats": [
 
       ],
@@ -1145,7 +1145,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1154,8 +1154,8 @@
 
         ]
       },
-      "defName": "DrugDesire",
-      "name": "fascinaciónquímica",
+      "defName": "DrugDesire ",
+      "name": "fascinaciónquímica ",
       "canAdd": true,
       "canRemove": true,
       "price": 2680,
@@ -1163,7 +1163,7 @@
       "degree": 2
     },
     {
-      "description": "Regulus tiene un interés por los químicos recreativos. El consumo de drogas recreativas mejorará el humor, mientras que la abstención conducirá a una creciente frustración a lo largo del tiempo y posiblemente a borracheras de drogas. Ignorará las directivas de no usar drogas recreativas, y consumirá más que una persona normal.",
+      "description": "Regulus tiene un interés por los químicos recreativos. El consumo de drogas recreativas mejorará el humor, mientras que la abstención conducirá a una creciente frustración a lo largo del tiempo y posiblemente a borracheras de drogas. Ignorará las directivas de no usar drogas recreativas, y consumirá más que una persona normal. ",
       "stats": [
 
       ],
@@ -1175,7 +1175,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1184,8 +1184,8 @@
 
         ]
       },
-      "defName": "DrugDesire",
-      "name": "interésquímica",
+      "defName": "DrugDesire ",
+      "name": "interésquímica ",
       "canAdd": true,
       "canRemove": true,
       "price": 2600,
@@ -1193,9 +1193,9 @@
       "degree": 1
     },
     {
-      "description": "Regulus aborrece la idea de consumir cualquier sustancia con fines recreativos y se abstiene de consumir alcohol o drogas.",
+      "description": "Regulus aborrece la idea de consumir cualquier sustancia con fines recreativos y se abstiene de consumir alcohol o drogas. ",
       "stats": [
-        "Euforia por drogas mental state disabled.",
+        "Euforia por drogas mental state disabled. ",
         "Euforia extrema por drogas mental state disabled."
       ],
       "conflicts": [
@@ -1206,18 +1206,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "Euforia por drogas mental state disabled.",
+          "Euforia por drogas mental state disabled. ",
           "Euforia extrema por drogas mental state disabled."
         ]
       },
-      "defName": "DrugDesire",
-      "name": "abstemio",
+      "defName": "DrugDesire ",
+      "name": "abstemio ",
       "canAdd": true,
       "canRemove": true,
       "price": 4030,
@@ -1225,7 +1225,7 @@
       "degree": -1
     },
     {
-      "description": "Regulus considera alentadora cualquier situación, siempre, sin importarle cuál sea.",
+      "description": "Regulus considera alentadora cualquier situación, siempre, sin importarle cuál sea. ",
       "stats": [
 
       ],
@@ -1237,7 +1237,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1246,8 +1246,8 @@
 
         ]
       },
-      "defName": "NaturalMood",
-      "name": "confiado",
+      "defName": "NaturalMood ",
+      "name": "confiado ",
       "canAdd": true,
       "canRemove": true,
       "price": 3500,
@@ -1255,7 +1255,7 @@
       "degree": 2
     },
     {
-      "description": "Regulus tiene una inclinación natural hacia el optimismo. Es difícil entristecerlo.",
+      "description": "Regulus tiene una inclinación natural hacia el optimismo. Es difícil entristecerlo. ",
       "stats": [
 
       ],
@@ -1267,7 +1267,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1276,8 +1276,8 @@
 
         ]
       },
-      "defName": "NaturalMood",
-      "name": "optimista",
+      "defName": "NaturalMood ",
+      "name": "optimista ",
       "canAdd": true,
       "canRemove": true,
       "price": 3600,
@@ -1285,7 +1285,7 @@
       "degree": 1
     },
     {
-      "description": "Regulus suele centrarse en el lado negativo de las cosas.",
+      "description": "Regulus suele centrarse en el lado negativo de las cosas. ",
       "stats": [
 
       ],
@@ -1297,7 +1297,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1306,8 +1306,8 @@
 
         ]
       },
-      "defName": "NaturalMood",
-      "name": "pesimista",
+      "defName": "NaturalMood ",
+      "name": "pesimista ",
       "canAdd": true,
       "canRemove": true,
       "price": 1720,
@@ -1315,7 +1315,7 @@
       "degree": -1
     },
     {
-      "description": "Regulus siempre es infeliz. él tiene problemas para mantenerse de buen humor, incluso cuando todo le va bien.",
+      "description": "Regulus siempre es infeliz. él tiene problemas para mantenerse de buen humor, incluso cuando todo le va bien. ",
       "stats": [
 
       ],
@@ -1327,7 +1327,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1336,8 +1336,8 @@
 
         ]
       },
-      "defName": "NaturalMood",
-      "name": "depresivo",
+      "defName": "NaturalMood ",
+      "name": "depresivo ",
       "canAdd": true,
       "canRemove": true,
       "price": 1500,
@@ -1345,9 +1345,9 @@
       "degree": -2
     },
     {
-      "description": "La determinación de Regulus está protegida por un escudo de hierro. él sigue adelante a pesar de cualquier contratiempo, incluso los que harían rendirse a cualquier otro.",
+      "description": "La determinación de Regulus está protegida por un escudo de hierro. él sigue adelante a pesar de cualquier contratiempo, incluso los que harían rendirse a cualquier otro. ",
       "stats": [
-        "-18% umbral de colapso mental",
+        "-18% umbral de colapso mental ",
         "x25% factor de pérdida de certeza global"
       ],
       "conflicts": [
@@ -1358,18 +1358,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "-18% umbral de colapso mental",
+          "-18% umbral de colapso mental ",
           "x25% factor de pérdida de certeza global"
         ]
       },
-      "defName": "Nerves",
-      "name": "voluntaddehierro",
+      "defName": "Nerves ",
+      "name": "voluntaddehierro ",
       "canAdd": true,
       "canRemove": true,
       "price": 5440,
@@ -1377,9 +1377,9 @@
       "degree": 2
     },
     {
-      "description": "Regulus tiene una estabilidad mental firme, no se quebrará bajo las situaciones de estrés que quebrarían a la mayoría de personas.",
+      "description": "Regulus tiene una estabilidad mental firme, no se quebrará bajo las situaciones de estrés que quebrarían a la mayoría de personas. ",
       "stats": [
-        "-9% umbral de colapso mental",
+        "-9% umbral de colapso mental ",
         "x50% factor de pérdida de certeza global"
       ],
       "conflicts": [
@@ -1390,18 +1390,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "-9% umbral de colapso mental",
+          "-9% umbral de colapso mental ",
           "x50% factor de pérdida de certeza global"
         ]
       },
-      "defName": "Nerves",
-      "name": "resuelto",
+      "defName": "Nerves ",
+      "name": "resuelto ",
       "canAdd": true,
       "canRemove": true,
       "price": 4370,
@@ -1409,9 +1409,9 @@
       "degree": 1
     },
     {
-      "description": "Regulus tiende a flaquear al ser sometido a presión.",
+      "description": "Regulus tiende a flaquear al ser sometido a presión. ",
       "stats": [
-        "+8% umbral de colapso mental",
+        "+8% umbral de colapso mental ",
         "x200% factor de pérdida de certeza global"
       ],
       "conflicts": [
@@ -1422,18 +1422,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "+8% umbral de colapso mental",
+          "+8% umbral de colapso mental ",
           "x200% factor de pérdida de certeza global"
         ]
       },
-      "defName": "Nerves",
-      "name": "nervioso",
+      "defName": "Nerves ",
+      "name": "nervioso ",
       "canAdd": true,
       "canRemove": true,
       "price": 1900,
@@ -1441,9 +1441,9 @@
       "degree": -1
     },
     {
-      "description": "Regulus está continuamente a punto de estallar ante una situación problemática. él es quien primero se quiebra ante una situación difícil.",
+      "description": "Regulus está continuamente a punto de estallar ante una situación problemática. él es quien primero se quiebra ante una situación difícil. ",
       "stats": [
-        "+15% umbral de colapso mental",
+        "+15% umbral de colapso mental ",
         "x300% factor de pérdida de certeza global"
       ],
       "conflicts": [
@@ -1454,18 +1454,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "+15% umbral de colapso mental",
+          "+15% umbral de colapso mental ",
           "x300% factor de pérdida de certeza global"
         ]
       },
-      "defName": "Nerves",
-      "name": "inestable",
+      "defName": "Nerves ",
+      "name": "inestable ",
       "canAdd": true,
       "canRemove": true,
       "price": 1800,
@@ -1473,9 +1473,9 @@
       "degree": -2
     },
     {
-      "description": "A Regulus le gusta que todo esté siempre en su sitio. Trabajará más que la mayoría de las personas para conseguir que las cosas estén como él quiere. Pero en ocasiones, sus nervios lo derrotan.",
+      "description": "A Regulus le gusta que todo esté siempre en su sitio. Trabajará más que la mayoría de las personas para conseguir que las cosas estén como él quiere. Pero en ocasiones, sus nervios lo derrotan. ",
       "stats": [
-        "+20% velocidad de trabajo general",
+        "+20% velocidad de trabajo general ",
         "+8% umbral de colapso mental"
       ],
       "conflicts": [
@@ -1486,18 +1486,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "+20% velocidad de trabajo general",
+          "+20% velocidad de trabajo general ",
           "+8% umbral de colapso mental"
         ]
       },
-      "defName": "Neurotic",
-      "name": "neurótico",
+      "defName": "Neurotic ",
+      "name": "neurótico ",
       "canAdd": true,
       "canRemove": true,
       "price": 3000,
@@ -1505,9 +1505,9 @@
       "degree": 1
     },
     {
-      "description": "Regulus no para de estresarse con todas las cosas que hay por hacer. Trabajará como un animal para que las cosas estén como él quiere. Pero sus nervios pueden facilmente derrotarlo.",
+      "description": "Regulus no para de estresarse con todas las cosas que hay por hacer. Trabajará como un animal para que las cosas estén como él quiere. Pero sus nervios pueden facilmente derrotarlo. ",
       "stats": [
-        "+40% velocidad de trabajo general",
+        "+40% velocidad de trabajo general ",
         "+14% umbral de colapso mental"
       ],
       "conflicts": [
@@ -1518,18 +1518,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "+40% velocidad de trabajo general",
+          "+40% velocidad de trabajo general ",
           "+14% umbral de colapso mental"
         ]
       },
-      "defName": "Neurotic",
-      "name": "muyneurótico",
+      "defName": "Neurotic ",
+      "name": "muyneurótico ",
       "canAdd": true,
       "canRemove": true,
       "price": 3000,
@@ -1537,7 +1537,7 @@
       "degree": 2
     },
     {
-      "description": "A Regulus le parece fácil mantenerse concentrado en el trabajo y hacer las cosas más rápido que a la mayoría.",
+      "description": "A Regulus le parece fácil mantenerse concentrado en el trabajo y hacer las cosas más rápido que a la mayoría. ",
       "stats": [
         "+35% velocidad de trabajo general"
       ],
@@ -1549,7 +1549,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1558,8 +1558,8 @@
           "+35% velocidad de trabajo general"
         ]
       },
-      "defName": "Industriousness",
-      "name": "diligente",
+      "defName": "Industriousness ",
+      "name": "diligente ",
       "canAdd": true,
       "canRemove": true,
       "price": 3940,
@@ -1567,7 +1567,7 @@
       "degree": 2
     },
     {
-      "description": "Regulus es un trabajador nato. Terminará cualquier tarea mucho antes que los demás.",
+      "description": "Regulus es un trabajador nato. Terminará cualquier tarea mucho antes que los demás. ",
       "stats": [
         "+20% velocidad de trabajo general"
       ],
@@ -1579,7 +1579,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1588,8 +1588,8 @@
           "+20% velocidad de trabajo general"
         ]
       },
-      "defName": "Industriousness",
-      "name": "muytrabajador",
+      "defName": "Industriousness ",
+      "name": "muytrabajador ",
       "canAdd": true,
       "canRemove": true,
       "price": 4000,
@@ -1597,7 +1597,7 @@
       "degree": 1
     },
     {
-      "description": "Regulus es un poco flojo.",
+      "description": "Regulus es un poco flojo. ",
       "stats": [
         "-20% velocidad de trabajo general"
       ],
@@ -1609,7 +1609,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1618,8 +1618,8 @@
           "-20% velocidad de trabajo general"
         ]
       },
-      "defName": "Industriousness",
-      "name": "haragán",
+      "defName": "Industriousness ",
+      "name": "haragán ",
       "canAdd": true,
       "canRemove": true,
       "price": 1800,
@@ -1627,7 +1627,7 @@
       "degree": -1
     },
     {
-      "description": "A Regulus le encanta estar sin hacer nada y odia cualquier cosa productiva. Se mueve despacio y rara vez se puede centrar en una sola tarea.",
+      "description": "A Regulus le encanta estar sin hacer nada y odia cualquier cosa productiva. Se mueve despacio y rara vez se puede centrar en una sola tarea. ",
       "stats": [
         "-35% velocidad de trabajo general"
       ],
@@ -1639,7 +1639,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1648,8 +1648,8 @@
           "-35% velocidad de trabajo general"
         ]
       },
-      "defName": "Industriousness",
-      "name": "perezoso",
+      "defName": "Industriousness ",
+      "name": "perezoso ",
       "canAdd": true,
       "canRemove": true,
       "price": 1720,
@@ -1657,7 +1657,7 @@
       "degree": -2
     },
     {
-      "description": "La mente de Regulus podría usarse como un diapasón psíquico. él es extremadamene sensible a fenomenos psíquicos.",
+      "description": "La mente de Regulus podría usarse como un diapasón psíquico. él es extremadamene sensible a fenomenos psíquicos. ",
       "stats": [
         "+80% sensibilidad psíquica"
       ],
@@ -1669,7 +1669,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1678,8 +1678,8 @@
           "+80% sensibilidad psíquica"
         ]
       },
-      "defName": "PsychicSensitivity",
-      "name": "hipersensibilidadpsíquica",
+      "defName": "PsychicSensitivity ",
+      "name": "hipersensibilidadpsíquica ",
       "canAdd": true,
       "canRemove": true,
       "price": 3500,
@@ -1687,7 +1687,7 @@
       "degree": 2
     },
     {
-      "description": "La mente de Regulus es inusualmente sensible a fenómenos psíquicos.",
+      "description": "La mente de Regulus es inusualmente sensible a fenómenos psíquicos. ",
       "stats": [
         "+40% sensibilidad psíquica"
       ],
@@ -1699,7 +1699,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1708,8 +1708,8 @@
           "+40% sensibilidad psíquica"
         ]
       },
-      "defName": "PsychicSensitivity",
-      "name": "sensibilidadpsíquica",
+      "defName": "PsychicSensitivity ",
+      "name": "sensibilidadpsíquica ",
       "canAdd": true,
       "canRemove": true,
       "price": 2730,
@@ -1717,7 +1717,7 @@
       "degree": 1
     },
     {
-      "description": "La mente de Regulus está desafinada psíquicamente en comparación con la mayoría de las personas. Los fenómenos psíquicos no le afectarán tanto como a los demás.",
+      "description": "La mente de Regulus está desafinada psíquicamente en comparación con la mayoría de las personas. Los fenómenos psíquicos no le afectarán tanto como a los demás. ",
       "stats": [
         "-50% sensibilidad psíquica"
       ],
@@ -1729,7 +1729,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1738,8 +1738,8 @@
           "-50% sensibilidad psíquica"
         ]
       },
-      "defName": "PsychicSensitivity",
-      "name": "entumecimientopsíquico",
+      "defName": "PsychicSensitivity ",
+      "name": "entumecimientopsíquico ",
       "canAdd": true,
       "canRemove": true,
       "price": 3500,
@@ -1747,7 +1747,7 @@
       "degree": -1
     },
     {
-      "description": "La mente de Regulus utiliza una frecuencia psíquica diferente a la de los demás. Los fenomenos psíquicos simplemente no le afectan.",
+      "description": "La mente de Regulus utiliza una frecuencia psíquica diferente a la de los demás. Los fenomenos psíquicos simplemente no le afectan. ",
       "stats": [
         "-100% sensibilidad psíquica"
       ],
@@ -1759,7 +1759,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1768,8 +1768,8 @@
           "-100% sensibilidad psíquica"
         ]
       },
-      "defName": "PsychicSensitivity",
-      "name": "sorderapsíquica",
+      "defName": "PsychicSensitivity ",
+      "name": "sorderapsíquica ",
       "canAdd": true,
       "canRemove": true,
       "price": 3440,
@@ -1777,9 +1777,9 @@
       "degree": -2
     },
     {
-      "description": "La puntería de Regulus es excelente, pero él necesita más tiempo para apuntar a su blanco.",
+      "description": "La puntería de Regulus es excelente, pero él necesita más tiempo para apuntar a su blanco. ",
       "stats": [
-        "+25% tiempo para apuntar",
+        "+25% tiempo para apuntar ",
         "+5.0 precisión de disparo"
       ],
       "conflicts": [
@@ -1790,18 +1790,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "luchador"
         ],
         "stats": [
-          "+25% tiempo para apuntar",
+          "+25% tiempo para apuntar ",
           "+5.0 precisión de disparo"
         ]
       },
-      "defName": "ShootingAccuracy",
-      "name": "tiradorcuidadoso",
+      "defName": "ShootingAccuracy ",
+      "name": "tiradorcuidadoso ",
       "canAdd": true,
       "canRemove": true,
       "price": 3420,
@@ -1809,9 +1809,9 @@
       "degree": 1
     },
     {
-      "description": "¡Pum, pum, pum! A Regulus le encanta apretar el gatillo. Dispara mucho más rápido que los demás pero con menos precisión.",
+      "description": "¡Pum, pum, pum! A Regulus le encanta apretar el gatillo. Dispara mucho más rápido que los demás pero con menos precisión. ",
       "stats": [
-        "-50% tiempo para apuntar",
+        "-50% tiempo para apuntar ",
         "-5.0 precisión de disparo"
       ],
       "conflicts": [
@@ -1822,18 +1822,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "luchador"
         ],
         "stats": [
-          "-50% tiempo para apuntar",
+          "-50% tiempo para apuntar ",
           "-5.0 precisión de disparo"
         ]
       },
-      "defName": "ShootingAccuracy",
-      "name": "gatilloalegre",
+      "defName": "ShootingAccuracy ",
+      "name": "gatilloalegre ",
       "canAdd": true,
       "canRemove": true,
       "price": 3500,
@@ -1841,7 +1841,7 @@
       "degree": -1
     },
     {
-      "description": "Regulus es excepcionalmente hermoso, con una estructura facial exótica pero a la vez familiar y una mirada paralizante. La gente se siente atraída a él aunque él ni siquiera haya abierto la boca.",
+      "description": "Regulus es excepcionalmente hermoso, con una estructura facial exótica pero a la vez familiar y una mirada paralizante. La gente se siente atraída a él aunque él ni siquiera haya abierto la boca. ",
       "stats": [
         "+2.0 belleza"
       ],
@@ -1853,7 +1853,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1862,8 +1862,8 @@
           "+2.0 belleza"
         ]
       },
-      "defName": "Beauty",
-      "name": "hermoso",
+      "defName": "Beauty ",
+      "name": "hermoso ",
       "canAdd": true,
       "canRemove": true,
       "price": 4500,
@@ -1871,7 +1871,7 @@
       "degree": 2
     },
     {
-      "description": "Regulus tiene un bello rostro, lo cual predispone a la gente a gustar de él.",
+      "description": "Regulus tiene un bello rostro, lo cual predispone a la gente a gustar de él. ",
       "stats": [
         "+1.0 belleza"
       ],
@@ -1883,7 +1883,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1892,8 +1892,8 @@
           "+1.0 belleza"
         ]
       },
-      "defName": "Beauty",
-      "name": "guapo",
+      "defName": "Beauty ",
+      "name": "guapo ",
       "canAdd": true,
       "canRemove": true,
       "price": 3800,
@@ -1901,7 +1901,7 @@
       "degree": 1
     },
     {
-      "description": "Regulus es algo feo. Esto repele sutilmente a los demás durante las interacciones sociales.",
+      "description": "Regulus es algo feo. Esto repele sutilmente a los demás durante las interacciones sociales. ",
       "stats": [
         "-1.0 belleza"
       ],
@@ -1913,7 +1913,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1922,8 +1922,8 @@
           "-1.0 belleza"
         ]
       },
-      "defName": "Beauty",
-      "name": "feo",
+      "defName": "Beauty ",
+      "name": "feo ",
       "canAdd": true,
       "canRemove": true,
       "price": 1710,
@@ -1931,7 +1931,7 @@
       "degree": -1
     },
     {
-      "description": "Regulus es increíblemente horrible. Su cara parece una mezcla entre un dibujo hecho por un niño poco talentoso, un feto malforme en un jarrón de formaldehído y una pieza de arte moderno. Los demás tienen que hacer un esfuerzo consciente para mirarlo a la cara mientras habla.",
+      "description": "Regulus es increíblemente horrible. Su cara parece una mezcla entre un dibujo hecho por un niño poco talentoso, un feto malforme en un jarrón de formaldehído y una pieza de arte moderno. Los demás tienen que hacer un esfuerzo consciente para mirarlo a la cara mientras habla. ",
       "stats": [
         "-2.0 belleza"
       ],
@@ -1943,7 +1943,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1952,8 +1952,8 @@
           "-2.0 belleza"
         ]
       },
-      "defName": "Beauty",
-      "name": "fealdadextrema",
+      "defName": "Beauty ",
+      "name": "fealdadextrema ",
       "canAdd": true,
       "canRemove": true,
       "price": 800,
@@ -1961,7 +1961,7 @@
       "degree": -2
     },
     {
-      "description": "Regulus tiene un sistema inmunológico naturalmente poderoso. Obtendrá inmunidad mucho más rápido de lo que lo haría una persona normal, y puede sobrevivir a enfermedades que matarían a otros.",
+      "description": "Regulus tiene un sistema inmunológico naturalmente poderoso. Obtendrá inmunidad mucho más rápido de lo que lo haría una persona normal, y puede sobrevivir a enfermedades que matarían a otros. ",
       "stats": [
         "+30% velocidad de inmunización"
       ],
@@ -1973,7 +1973,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1982,8 +1982,8 @@
           "+30% velocidad de inmunización"
         ]
       },
-      "defName": "Immunity",
-      "name": "superimmune",
+      "defName": "Immunity ",
+      "name": "superimmune ",
       "canAdd": true,
       "canRemove": true,
       "price": 7000,
@@ -1991,7 +1991,7 @@
       "degree": 1
     },
     {
-      "description": "Regulus tiene un sistema inmunológico horrible. Se enferma con más frecuencia de lo normal, con frecuencia con enfermedades que nadie en la colonia ha padecido.",
+      "description": "Regulus tiene un sistema inmunológico horrible. Se enferma con más frecuencia de lo normal, con frecuencia con enfermedades que nadie en la colonia ha padecido. ",
       "stats": [
         "+4 medicina"
       ],
@@ -2003,7 +2003,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
+        "mod": "RimWorld ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2012,8 +2012,8 @@
           "+4 medicina"
         ]
       },
-      "defName": "Immunity",
-      "name": "enfermizo",
+      "defName": "Immunity ",
+      "name": "enfermizo ",
       "canAdd": true,
       "canRemove": true,
       "price": 3030,
@@ -2021,7 +2021,7 @@
       "degree": -1
     },
     {
-      "description": "Regulus hates and distrusts xenos. They see them as little more than animals.",
+      "description": "Regulus hates and distrusts xenos. They see them as little more than animals. ",
       "stats": [
 
       ],
@@ -2033,7 +2033,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
+        "mod": "Humanoid Alien Races ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2042,8 +2042,8 @@
 
         ]
       },
-      "defName": "Xenophobia",
-      "name": "xenophobe",
+      "defName": "Xenophobia ",
+      "name": "xenophobe ",
       "canAdd": true,
       "canRemove": true,
       "price": 2550,
@@ -2051,7 +2051,7 @@
       "degree": 1
     },
     {
-      "description": "Regulus thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "description": "Regulus thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them. ",
       "stats": [
 
       ],
@@ -2063,7 +2063,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
+        "mod": "Humanoid Alien Races ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2072,8 +2072,8 @@
 
         ]
       },
-      "defName": "Xenophobia",
-      "name": "xenophile",
+      "defName": "Xenophobia ",
+      "name": "xenophile ",
       "canAdd": true,
       "canRemove": true,
       "price": 2550,
@@ -2081,7 +2081,7 @@
       "degree": -1
     },
     {
-      "description": "Regulus is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Regulus is not capable of doing any work.",
+      "description": "Regulus is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Regulus is not capable of doing any work. ",
       "stats": [
 
       ],
@@ -2093,7 +2093,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Factions Expanded - Pirates",
+        "mod": "Vanilla Factions Expanded - Pirates ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2102,8 +2102,8 @@
 
         ]
       },
-      "defName": "VFEP_WarcasketTrait",
-      "name": "warcasket",
+      "defName": "VFEP_WarcasketTrait ",
+      "name": "warcasket ",
       "canAdd": true,
       "canRemove": true,
       "price": 2222,
@@ -2111,7 +2111,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that Regulus is in constant, agonizing pain and can barely assemble his thoughts. Only installing Regulus back in a warcasket can cure the symptoms.",
+      "description": "Regulus was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that Regulus is in constant, agonizing pain and can barely assemble his thoughts. Only installing Regulus back in a warcasket can cure the symptoms. ",
       "stats": [
 
       ],
@@ -2123,7 +2123,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Factions Expanded - Pirates",
+        "mod": "Vanilla Factions Expanded - Pirates ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2132,8 +2132,8 @@
 
         ]
       },
-      "defName": "VFEP_Shellcasket",
-      "name": "shellcasket",
+      "defName": "VFEP_Shellcasket ",
+      "name": "shellcasket ",
       "canAdd": true,
       "canRemove": true,
       "price": 1320,
@@ -2141,7 +2141,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus disfruta de la soledad y la tranquilidad inherentes de largas sesiones de pesca. él prefiere pescar antes que hacer otras actividades.",
+      "description": "Regulus disfruta de la soledad y la tranquilidad inherentes de largas sesiones de pesca. él prefiere pescar antes que hacer otras actividades. ",
       "stats": [
 
       ],
@@ -2153,7 +2153,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Fishing Expanded",
+        "mod": "Vanilla Fishing Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2162,8 +2162,8 @@
 
         ]
       },
-      "defName": "VCEF_Fisherman",
-      "name": "pescador",
+      "defName": "VCEF_Fisherman ",
+      "name": "pescador ",
       "canAdd": true,
       "canRemove": true,
       "price": 2740,
@@ -2171,7 +2171,7 @@
       "degree": 0
     },
     {
-      "description": "Either the body or mind of Regulus is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
+      "description": "Either the body or mind of Regulus is one of insight and experience. While some find them old fashioned, others will respect their guidance. ",
       "stats": [
 
       ],
@@ -2183,7 +2183,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "mod": "Vanilla Ideology Expanded - Memes and Structures ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2192,8 +2192,8 @@
 
         ]
       },
-      "defName": "VME_Elder",
-      "name": "elder",
+      "defName": "VME_Elder ",
+      "name": "elder ",
       "canAdd": true,
       "canRemove": true,
       "price": 3000,
@@ -2201,7 +2201,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus is an ally who will one day join your faction.",
+      "description": "Regulus is an ally who will one day join your faction. ",
       "stats": [
 
       ],
@@ -2213,7 +2213,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Reunion",
+        "mod": "Reunion ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2222,8 +2222,8 @@
 
         ]
       },
-      "defName": "ReunionCharacter",
-      "name": "(reunion)ally",
+      "defName": "ReunionCharacter ",
+      "name": "(reunion)ally ",
       "canAdd": true,
       "canRemove": true,
       "price": 510,
@@ -2231,9 +2231,9 @@
       "degree": 3
     },
     {
-      "description": "Regulus is a biotic god.",
+      "description": "Regulus is a biotic god. ",
       "stats": [
-        "x50 biotic energy limit",
+        "x50 biotic energy limit ",
         "x50 biotic energy recovery rate"
       ],
       "conflicts": [
@@ -2244,18 +2244,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Rim-Effect: Core",
+        "mod": "Rim-Effect: Core ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "x50 biotic energy limit",
+          "x50 biotic energy limit ",
           "x50 biotic energy recovery rate"
         ]
       },
-      "defName": "RE_BioticGod",
-      "name": "bioticgod",
+      "defName": "RE_BioticGod  ",
+      "name": "bioticgod ",
       "canAdd": true,
       "canRemove": true,
       "price": 4540,
@@ -2263,7 +2263,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus’s biotic capabilities are significantly dampened by past trauma, or simply the lack of predisposition.",
+      "description": "Regulus’s biotic capabilities are significantly dampened by past trauma, or simply the lack of predisposition. ",
       "stats": [
         "-0.8 biotic energy recovery rate"
       ],
@@ -2275,7 +2275,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Rim-Effect: Core",
+        "mod": "Rim-Effect: Core ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2284,8 +2284,8 @@
           "-0.8 biotic energy recovery rate"
         ]
       },
-      "defName": "RE_BioticRecoveryOffset",
-      "name": "bioticallydeaf",
+      "defName": "RE_BioticRecoveryOffset ",
+      "name": "bioticallydeaf ",
       "canAdd": true,
       "canRemove": true,
       "price": 1670,
@@ -2293,7 +2293,7 @@
       "degree": -2
     },
     {
-      "description": "Regulus has not yet unlocked their full biotic potential, and most likely never will.",
+      "description": "Regulus has not yet unlocked their full biotic potential, and most likely never will. ",
       "stats": [
         "-0.5 biotic energy recovery rate"
       ],
@@ -2305,7 +2305,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Rim-Effect: Core",
+        "mod": "Rim-Effect: Core ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2314,8 +2314,8 @@
           "-0.5 biotic energy recovery rate"
         ]
       },
-      "defName": "RE_BioticRecoveryOffset",
-      "name": "bioticallydull",
+      "defName": "RE_BioticRecoveryOffset ",
+      "name": "bioticallydull ",
       "canAdd": true,
       "canRemove": true,
       "price": 1650,
@@ -2323,7 +2323,7 @@
       "degree": -1
     },
     {
-      "description": "Regulus’s biotic skills are greatly above average, allowing them to use the power without any fear of migraines or discomfort.",
+      "description": "Regulus’s biotic skills are greatly above average, allowing them to use the power without any fear of migraines or discomfort. ",
       "stats": [
         "+0.5 biotic energy recovery rate"
       ],
@@ -2335,7 +2335,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Rim-Effect: Core",
+        "mod": "Rim-Effect: Core ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2344,8 +2344,8 @@
           "+0.5 biotic energy recovery rate"
         ]
       },
-      "defName": "RE_BioticRecoveryOffset",
-      "name": "bioticallyskilled",
+      "defName": "RE_BioticRecoveryOffset ",
+      "name": "bioticallyskilled ",
       "canAdd": true,
       "canRemove": true,
       "price": 3010,
@@ -2353,7 +2353,7 @@
       "degree": 1
     },
     {
-      "description": "Regulus’s biotic skills are known far and wide across the galaxy due to their talent and rare predisposition.",
+      "description": "Regulus’s biotic skills are known far and wide across the galaxy due to their talent and rare predisposition. ",
       "stats": [
         "+2 biotic energy recovery rate"
       ],
@@ -2365,7 +2365,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Rim-Effect: Core",
+        "mod": "Rim-Effect: Core ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2374,8 +2374,8 @@
           "+2 biotic energy recovery rate"
         ]
       },
-      "defName": "RE_BioticRecoveryOffset",
-      "name": "bioticallytalented",
+      "defName": "RE_BioticRecoveryOffset ",
+      "name": "bioticallytalented ",
       "canAdd": true,
       "canRemove": true,
       "price": 3030,
@@ -2383,10 +2383,10 @@
       "degree": 2
     },
     {
-      "description": "Regulus is a Demon of the Night Winds.",
+      "description": "Regulus is a Demon of the Night Winds. ",
       "stats": [
-        "x150% biotic energy limit",
-        "x200% biotic energy recovery rate",
+        "x150% biotic energy limit ",
+        "x200% biotic energy recovery rate ",
         "x50% biotic ability cost multiplier"
       ],
       "conflicts": [
@@ -2397,19 +2397,19 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Rim-Effect: Asari and Reapers",
+        "mod": "Rim-Effect: Asari and Reapers ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "x150% biotic energy limit",
-          "x200% biotic energy recovery rate",
+          "x150% biotic energy limit ",
+          "x200% biotic energy recovery rate ",
           "x50% biotic ability cost multiplier"
         ]
       },
-      "defName": "RE_ArdatYakshi",
-      "name": "ardatyakshi",
+      "defName": "RE_ArdatYakshi ",
+      "name": "ardatyakshi ",
       "canAdd": true,
       "canRemove": true,
       "price": 3500,
@@ -2417,15 +2417,15 @@
       "degree": 0
     },
     {
-      "description": "Regulus tends to occasionally allow their mind to drift, even in the middle of working.",
+      "description": "Regulus tends to occasionally allow their mind to drift, even in the middle of working. ",
       "stats": [
 
       ],
       "conflicts": [
-        "workaholic",
-        "diligente",
-        "muytrabajador",
-        "haragán",
+        "workaholic ",
+        "diligente ",
+        "muytrabajador ",
+        "haragán ",
         "perezoso"
       ],
       "bypassLimit": false,
@@ -2433,21 +2433,21 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "workaholic",
-          "diligente",
-          "muytrabajador",
-          "haragán",
+          "workaholic ",
+          "diligente ",
+          "muytrabajador ",
+          "haragán ",
           "perezoso"
         ],
         "stats": [
 
         ]
       },
-      "defName": "VTE_AbsentMinded",
-      "name": "absent-minded",
+      "defName": "VTE_AbsentMinded ",
+      "name": "absent-minded ",
       "canAdd": true,
       "canRemove": true,
       "price": 1510,
@@ -2455,7 +2455,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus has a loose screw or two, a small trade off for being naturally scientifically inclined.",
+      "description": "Regulus has a loose screw or two, a small trade off for being naturally scientifically inclined. ",
       "stats": [
         "x115% velocidad de investigación"
       ],
@@ -2467,7 +2467,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "dunce"
@@ -2476,8 +2476,8 @@
           "x115% velocidad de investigación"
         ]
       },
-      "defName": "VTE_Eccentric",
-      "name": "eccentric",
+      "defName": "VTE_Eccentric ",
+      "name": "eccentric ",
       "canAdd": true,
       "canRemove": true,
       "price": 4370,
@@ -2485,7 +2485,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus strives for perfection in su work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
+      "description": "Regulus strives for perfection in su work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in. ",
       "stats": [
         "x65% velocidad de trabajo general"
       ],
@@ -2497,7 +2497,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2506,8 +2506,8 @@
           "x65% velocidad de trabajo general"
         ]
       },
-      "defName": "VTE_Perfectionist",
-      "name": "perfectionist",
+      "defName": "VTE_Perfectionist ",
+      "name": "perfectionist ",
       "canAdd": true,
       "canRemove": true,
       "price": 3120,
@@ -2515,13 +2515,13 @@
       "degree": 0
     },
     {
-      "description": "While fully capable of warfare in theory, Regulus's fight or flight instincts heavily lean towards flight, and él will try to hide or run as a first priority.",
+      "description": "While fully capable of warfare in theory, Regulus's fight or flight instincts heavily lean towards flight, and él will try to hide or run as a first priority. ",
       "stats": [
 
       ],
       "conflicts": [
-        "luchador",
-        "brave",
+        "luchador ",
+        "brave ",
         "sanguinario"
       ],
       "bypassLimit": false,
@@ -2529,19 +2529,19 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "luchador",
-          "brave",
+          "luchador ",
+          "brave ",
           "sanguinario"
         ],
         "stats": [
 
         ]
       },
-      "defName": "VTE_Coward",
-      "name": "coward",
+      "defName": "VTE_Coward ",
+      "name": "coward ",
       "canAdd": true,
       "canRemove": true,
       "price": 2600,
@@ -2549,13 +2549,13 @@
       "degree": 0
     },
     {
-      "description": "Regulus has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
+      "description": "Regulus has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds. ",
       "stats": [
-        "-20% umbral de colapso mental",
+        "-20% umbral de colapso mental ",
         "+20% umbral de dolor"
       ],
       "conflicts": [
-        "cobarde",
+        "cobarde ",
         "coward"
       ],
       "bypassLimit": false,
@@ -2563,19 +2563,19 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "cobarde",
+          "cobarde ",
           "coward"
         ],
         "stats": [
-          "-20% umbral de colapso mental",
+          "-20% umbral de colapso mental ",
           "+20% umbral de dolor"
         ]
       },
-      "defName": "VTE_Brave",
-      "name": "brave",
+      "defName": "VTE_Brave ",
+      "name": "brave ",
       "canAdd": true,
       "canRemove": true,
       "price": 3510,
@@ -2583,7 +2583,7 @@
       "degree": 0
     },
     {
-      "description": "Minor bruises and scrapes plague Regulus all too often, mostly due to uncoordinated tripping or falling.",
+      "description": "Minor bruises and scrapes plague Regulus all too often, mostly due to uncoordinated tripping or falling. ",
       "stats": [
 
       ],
@@ -2595,7 +2595,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "ágil"
@@ -2604,8 +2604,8 @@
 
         ]
       },
-      "defName": "VTE_Clumsy",
-      "name": "clumsy",
+      "defName": "VTE_Clumsy ",
+      "name": "clumsy ",
       "canAdd": true,
       "canRemove": true,
       "price": 3530,
@@ -2613,7 +2613,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
+      "description": "Regulus loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either. ",
       "stats": [
         "+10.0C temperatura máxima agradable"
       ],
@@ -2625,7 +2625,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "coldinclined"
@@ -2634,8 +2634,8 @@
           "+10.0C temperatura máxima agradable"
         ]
       },
-      "defName": "VTE_HeatInclined",
-      "name": "heatinclined",
+      "defName": "VTE_HeatInclined ",
+      "name": "heatinclined ",
       "canAdd": true,
       "canRemove": true,
       "price": 3500,
@@ -2643,7 +2643,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
+      "description": "Regulus loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either. ",
       "stats": [
         "-10.0C temperatura mínima agradable"
       ],
@@ -2655,7 +2655,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "heatinclined"
@@ -2664,8 +2664,8 @@
           "-10.0C temperatura mínima agradable"
         ]
       },
-      "defName": "VTE_ColdInclined",
-      "name": "coldinclined",
+      "defName": "VTE_ColdInclined ",
+      "name": "coldinclined ",
       "canAdd": true,
       "canRemove": true,
       "price": 3510,
@@ -2673,7 +2673,7 @@
       "degree": 0
     },
     {
-      "description": "A bomb could go off next to Regulus while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
+      "description": "A bomb could go off next to Regulus while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either. ",
       "stats": [
 
       ],
@@ -2685,7 +2685,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2694,8 +2694,8 @@
 
         ]
       },
-      "defName": "VTE_HeavySleeper",
-      "name": "heavysleeper",
+      "defName": "VTE_HeavySleeper ",
+      "name": "heavysleeper ",
       "canAdd": true,
       "canRemove": true,
       "price": 3070,
@@ -2703,7 +2703,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
+      "description": "Regulus is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning. ",
       "stats": [
 
       ],
@@ -2715,7 +2715,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "slob"
@@ -2724,8 +2724,8 @@
 
         ]
       },
-      "defName": "VTE_Neat",
-      "name": "neat",
+      "defName": "VTE_Neat ",
+      "name": "neat ",
       "canAdd": true,
       "canRemove": true,
       "price": 3500,
@@ -2733,7 +2733,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
+      "description": "Regulus is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes. ",
       "stats": [
 
       ],
@@ -2745,7 +2745,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "neat"
@@ -2754,8 +2754,8 @@
 
         ]
       },
-      "defName": "VTE_Slob",
-      "name": "slob",
+      "defName": "VTE_Slob ",
+      "name": "slob ",
       "canAdd": true,
       "canRemove": true,
       "price": 1670,
@@ -2763,15 +2763,15 @@
       "degree": 0
     },
     {
-      "description": "Regulus has problems taking breaks or resting mid job. él will continue to work even sacrificing their health or sleep.",
+      "description": "Regulus has problems taking breaks or resting mid job. él will continue to work even sacrificing their health or sleep. ",
       "stats": [
 
       ],
       "conflicts": [
-        "absent-minded",
-        "diligente",
-        "muytrabajador",
-        "haragán",
+        "absent-minded ",
+        "diligente ",
+        "muytrabajador ",
+        "haragán ",
         "perezoso"
       ],
       "bypassLimit": false,
@@ -2779,21 +2779,21 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "absent-minded",
-          "diligente",
-          "muytrabajador",
-          "haragán",
+          "absent-minded ",
+          "diligente ",
+          "muytrabajador ",
+          "haragán ",
           "perezoso"
         ],
         "stats": [
 
         ]
       },
-      "defName": "VTE_Workaholic",
-      "name": "workaholic",
+      "defName": "VTE_Workaholic ",
+      "name": "workaholic ",
       "canAdd": true,
       "canRemove": true,
       "price": 4770,
@@ -2801,7 +2801,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus has never felt nausea in su life. Throwing up or food poisoning is foreign to lo.",
+      "description": "Regulus has never felt nausea in su life. Throwing up or food poisoning is foreign to lo. ",
       "stats": [
 
       ],
@@ -2813,7 +2813,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "squeamish"
@@ -2822,8 +2822,8 @@
 
         ]
       },
-      "defName": "VTE_IronStomach",
-      "name": "ironstomach",
+      "defName": "VTE_IronStomach ",
+      "name": "ironstomach ",
       "canAdd": true,
       "canRemove": true,
       "price": 3500,
@@ -2831,7 +2831,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus can't stand mistreatment of animals. él will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
+      "description": "Regulus can't stand mistreatment of animals. él will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher. ",
       "stats": [
 
       ],
@@ -2843,7 +2843,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "animalhater"
@@ -2852,8 +2852,8 @@
 
         ]
       },
-      "defName": "VTE_AnimalLover",
-      "name": "animallover",
+      "defName": "VTE_AnimalLover ",
+      "name": "animallover ",
       "canAdd": true,
       "canRemove": true,
       "price": 1520,
@@ -2861,12 +2861,12 @@
       "degree": 0
     },
     {
-      "description": "Regulus believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
+      "description": "Regulus believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them. ",
       "stats": [
 
       ],
       "conflicts": [
-        "animallover",
+        "animallover ",
         "menagerist"
       ],
       "bypassLimit": false,
@@ -2874,18 +2874,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "animallover",
+          "animallover ",
           "menagerist"
         ],
         "stats": [
 
         ]
       },
-      "defName": "VTE_AnimalHater",
-      "name": "animalhater",
+      "defName": "VTE_AnimalHater ",
+      "name": "animalhater ",
       "canAdd": true,
       "canRemove": true,
       "price": 1550,
@@ -2893,7 +2893,7 @@
       "degree": 0
     },
     {
-      "description": "Whether because they're a bit chunky or because they shift their weight oddly, Regulus has broken a few chairs in their time and is likely to break more.",
+      "description": "Whether because they're a bit chunky or because they shift their weight oddly, Regulus has broken a few chairs in their time and is likely to break more. ",
       "stats": [
 
       ],
@@ -2905,7 +2905,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2914,8 +2914,8 @@
 
         ]
       },
-      "defName": "VTE_BigBoned",
-      "name": "big-boned",
+      "defName": "VTE_BigBoned ",
+      "name": "big-boned ",
       "canAdd": true,
       "canRemove": true,
       "price": 2240,
@@ -2923,7 +2923,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
+      "description": "Regulus only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do. ",
       "stats": [
 
       ],
@@ -2935,7 +2935,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "submissive"
@@ -2944,8 +2944,8 @@
 
         ]
       },
-      "defName": "VTE_Rebel",
-      "name": "rebel",
+      "defName": "VTE_Rebel ",
+      "name": "rebel ",
       "canAdd": true,
       "canRemove": true,
       "price": 2530,
@@ -2953,7 +2953,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
+      "description": "Regulus needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something. ",
       "stats": [
 
       ],
@@ -2965,7 +2965,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "rebel"
@@ -2974,8 +2974,8 @@
 
         ]
       },
-      "defName": "VTE_Submissive",
-      "name": "submissive",
+      "defName": "VTE_Submissive ",
+      "name": "submissive ",
       "canAdd": true,
       "canRemove": true,
       "price": 2000,
@@ -2983,7 +2983,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
+      "description": "Regulus is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending. ",
       "stats": [
 
       ],
@@ -2995,7 +2995,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "amable"
@@ -3004,8 +3004,8 @@
 
         ]
       },
-      "defName": "VTE_Vengeful",
-      "name": "vengeful",
+      "defName": "VTE_Vengeful ",
+      "name": "vengeful ",
       "canAdd": true,
       "canRemove": true,
       "price": 2460,
@@ -3013,7 +3013,7 @@
       "degree": 0
     },
     {
-      "description": "Whether by past trauma or fear of change, Regulus rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.",
+      "description": "Whether by past trauma or fear of change, Regulus rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids. ",
       "stats": [
         "Only mental break \"VTE_TechnophobeTantrum\" allowed."
       ],
@@ -3025,7 +3025,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "modificadordelcuerpo"
@@ -3034,8 +3034,8 @@
           "Only mental break \"VTE_TechnophobeTantrum\" allowed."
         ]
       },
-      "defName": "VTE_Technophobe",
-      "name": "technophobe",
+      "defName": "VTE_Technophobe ",
+      "name": "technophobe ",
       "canAdd": true,
       "canRemove": true,
       "price": 1950,
@@ -3043,7 +3043,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
+      "description": "Regulus always recalls the good times and lives to party, any party attended will be remembered for many times longer than most. ",
       "stats": [
 
       ],
@@ -3055,7 +3055,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "anxious"
@@ -3064,8 +3064,8 @@
 
         ]
       },
-      "defName": "VTE_FunLoving",
-      "name": "fun-loving",
+      "defName": "VTE_FunLoving ",
+      "name": "fun-loving ",
       "canAdd": true,
       "canRemove": true,
       "price": 3060,
@@ -3073,15 +3073,15 @@
       "degree": 0
     },
     {
-      "description": "Regulus has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
+      "description": "Regulus has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally. ",
       "stats": [
-        "-50% factor de aprendizaje global",
+        "-50% factor de aprendizaje global ",
         "-50.00% impacto social"
       ],
       "conflicts": [
-        "aprendizrápido",
-        "demasiadolisto",
-        "eccentric",
+        "aprendizrápido ",
+        "demasiadolisto ",
+        "eccentric ",
         "prodigy"
       ],
       "bypassLimit": false,
@@ -3089,21 +3089,21 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "aprendizrápido",
-          "demasiadolisto",
-          "eccentric",
+          "aprendizrápido ",
+          "demasiadolisto ",
+          "eccentric ",
           "prodigy"
         ],
         "stats": [
-          "-50% factor de aprendizaje global",
+          "-50% factor de aprendizaje global ",
           "-50.00% impacto social"
         ]
       },
-      "defName": "VTE_Dunce",
-      "name": "dunce",
+      "defName": "VTE_Dunce ",
+      "name": "dunce ",
       "canAdd": true,
       "canRemove": true,
       "price": 3540,
@@ -3111,7 +3111,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
+      "description": "Regulus learned a specific move in melee combat which allows them to disarm opponents and will use it frequently. ",
       "stats": [
 
       ],
@@ -3123,7 +3123,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -3132,8 +3132,8 @@
 
         ]
       },
-      "defName": "VTE_MartialArtist",
-      "name": "martialartist",
+      "defName": "VTE_MartialArtist ",
+      "name": "martialartist ",
       "canAdd": true,
       "canRemove": true,
       "price": 3500,
@@ -3141,7 +3141,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",
+      "description": "Regulus believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty. ",
       "stats": [
 
       ],
@@ -3153,7 +3153,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "austero"
@@ -3162,8 +3162,8 @@
 
         ]
       },
-      "defName": "VTE_Snob",
-      "name": "snob",
+      "defName": "VTE_Snob ",
+      "name": "snob ",
       "canAdd": true,
       "canRemove": true,
       "price": 2940,
@@ -3171,12 +3171,12 @@
       "degree": 0
     },
     {
-      "description": "Sour stomach plagues Regulus any time they're around too much blood or rotting corpses. Vomiting is just part of life for lo.",
+      "description": "Sour stomach plagues Regulus any time they're around too much blood or rotting corpses. Vomiting is just part of life for lo. ",
       "stats": [
 
       ],
       "conflicts": [
-        "ironstomach",
+        "ironstomach ",
         "desensitized"
       ],
       "bypassLimit": false,
@@ -3184,18 +3184,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "ironstomach",
+          "ironstomach ",
           "desensitized"
         ],
         "stats": [
 
         ]
       },
-      "defName": "VTE_Squeamish",
-      "name": "squeamish",
+      "defName": "VTE_Squeamish ",
+      "name": "squeamish ",
       "canAdd": true,
       "canRemove": true,
       "price": 1950,
@@ -3203,7 +3203,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
+      "description": "Regulus feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe. ",
       "stats": [
         "Only mental break \"VTE_PanicFreezing\" allowed."
       ],
@@ -3215,7 +3215,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "fun-loving"
@@ -3224,8 +3224,8 @@
           "Only mental break \"VTE_PanicFreezing\" allowed."
         ]
       },
-      "defName": "VTE_Anxious",
-      "name": "anxious",
+      "defName": "VTE_Anxious ",
+      "name": "anxious ",
       "canAdd": true,
       "canRemove": true,
       "price": 2340,
@@ -3233,13 +3233,13 @@
       "degree": 0
     },
     {
-      "description": "No amount of lovin' is enough lovin' for Regulus. él will tend to jump from partner to partner and tumble between the sheets with them frequently.",
+      "description": "No amount of lovin' is enough lovin' for Regulus. él will tend to jump from partner to partner and tumble between the sheets with them frequently. ",
       "stats": [
 
       ],
       "conflicts": [
-        "prude",
-        "asexual",
+        "prude ",
+        "asexual ",
         "nudista"
       ],
       "bypassLimit": false,
@@ -3247,19 +3247,19 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "prude",
-          "asexual",
+          "prude ",
+          "asexual ",
           "nudista"
         ],
         "stats": [
 
         ]
       },
-      "defName": "VTE_Insatiable",
-      "name": "insatiable",
+      "defName": "VTE_Insatiable ",
+      "name": "insatiable ",
       "canAdd": true,
       "canRemove": true,
       "price": 2500,
@@ -3267,12 +3267,12 @@
       "degree": 0
     },
     {
-      "description": "Regulus refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
+      "description": "Regulus refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns. ",
       "stats": [
 
       ],
       "conflicts": [
-        "insatiable",
+        "insatiable ",
         "nudista"
       ],
       "bypassLimit": false,
@@ -3280,18 +3280,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "insatiable",
+          "insatiable ",
           "nudista"
         ],
         "stats": [
 
         ]
       },
-      "defName": "VTE_Prude",
-      "name": "prude",
+      "defName": "VTE_Prude ",
+      "name": "prude ",
       "canAdd": true,
       "canRemove": true,
       "price": 2800,
@@ -3299,7 +3299,7 @@
       "degree": 0
     },
     {
-      "description": "An armchair and flatscreen is all Regulus needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
+      "description": "An armchair and flatscreen is all Regulus needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so. ",
       "stats": [
 
       ],
@@ -3311,7 +3311,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -3320,8 +3320,8 @@
 
         ]
       },
-      "defName": "VTE_CouchPotato",
-      "name": "couchpotato",
+      "defName": "VTE_CouchPotato ",
+      "name": "couchpotato ",
       "canAdd": true,
       "canRemove": true,
       "price": 2000,
@@ -3329,7 +3329,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
+      "description": "Regulus is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs. ",
       "stats": [
 
       ],
@@ -3341,7 +3341,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "dogperson"
@@ -3350,8 +3350,8 @@
 
         ]
       },
-      "defName": "VTE_CatPerson",
-      "name": "catperson",
+      "defName": "VTE_CatPerson ",
+      "name": "catperson ",
       "canAdd": true,
       "canRemove": true,
       "price": 1510,
@@ -3359,7 +3359,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
+      "description": "Regulus is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats. ",
       "stats": [
 
       ],
@@ -3371,7 +3371,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "catperson"
@@ -3380,8 +3380,8 @@
 
         ]
       },
-      "defName": "VTE_DogPerson",
-      "name": "dogperson",
+      "defName": "VTE_DogPerson ",
+      "name": "dogperson ",
       "canAdd": true,
       "canRemove": true,
       "price": 1500,
@@ -3389,9 +3389,9 @@
       "degree": 0
     },
     {
-      "description": "Regulus is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.",
+      "description": "Regulus is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently. ",
       "stats": [
-        "+20% umbral de colapso mental",
+        "+20% umbral de colapso mental ",
         "x130% velocidad de investigación"
       ],
       "conflicts": [
@@ -3402,18 +3402,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "dunce"
         ],
         "stats": [
-          "+20% umbral de colapso mental",
+          "+20% umbral de colapso mental ",
           "x130% velocidad de investigación"
         ]
       },
-      "defName": "VTE_Prodigy",
-      "name": "prodigy",
+      "defName": "VTE_Prodigy ",
+      "name": "prodigy ",
       "canAdd": true,
       "canRemove": true,
       "price": 3740,
@@ -3421,9 +3421,9 @@
       "degree": 0
     },
     {
-      "description": "Regulus believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.",
+      "description": "Regulus believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them. ",
       "stats": [
-        "x120% prob. de domesticación animal",
+        "x120% prob. de domesticación animal ",
         "x120% probabilidad de entrenamiento"
       ],
       "conflicts": [
@@ -3434,18 +3434,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "animalhater"
         ],
         "stats": [
-          "x120% prob. de domesticación animal",
+          "x120% prob. de domesticación animal ",
           "x120% probabilidad de entrenamiento"
         ]
       },
-      "defName": "VTE_Menagerist",
-      "name": "menagerist",
+      "defName": "VTE_Menagerist ",
+      "name": "menagerist ",
       "canAdd": true,
       "canRemove": true,
       "price": 4500,
@@ -3453,7 +3453,7 @@
       "degree": 0
     },
     {
-      "description": "The sea calls to Regulus. él feels happier just being near the ocean or a deep river.",
+      "description": "The sea calls to Regulus. él feels happier just being near the ocean or a deep river. ",
       "stats": [
 
       ],
@@ -3465,7 +3465,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -3474,8 +3474,8 @@
 
         ]
       },
-      "defName": "VTE_ChildOfSea",
-      "name": "oceanlover",
+      "defName": "VTE_ChildOfSea ",
+      "name": "oceanlover ",
       "canAdd": true,
       "canRemove": true,
       "price": 1500,
@@ -3483,7 +3483,7 @@
       "degree": 0
     },
     {
-      "description": "The mountains call to Regulus. él feels happier just being near a large mountain.",
+      "description": "The mountains call to Regulus. él feels happier just being near a large mountain. ",
       "stats": [
 
       ],
@@ -3495,7 +3495,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -3504,8 +3504,8 @@
 
         ]
       },
-      "defName": "VTE_ChildOfMountain",
-      "name": "mountainlover",
+      "defName": "VTE_ChildOfMountain ",
+      "name": "mountainlover ",
       "canAdd": true,
       "canRemove": true,
       "price": 1800,
@@ -3513,7 +3513,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus has a twisted secret. él treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
+      "description": "Regulus has a twisted secret. él treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them. ",
       "stats": [
         "+20% factor de éxito de la cirugía"
       ],
@@ -3525,7 +3525,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -3534,8 +3534,8 @@
           "+20% factor de éxito de la cirugía"
         ]
       },
-      "defName": "VTE_MadSurgeon",
-      "name": "madsurgeon",
+      "defName": "VTE_MadSurgeon ",
+      "name": "madsurgeon ",
       "canAdd": true,
       "canRemove": true,
       "price": 3500,
@@ -3543,7 +3543,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.",
+      "description": "Regulus is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are. ",
       "stats": [
         "+4 cuerpo a cuerpo"
       ],
@@ -3555,7 +3555,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -3564,8 +3564,8 @@
           "+4 cuerpo a cuerpo"
         ]
       },
-      "defName": "VTE_DrunkenMaster",
-      "name": "drunkenmaster",
+      "defName": "VTE_DrunkenMaster ",
+      "name": "drunkenmaster ",
       "canAdd": true,
       "canRemove": true,
       "price": 2600,
@@ -3573,7 +3573,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
+      "description": "Regulus is compulsed to steal and take things that don't belong to them, even if it means angering the other party. ",
       "stats": [
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
@@ -3585,7 +3585,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -3594,8 +3594,8 @@
           "Only mental break \"VTE_Kleptomaniac\" allowed."
         ]
       },
-      "defName": "VTE_Kleptomaniac",
-      "name": "kleptomaniac",
+      "defName": "VTE_Kleptomaniac ",
+      "name": "kleptomaniac ",
       "canAdd": true,
       "canRemove": true,
       "price": 2500,
@@ -3603,14 +3603,14 @@
       "degree": 0
     },
     {
-      "description": "Smokeleaf culture is just part of life for Regulus. él absolutely adores smokeleaf and would rather die before giving it up.",
+      "description": "Smokeleaf culture is just part of life for Regulus. él absolutely adores smokeleaf and would rather die before giving it up. ",
       "stats": [
 
       ],
       "conflicts": [
-        "fascinaciónquímica",
-        "interésquímica",
-        "abstemio",
+        "fascinaciónquímica ",
+        "interésquímica ",
+        "abstemio ",
         "lush"
       ],
       "bypassLimit": false,
@@ -3618,20 +3618,20 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "fascinaciónquímica",
-          "interésquímica",
-          "abstemio",
+          "fascinaciónquímica ",
+          "interésquímica ",
+          "abstemio ",
           "lush"
         ],
         "stats": [
 
         ]
       },
-      "defName": "VTE_Stoner",
-      "name": "stoner",
+      "defName": "VTE_Stoner ",
+      "name": "stoner ",
       "canAdd": true,
       "canRemove": true,
       "price": 2300,
@@ -3639,14 +3639,14 @@
       "degree": 0
     },
     {
-      "description": "Alcohol culture is just part of life for Regulus. él absolutely adores booze and would rather die before giving it up.",
+      "description": "Alcohol culture is just part of life for Regulus. él absolutely adores booze and would rather die before giving it up. ",
       "stats": [
 
       ],
       "conflicts": [
-        "fascinaciónquímica",
-        "interésquímica",
-        "abstemio",
+        "fascinaciónquímica ",
+        "interésquímica ",
+        "abstemio ",
         "lush"
       ],
       "bypassLimit": false,
@@ -3654,20 +3654,20 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "fascinaciónquímica",
-          "interésquímica",
-          "abstemio",
+          "fascinaciónquímica ",
+          "interésquímica ",
+          "abstemio ",
           "lush"
         ],
         "stats": [
 
         ]
       },
-      "defName": "VTE_Lush",
-      "name": "lush",
+      "defName": "VTE_Lush ",
+      "name": "lush ",
       "canAdd": true,
       "canRemove": true,
       "price": 2400,
@@ -3675,7 +3675,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.",
+      "description": "Regulus loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling. ",
       "stats": [
         "+0.2 cantidad de comida forrajeada"
       ],
@@ -3687,7 +3687,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -3696,8 +3696,8 @@
           "+0.2 cantidad de comida forrajeada"
         ]
       },
-      "defName": "VTE_Wanderlust",
-      "name": "wanderlust",
+      "defName": "VTE_Wanderlust ",
+      "name": "wanderlust ",
       "canAdd": true,
       "canRemove": true,
       "price": 3600,
@@ -3705,9 +3705,9 @@
       "degree": 0
     },
     {
-      "description": "Regulus is never really asleep or awake. él is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
+      "description": "Regulus is never really asleep or awake. él is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so. ",
       "stats": [
-        "x50% velocidad de trabajo general",
+        "x50% velocidad de trabajo general ",
         "x70% velocidad de movimiento"
       ],
       "conflicts": [
@@ -3718,18 +3718,18 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "heavysleeper"
         ],
         "stats": [
-          "x50% velocidad de trabajo general",
+          "x50% velocidad de trabajo general ",
           "x70% velocidad de movimiento"
         ]
       },
-      "defName": "VTE_Insomniac",
-      "name": "insomniac",
+      "defName": "VTE_Insomniac ",
+      "name": "insomniac ",
       "canAdd": true,
       "canRemove": true,
       "price": 3500,
@@ -3737,7 +3737,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus has grown tired of the world and needs to be constantly distracted to stop dark thoughts. su bleak personality is a big downer and therefore it is very hard to become friends with them.",
+      "description": "Regulus has grown tired of the world and needs to be constantly distracted to stop dark thoughts. su bleak personality is a big downer and therefore it is very hard to become friends with them. ",
       "stats": [
 
       ],
@@ -3749,7 +3749,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -3758,8 +3758,8 @@
 
         ]
       },
-      "defName": "VTE_WorldWeary",
-      "name": "worldweary",
+      "defName": "VTE_WorldWeary ",
+      "name": "worldweary ",
       "canAdd": true,
       "canRemove": true,
       "price": 2530,
@@ -3767,7 +3767,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
+      "description": "Regulus is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies. ",
       "stats": [
 
       ],
@@ -3779,7 +3779,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "squeamish"
@@ -3788,8 +3788,8 @@
 
         ]
       },
-      "defName": "VTE_Desensitized",
-      "name": "desensitized",
+      "defName": "VTE_Desensitized ",
+      "name": "desensitized ",
       "canAdd": true,
       "canRemove": true,
       "price": 3530,
@@ -3797,7 +3797,7 @@
       "degree": 0
     },
     {
-      "description": "Only the finest of culinary creations may grace the lips of Regulus. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.",
+      "description": "Only the finest of culinary creations may grace the lips of Regulus. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite. ",
       "stats": [
         "x70% velocidad de alimentación"
       ],
@@ -3809,7 +3809,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "austero"
@@ -3818,8 +3818,8 @@
           "x70% velocidad de alimentación"
         ]
       },
-      "defName": "VTE_RefinedPalate",
-      "name": "refinedpalate",
+      "defName": "VTE_RefinedPalate ",
+      "name": "refinedpalate ",
       "canAdd": true,
       "canRemove": true,
       "price": 2980,
@@ -3827,10 +3827,10 @@
       "degree": 0
     },
     {
-      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Regulus is surprisingly well read on a variety of topics, particularly science and medical practice.",
+      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Regulus is surprisingly well read on a variety of topics, particularly science and medical practice. ",
       "stats": [
-        "+4 intelectual",
-        "+4 medicina",
+        "+4 intelectual ",
+        "+4 medicina ",
         "+20% calidad del trat. médico"
       ],
       "conflicts": [
@@ -3841,19 +3841,19 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "+4 intelectual",
-          "+4 medicina",
+          "+4 intelectual ",
+          "+4 medicina ",
           "+20% calidad del trat. médico"
         ]
       },
-      "defName": "VTE_Academian",
-      "name": "academian",
+      "defName": "VTE_Academian ",
+      "name": "academian ",
       "canAdd": true,
       "canRemove": true,
       "price": 5530,
@@ -3861,11 +3861,11 @@
       "degree": 0
     },
     {
-      "description": "Regulus strongly believes infrastucture rules all and is a natural born stoneworker.",
+      "description": "Regulus strongly believes infrastucture rules all and is a natural born stoneworker. ",
       "stats": [
-        "+4 minería",
-        "+4 construcción",
-        "+20% rendimiento minero",
+        "+4 minería ",
+        "+4 construcción ",
+        "+20% rendimiento minero ",
         "+20% velocidad de construcción"
       ],
       "conflicts": [
@@ -3876,20 +3876,20 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "+4 minería",
-          "+4 construcción",
-          "+20% rendimiento minero",
+          "+4 minería ",
+          "+4 construcción ",
+          "+20% rendimiento minero ",
           "+20% velocidad de construcción"
         ]
       },
-      "defName": "VTE_Groundbreaker",
-      "name": "groundbreaker",
+      "defName": "VTE_Groundbreaker ",
+      "name": "groundbreaker ",
       "canAdd": true,
       "canRemove": true,
       "price": 6500,
@@ -3897,10 +3897,10 @@
       "degree": 0
     },
     {
-      "description": "In the eyes of Regulus food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.",
+      "description": "In the eyes of Regulus food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat. ",
       "stats": [
-        "+4 cocina",
-        "+4 arte",
+        "+4 cocina ",
+        "+4 arte ",
         "-25.00% prob. intoxicación alimentaria"
       ],
       "conflicts": [
@@ -3911,19 +3911,19 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "+4 cocina",
-          "+4 arte",
+          "+4 cocina ",
+          "+4 arte ",
           "-25.00% prob. intoxicación alimentaria"
         ]
       },
-      "defName": "VTE_Gastronomist",
-      "name": "gastronomist",
+      "defName": "VTE_Gastronomist ",
+      "name": "gastronomist ",
       "canAdd": true,
       "canRemove": true,
       "price": 4800,
@@ -3931,11 +3931,11 @@
       "degree": 0
     },
     {
-      "description": "Flora and fauna are both vital to Regulus. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.",
+      "description": "Flora and fauna are both vital to Regulus. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings. ",
       "stats": [
-        "+4 animales",
-        "+4 agricultura",
-        "+20% ren. de la cosecha vegetal",
+        "+4 animales ",
+        "+4 agricultura ",
+        "+20% ren. de la cosecha vegetal ",
         "+20% eficiencia del despieze"
       ],
       "conflicts": [
@@ -3946,20 +3946,20 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "+4 animales",
-          "+4 agricultura",
-          "+20% ren. de la cosecha vegetal",
+          "+4 animales ",
+          "+4 agricultura ",
+          "+20% ren. de la cosecha vegetal ",
           "+20% eficiencia del despieze"
         ]
       },
-      "defName": "VTE_Ecologist",
-      "name": "ecologist",
+      "defName": "VTE_Ecologist ",
+      "name": "ecologist ",
       "canAdd": true,
       "canRemove": true,
       "price": 5030,
@@ -3967,10 +3967,10 @@
       "degree": 0
     },
     {
-      "description": "Regulus has an eye for silver and a tongue made from it. They believe their products are the best products and él will likely convince you if given the chance.",
+      "description": "Regulus has an eye for silver and a tongue made from it. They believe their products are the best products and él will likely convince you if given the chance. ",
       "stats": [
-        "+4 socialización",
-        "+4 fabricación",
+        "+4 socialización ",
+        "+4 fabricación ",
         "+25.00% mejora de regateo"
       ],
       "conflicts": [
@@ -3981,19 +3981,19 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "+4 socialización",
-          "+4 fabricación",
+          "+4 socialización ",
+          "+4 fabricación ",
           "+25.00% mejora de regateo"
         ]
       },
-      "defName": "VTE_Tycoon",
-      "name": "tycoon",
+      "defName": "VTE_Tycoon ",
+      "name": "tycoon ",
       "canAdd": true,
       "canRemove": true,
       "price": 5260,
@@ -4001,7 +4001,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus is strangely hypercoagulating and will bleed much more slowly than most.",
+      "description": "Regulus is strangely hypercoagulating and will bleed much more slowly than most. ",
       "stats": [
 
       ],
@@ -4013,7 +4013,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "thinskinned"
@@ -4022,8 +4022,8 @@
 
         ]
       },
-      "defName": "VTE_ThickSkinned",
-      "name": "thickskinned",
+      "defName": "VTE_ThickSkinned ",
+      "name": "thickskinned ",
       "canAdd": true,
       "canRemove": true,
       "price": 3730,
@@ -4031,7 +4031,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus is strangely hemophilic and tends to bleed much more profusely than others.",
+      "description": "Regulus is strangely hemophilic and tends to bleed much more profusely than others. ",
       "stats": [
 
       ],
@@ -4043,7 +4043,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "thickskinned"
@@ -4052,8 +4052,8 @@
 
         ]
       },
-      "defName": "VTE_ThinSkinned",
-      "name": "thinskinned",
+      "defName": "VTE_ThinSkinned ",
+      "name": "thinskinned ",
       "canAdd": true,
       "canRemove": true,
       "price": 1870,
@@ -4061,14 +4061,14 @@
       "degree": 0
     },
     {
-      "description": "Regulus has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
+      "description": "Regulus has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown. ",
       "stats": [
 
       ],
       "conflicts": [
-        "voluntaddehierro",
-        "resuelto",
-        "nervioso",
+        "voluntaddehierro ",
+        "resuelto ",
+        "nervioso ",
         "inestable"
       ],
       "bypassLimit": false,
@@ -4076,20 +4076,20 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
+        "mod": "Vanilla Traits Expanded ",
         "karmaTypeForAdding": null,
         "conflicts": [
-          "voluntaddehierro",
-          "resuelto",
-          "nervioso",
+          "voluntaddehierro ",
+          "resuelto ",
+          "nervioso ",
           "inestable"
         ],
         "stats": [
 
         ]
       },
-      "defName": "VTE_Schizoid",
-      "name": "schizoid",
+      "defName": "VTE_Schizoid ",
+      "name": "schizoid ",
       "canAdd": true,
       "canRemove": true,
       "price": 2320,
@@ -4097,7 +4097,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus is romantically attracted to people of the opposite gender.",
+      "description": "Regulus is romantically attracted to people of the opposite gender. ",
       "stats": [
 
       ],
@@ -4109,7 +4109,7 @@
         "canBypassLimit": false,
         "customName": true,
         "karmaTypeForRemoving": null,
-        "mod": "[RF] Rational Romance (Continued)",
+        "mod": "[RF] Rational Romance (Continued) ",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -4118,8 +4118,8 @@
 
         ]
       },
-      "defName": "Straight",
-      "name": "heterosexual",
+      "defName": "Straight ",
+      "name": "heterosexual ",
       "canAdd": true,
       "canRemove": true,
       "price": 3000,
@@ -4127,7 +4127,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus will never cheat on a partner, no matter how bad the relationship gets.",
+      "description": "Regulus will never cheat on a partner, no matter how bad the relationship gets. ",
       "stats": [
 
       ],
@@ -4139,7 +4139,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[RF] Rational Romance (Continued)",
+        "mod": "[RF] Rational Romance (Continued) ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "philanderer"
@@ -4148,8 +4148,8 @@
 
         ]
       },
-      "defName": "Faithful",
-      "name": "faithful",
+      "defName": "Faithful ",
+      "name": "faithful ",
       "canAdd": true,
       "canRemove": true,
       "price": 3500,
@@ -4157,7 +4157,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus just cannot be trusted to stay faithful to a partner.",
+      "description": "Regulus just cannot be trusted to stay faithful to a partner. ",
       "stats": [
 
       ],
@@ -4169,7 +4169,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[RF] Rational Romance (Continued)",
+        "mod": "[RF] Rational Romance (Continued) ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "faithful"
@@ -4178,8 +4178,8 @@
 
         ]
       },
-      "defName": "Philanderer",
-      "name": "philanderer",
+      "defName": "Philanderer ",
+      "name": "philanderer ",
       "canAdd": true,
       "canRemove": true,
       "price": 2710,
@@ -4187,7 +4187,7 @@
       "degree": 0
     },
     {
-      "description": "Regulus prefers romantic relationships involving multiple partners to monogamous relationships. él doesn't mind if su partners romance other people, but will be less happy in a restraining, monogamous relationship.",
+      "description": "Regulus prefers romantic relationships involving multiple partners to monogamous relationships. él doesn't mind if su partners romance other people, but will be less happy in a restraining, monogamous relationship. ",
       "stats": [
 
       ],
@@ -4199,7 +4199,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "[RF] Rational Romance (Continued)",
+        "mod": "[RF] Rational Romance (Continued) ",
         "karmaTypeForAdding": null,
         "conflicts": [
           "asexual"
@@ -4208,8 +4208,8 @@
 
         ]
       },
-      "defName": "Polyamorous",
-      "name": "polyamorous",
+      "defName": "Polyamorous ",
+      "name": "polyamorous ",
       "canAdd": true,
       "canRemove": true,
       "price": 2900,
@@ -4221,264 +4221,264 @@
     {
       "data": {
         "stats": [
-          "+60.00 Peso",
-          "+70% Inflamabilidad",
-          "+1750$ Valor de mercado",
-          "+4.60 Velocidad de movimiento",
-          "+16.0C Temperatura mínima agradable",
-          "+26.0C Temperatura máxima agradable",
-          "+75 Cantidad de cuero",
+          "+60.00 Peso ",
+          "+70% Inflamabilidad ",
+          "+1750$ Valor de mercado ",
+          "+4.60 Velocidad de movimiento ",
+          "+16.0C Temperatura mínima agradable ",
+          "+26.0C Temperatura máxima agradable ",
+          "+75 Cantidad de cuero ",
           "+3 Valor del honor"
         ],
-        "mod": "Unknown",
+        "mod": "Unknown ",
         "karmaType": null,
         "customName": false
       },
-      "description": "Un humano estándar. No modificado por la ingeniería genética ni por cambios evolutivos.",
-      "defName": "Human",
+      "description": "Un humano estándar. No modificado por la ingeniería genética ni por cambios evolutivos. ",
+      "defName": "Human ",
       "enabled": true,
-      "name": "humano",
+      "name": "humano ",
       "price": 1500
     },
     {
       "data": {
         "stats": [
-          "+75.00 Peso",
-          "+100% Inflamabilidad",
-          "+1500$ Valor de mercado",
-          "+4.61 Velocidad de movimiento",
-          "-50.0C Temperatura mínima agradable",
-          "+50.0C Temperatura máxima agradable",
-          "+20% Sensibilidad tóxica",
-          "+135% Velocidad de inmunización",
+          "+75.00 Peso ",
+          "+100% Inflamabilidad ",
+          "+1500$ Valor de mercado ",
+          "+4.61 Velocidad de movimiento ",
+          "-50.0C Temperatura mínima agradable ",
+          "+50.0C Temperatura máxima agradable ",
+          "+20% Sensibilidad tóxica ",
+          "+135% Velocidad de inmunización ",
           "+25 Cantidad de cuero"
         ],
-        "mod": "Unknown",
+        "mod": "Unknown ",
         "karmaType": null,
         "customName": false
       },
-      "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
-      "defName": "ChjAndroid",
+      "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating. ",
+      "defName": "ChjAndroid ",
       "enabled": true,
-      "name": "android",
+      "name": "android ",
       "price": 2200
     },
     {
       "data": {
         "stats": [
-          "+60.00 Peso",
-          "+0% Inflamabilidad",
-          "+850$ Valor de mercado",
-          "+5.21 Velocidad de movimiento",
-          "-200.0C Temperatura mínima agradable",
-          "+300.0C Temperatura máxima agradable",
-          "+0% Sensibilidad tóxica",
-          "+0% Sensibilidad psíquica",
-          "+500% Umbral de dolor",
-          "+0% Umbral de colapso mental",
-          "+0.00% Impacto social",
-          "+0% Factor de aprendizaje global",
-          "+1000% Velocidad de inmunización",
-          "+0 Cantidad de cuero",
-          "+0 Cantidad de carne",
-          "+30.0% Armadura - Cortante",
-          "+20.0% Armadura - Contundente",
-          "+200.0% Armadura - Calor",
+          "+60.00 Peso ",
+          "+0% Inflamabilidad ",
+          "+850$ Valor de mercado ",
+          "+5.21 Velocidad de movimiento ",
+          "-200.0C Temperatura mínima agradable ",
+          "+300.0C Temperatura máxima agradable ",
+          "+0% Sensibilidad tóxica ",
+          "+0% Sensibilidad psíquica ",
+          "+500% Umbral de dolor ",
+          "+0% Umbral de colapso mental ",
+          "+0.00% Impacto social ",
+          "+0% Factor de aprendizaje global ",
+          "+1000% Velocidad de inmunización ",
+          "+0 Cantidad de cuero ",
+          "+0 Cantidad de carne ",
+          "+30.0% Armadura - Cortante ",
+          "+20.0% Armadura - Contundente ",
+          "+200.0% Armadura - Calor ",
           "+75 Capacidad de carga"
         ],
-        "mod": "Unknown",
+        "mod": "Unknown ",
         "karmaType": null,
         "customName": true
       },
-      "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
-      "defName": "ChjDroid",
+      "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers. ",
+      "defName": "ChjDroid ",
       "enabled": true,
-      "name": "droidwork",
+      "name": "droidwork ",
       "price": 2000
     },
     {
       "data": {
         "stats": [
-          "+55.00 Peso",
-          "+0% Inflamabilidad",
-          "+1900$ Valor de mercado",
-          "+4.00 Velocidad de movimiento",
-          "-200.0C Temperatura mínima agradable",
-          "+500.0C Temperatura máxima agradable",
-          "+0% Sensibilidad tóxica",
-          "+0% Sensibilidad psíquica",
-          "+500% Umbral de dolor",
-          "+0% Umbral de colapso mental",
-          "+0.00% Impacto social",
-          "+0% Factor de aprendizaje global",
-          "+1000% Velocidad de inmunización",
-          "+0 Cantidad de cuero",
-          "+0 Cantidad de carne",
-          "-0.4 Prob. de esquivar golpes CaC.",
-          "+100.0% Armadura - Cortante",
-          "+40.0% Armadura - Contundente",
-          "+200.0% Armadura - Calor",
+          "+55.00 Peso ",
+          "+0% Inflamabilidad ",
+          "+1900$ Valor de mercado ",
+          "+4.00 Velocidad de movimiento ",
+          "-200.0C Temperatura mínima agradable ",
+          "+500.0C Temperatura máxima agradable ",
+          "+0% Sensibilidad tóxica ",
+          "+0% Sensibilidad psíquica ",
+          "+500% Umbral de dolor ",
+          "+0% Umbral de colapso mental ",
+          "+0.00% Impacto social ",
+          "+0% Factor de aprendizaje global ",
+          "+1000% Velocidad de inmunización ",
+          "+0 Cantidad de cuero ",
+          "+0 Cantidad de carne ",
+          "-0.4 Prob. de esquivar golpes CaC. ",
+          "+100.0% Armadura - Cortante ",
+          "+40.0% Armadura - Contundente ",
+          "+200.0% Armadura - Calor ",
           "+150 Capacidad de carga"
         ],
-        "mod": "Unknown",
+        "mod": "Unknown ",
         "karmaType": null,
         "customName": true
       },
-      "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
-      "defName": "ChjBattleDroid",
+      "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers. ",
+      "defName": "ChjBattleDroid ",
       "enabled": true,
-      "name": "droidebatalla",
+      "name": "droidebatalla ",
       "price": 3000
     },
     {
       "data": {
         "stats": [
-          "+60.00 Peso",
-          "+70% Inflamabilidad",
-          "+2000$ Valor de mercado",
-          "+4.60 Velocidad de movimiento",
-          "+16.0C Temperatura mínima agradable",
-          "+26.0C Temperatura máxima agradable",
-          "+50 Cantidad de cuero",
-          "+4 Valor del honor",
-          "+2.0 Belleza",
-          "+2 Biotic energy limit",
-          "+1 Biotic energy recovery rate",
+          "+60.00 Peso ",
+          "+70% Inflamabilidad ",
+          "+2000$ Valor de mercado ",
+          "+4.60 Velocidad de movimiento ",
+          "+16.0C Temperatura mínima agradable ",
+          "+26.0C Temperatura máxima agradable ",
+          "+50 Cantidad de cuero ",
+          "+4 Valor del honor ",
+          "+2.0 Belleza ",
+          "+2 Biotic energy limit ",
+          "+1 Biotic energy recovery rate ",
           "+100.0% Biotic ability cost multiplier"
         ],
-        "mod": "Unknown",
+        "mod": "Unknown ",
         "karmaType": null,
         "customName": false
       },
-      "description": "Elegant mono-gender race. Native to the planet Thessia, Asari are often considered the most influential and respected sentient species in the galaxy, and are known for their, diplomacy and biotic aptitude. Asari can often use biotic powers without the need of biotic amplifiers.",
-      "defName": "RE_Asari",
+      "description": "Elegant mono-gender race. Native to the planet Thessia, Asari are often considered the most influential and respected sentient species in the galaxy, and are known for their, diplomacy and biotic aptitude. Asari can often use biotic powers without the need of biotic amplifiers. ",
+      "defName": "RE_Asari ",
       "enabled": true,
-      "name": "asari",
+      "name": "asari ",
       "price": 2500
     },
     {
       "data": {
         "stats": [
-          "+60.00 Peso",
-          "+70% Inflamabilidad",
-          "+2000$ Valor de mercado",
-          "+4.60 Velocidad de movimiento",
-          "+26.0C Temperatura mínima agradable",
-          "+36.0C Temperatura máxima agradable",
-          "+50 Cantidad de cuero",
+          "+60.00 Peso ",
+          "+70% Inflamabilidad ",
+          "+2000$ Valor de mercado ",
+          "+4.60 Velocidad de movimiento ",
+          "+26.0C Temperatura mínima agradable ",
+          "+36.0C Temperatura máxima agradable ",
+          "+50 Cantidad de cuero ",
           "+4 Valor del honor"
         ],
-        "mod": "Unknown",
+        "mod": "Unknown ",
         "karmaType": null,
         "customName": false
       },
-      "description": "An omnivorous, reptile-like race that was rescued from their dying homeworld by the hanar. Since then, the drell have remained loyal to them for their camaraderie and have fit comfortably into galactic civilization. Their culture allows Drell to separate their mind from their body, helping them through hard times and work. They are predisposed to Kepral's syndrome, a lethal condition which can develop if Drell stays in cold temperatures too long.",
-      "defName": "RE_Drell",
+      "description": "An omnivorous, reptile-like race that was rescued from their dying homeworld by the hanar. Since then, the drell have remained loyal to them for their camaraderie and have fit comfortably into galactic civilization. Their culture allows Drell to separate their mind from their body, helping them through hard times and work. They are predisposed to Kepral's syndrome, a lethal condition which can develop if Drell stays in cold temperatures too long. ",
+      "defName": "RE_Drell ",
       "enabled": true,
-      "name": "drell",
+      "name": "drell ",
       "price": 2500
     },
     {
       "data": {
         "stats": [
-          "+80.00 Peso",
-          "+33% Inflamabilidad",
-          "+1750$ Valor de mercado",
-          "+5.00 Velocidad de movimiento",
-          "+75 Cantidad de cuero",
-          "+2 Valor del honor",
-          "+5.0 Precisión de disparo",
-          "+120% Sensibilidad psíquica",
-          "+50% Sensibilidad tóxica",
-          "+21.0C Temperatura mínima agradable",
-          "+36.0C Temperatura máxima agradable",
-          "+110% Velocidad de inmunización",
-          "+64% Umbral de dolor",
-          "+80% Tiempo para apuntar",
-          "+80.00% Prob. de domesticación animal",
-          "+80.00% Probabilidad de entrenamiento",
-          "+80% Ren. de recolección de animales",
-          "+80% Velocidad de agricultura",
-          "+110% Eficiencia del despieze",
-          "+150% Eficiencia de desmontaje",
+          "+80.00 Peso ",
+          "+33% Inflamabilidad ",
+          "+1750$ Valor de mercado ",
+          "+5.00 Velocidad de movimiento ",
+          "+75 Cantidad de cuero ",
+          "+2 Valor del honor ",
+          "+5.0 Precisión de disparo ",
+          "+120% Sensibilidad psíquica ",
+          "+50% Sensibilidad tóxica ",
+          "+21.0C Temperatura mínima agradable ",
+          "+36.0C Temperatura máxima agradable ",
+          "+110% Velocidad de inmunización ",
+          "+64% Umbral de dolor ",
+          "+80% Tiempo para apuntar ",
+          "+80.00% Prob. de domesticación animal ",
+          "+80.00% Probabilidad de entrenamiento ",
+          "+80% Ren. de recolección de animales ",
+          "+80% Velocidad de agricultura ",
+          "+110% Eficiencia del despieze ",
+          "+150% Eficiencia de desmontaje ",
           "+9.60 Tasa de recuperación del calor neural"
         ],
-        "mod": "Unknown",
+        "mod": "Unknown ",
         "karmaType": null,
         "customName": false
       },
-      "description": "The Naga are a technologically advanced race without a functional goverment or law enforcement since their homeworld has become inhabitable.  This means they can be found mostly on space stations and ships and occassionally on Rimworlds as well.\n\nThey tend to work as mercenaries for the highest bidder and offer their superior skills with guns. Not just as excellent shooters, but also as weapon manufacturers. Their plasma technology is only rivaled by the charge weapons of glitterworlds. Naga are also known for their regenerative abilities and proficiency at disassembling mechanoids.\n\nDespite this their way of life does not go well with others and thus they struggle to find allies among other races.\n\nGood at: Shooting, Butchering, Mechanoid Disassembly, Psychics, Quality Crafting/Construction\nBad at: Melee, Plants, Animals, Enduring Pain",
-      "defName": "Naga",
+      "description": "The Naga are a technologically advanced race without a functional goverment or law enforcement since their homeworld has become inhabitable.  This means they can be found mostly on space stations and ships and occassionally on Rimworlds as well.\n\nThey tend to work as mercenaries for the highest bidder and offer their superior skills with guns. Not just as excellent shooters, but also as weapon manufacturers. Their plasma technology is only rivaled by the charge weapons of glitterworlds. Naga are also known for their regenerative abilities and proficiency at disassembling mechanoids.\n\nDespite this their way of life does not go well with others and thus they struggle to find allies among other races.\n\nGood at: Shooting, Butchering, Mechanoid Disassembly, Psychics, Quality Crafting/Construction\nBad at: Melee, Plants, Animals, Enduring Pain ",
+      "defName": "Naga ",
       "enabled": true,
-      "name": "naga",
+      "name": "naga ",
       "price": 2200
     },
     {
       "data": {
         "stats": [
-          "+40.00 Peso",
-          "+75% Inflamabilidad",
-          "+1250$ Valor de mercado",
-          "+6.00 Velocidad de movimiento",
-          "+21.0C Temperatura mínima agradable",
-          "+36.0C Temperatura máxima agradable",
-          "+40 Cantidad de cuero",
-          "+3 Valor del honor",
-          "+50 Capacidad de carga",
-          "+5.0 Prob. de golpe cuerpo a cuerpo",
-          "+5.0 Prob. de esquivar golpes CaC.",
-          "+90% Umbral de dolor",
+          "+40.00 Peso ",
+          "+75% Inflamabilidad ",
+          "+1250$ Valor de mercado ",
+          "+6.00 Velocidad de movimiento ",
+          "+21.0C Temperatura mínima agradable ",
+          "+36.0C Temperatura máxima agradable ",
+          "+40 Cantidad de cuero ",
+          "+3 Valor del honor ",
+          "+50 Capacidad de carga ",
+          "+5.0 Prob. de golpe cuerpo a cuerpo ",
+          "+5.0 Prob. de esquivar golpes CaC. ",
+          "+90% Umbral de dolor ",
           "+1.0 Belleza"
         ],
-        "mod": "Unknown",
+        "mod": "Unknown ",
         "karmaType": null,
         "customName": false
       },
-      "description": "A dangerous, bloodlusty race of humanoid avians. Harpies constantly fight among themselves, hindering any major progress among their own. Their overwhelming bloodlust is hard to satisfy, but that also means they are naturally born fighters. Their razor-sharp claws and deadly lightning attacks make them a formidable foe, even if unarmed - not that harpies can wield weapons effectively.\n\nGood at: Melee, Ranged without weapon, Enduring Pain, Running, Flying, Looking beautiful\nBad at: Using weapons (they can't), Carrying, Not constantly fighting",
-      "defName": "Harpy",
+      "description": "A dangerous, bloodlusty race of humanoid avians. Harpies constantly fight among themselves, hindering any major progress among their own. Their overwhelming bloodlust is hard to satisfy, but that also means they are naturally born fighters. Their razor-sharp claws and deadly lightning attacks make them a formidable foe, even if unarmed - not that harpies can wield weapons effectively.\n\nGood at: Melee, Ranged without weapon, Enduring Pain, Running, Flying, Looking beautiful\nBad at: Using weapons (they can't), Carrying, Not constantly fighting ",
+      "defName": "Harpy ",
       "enabled": true,
-      "name": "harpy",
+      "name": "harpy ",
       "price": 1850
     },
     {
       "data": {
         "stats": [
-          "+80.00 Peso",
-          "+50% Inflamabilidad",
-          "+2500$ Valor de mercado",
-          "+4.60 Velocidad de movimiento",
-          "+6.0C Temperatura mínima agradable",
-          "+26.0C Temperatura máxima agradable",
-          "+75 Cantidad de cuero",
-          "+125 Capacidad de carga",
-          "+5.0 Prob. de golpe cuerpo a cuerpo",
-          "+80% Multiplicador de daño recibido",
-          "+90% Umbral de dolor",
-          "+2 Cantidad de comida forrajeada",
-          "+70.00% Mejora de regateo",
-          "+120.00% Capacidad diplomática",
-          "+0.5 Belleza",
-          "+133% Tiempo para apuntar",
-          "+80% Velocidad de investigación",
-          "+80% Velocidad de sintetizado",
-          "+110.00% Prob. de domesticación animal",
-          "+110.00% Probabilidad de entrenamiento",
-          "+120% Ren. de recolección de animales",
-          "+120% Velocidad de agricultura",
-          "+110% Ren. de la cosecha vegetal",
-          "+30.0% Armadura - Cortante",
-          "+10.0% Armadura - Contundente",
-          "+20.0% Armadura - Calor",
+          "+80.00 Peso ",
+          "+50% Inflamabilidad ",
+          "+2500$ Valor de mercado ",
+          "+4.60 Velocidad de movimiento ",
+          "+6.0C Temperatura mínima agradable ",
+          "+26.0C Temperatura máxima agradable ",
+          "+75 Cantidad de cuero ",
+          "+125 Capacidad de carga ",
+          "+5.0 Prob. de golpe cuerpo a cuerpo ",
+          "+80% Multiplicador de daño recibido ",
+          "+90% Umbral de dolor ",
+          "+2 Cantidad de comida forrajeada ",
+          "+70.00% Mejora de regateo ",
+          "+120.00% Capacidad diplomática ",
+          "+0.5 Belleza ",
+          "+133% Tiempo para apuntar ",
+          "+80% Velocidad de investigación ",
+          "+80% Velocidad de sintetizado ",
+          "+110.00% Prob. de domesticación animal ",
+          "+110.00% Probabilidad de entrenamiento ",
+          "+120% Ren. de recolección de animales ",
+          "+120% Velocidad de agricultura ",
+          "+110% Ren. de la cosecha vegetal ",
+          "+30.0% Armadura - Cortante ",
+          "+10.0% Armadura - Contundente ",
+          "+20.0% Armadura - Calor ",
           "+6 Valor del honor"
         ],
-        "mod": "Unknown",
+        "mod": "Unknown ",
         "karmaType": null,
         "customName": false
       },
-      "description": "A large, graceful humanoid creature, with long white fur, a large sharp horn and short simple tail. Their striking resemblance to Thrumbos gave them their name and leaves no doubt to where this race might have originated from.\n\nWhile generally peaceful they make excellent melee fighters, thanks to their resilent hide and razor sharp horn. Thrumkin live in harmony with nature and know more about plants and animals than most advanced cultures, at least on the planet they are living on.\n\nThey are not particularly skilled when it comes to building tools and using them, neither are their structures more than simple protection from the elements.\n\nGood at: Melee, Plants, Animals, General Labor, Absorbing Damage\nBad at: Shooting, Quality Crafting/Construction, Drug Production, Research, Trading, Cooking, Not eating your entire supplies of food",
-      "defName": "Thrumkin",
+      "description": "A large, graceful humanoid creature, with long white fur, a large sharp horn and short simple tail. Their striking resemblance to Thrumbos gave them their name and leaves no doubt to where this race might have originated from.\n\nWhile generally peaceful they make excellent melee fighters, thanks to their resilent hide and razor sharp horn. Thrumkin live in harmony with nature and know more about plants and animals than most advanced cultures, at least on the planet they are living on.\n\nThey are not particularly skilled when it comes to building tools and using them, neither are their structures more than simple protection from the elements.\n\nGood at: Melee, Plants, Animals, General Labor, Absorbing Damage\nBad at: Shooting, Quality Crafting/Construction, Drug Production, Research, Trading, Cooking, Not eating your entire supplies of food ",
+      "defName": "Thrumkin ",
       "enabled": true,
-      "name": "thrumkin",
+      "name": "thrumkin ",
       "price": 3500
     }
   ]
