@@ -1,6 +1,6 @@
 {
 	"traits": [{
-			"description": "Timmy disfruta de la sensación de libertad que resulta de estar completamente desnudPAWN_gender ? o : a. Puede soportar la ropa, pero será más feliz si no trae nada.",
+			"description": "Timmy disfruta de la sensación de libertad que resulta de estar completamente desnudo. Puede soportar la ropa, pero será más feliz si no trae nada.",
 			"stats": [
 
 			],
@@ -266,7 +266,7 @@
 			"degree": 0
 		},
 		{
-			"description": "Timmy encuentra algo emocionante en ser heridPAWN_gender ? o : a. él no sabe por qué, su cerebro está programado de manera diferente.",
+			"description": "Timmy encuentra algo emocionante en ser herido. él no sabe por qué, su cerebro está programado de manera diferente.",
 			"stats": [
 				"Mórbido meditation focus type allowed."
 			],
@@ -296,7 +296,7 @@
 			"degree": 0
 		},
 		{
-			"description": "A Timmy le gusta estar despiertPAWN_gender ? o : a durante la noche, y dormir durante el día.\n\n recibe un bono de humor si se despierta por la noche (23h-6h) y una pérdida de humor si se despierta durante el día (11h-18h).\n\nNo sufre de penalización de humor por estar en la oscuridad.",
+			"description": "A Timmy le gusta estar despierto durante la noche, y dormir durante el día.\n\n recibe un bono de humor si se despierta por la noche (23h-6h) y una pérdida de humor si se despierta durante el día (11h-18h).\n\nNo sufre de penalización de humor por estar en la oscuridad.",
 			"stats": [
 
 			],
@@ -458,7 +458,7 @@
 			"degree": 0
 		},
 		{
-			"description": "Timmy se siente románticamente atraídPAWN_gender ? o : a tanto por hombres como por mujeres.",
+			"description": "Timmy se siente románticamente atraído tanto por hombres como por mujeres.",
 			"stats": [
 
 			],
@@ -706,7 +706,7 @@
 			"degree": 0
 		},
 		{
-			"description": "Timmy es lentPAWN_gender ? o : a en la captación. Aprende mucho más lento que otros.",
+			"description": "Timmy es lento en la captación. Aprende mucho más lento que otros.",
 			"stats": [
 				"-75% factor de aprendizaje global",
 				"x50% factor de pérdida de certeza global"
@@ -738,7 +738,7 @@
 			"degree": 0
 		},
 		{
-			"description": "Timmy no necesita estar al aire libre. él nunca se sentirá encerradPAWN_gender ? o : a ni tendrá claustrofobia, no importa cuánto tiempo se quede adentro y no le molesta la oscuridad.",
+			"description": "Timmy no necesita estar al aire libre. él nunca se sentirá encerrado ni tendrá claustrofobia, no importa cuánto tiempo se quede adentro y no le molesta la oscuridad.",
 			"stats": [
 				"Mórbido meditation focus type allowed."
 			],
@@ -768,7 +768,7 @@
 			"degree": 0
 		},
 		{
-			"description": "Se siente limitadPAWN_gender ? o : a en su débil cuerpo humano. A menudo sueña con ser mejoradPAWN_gender ? o : a con partes del cuerpo artificiales.",
+			"description": "Se siente limitado en su débil cuerpo humano. A menudo sueña con ser mejorado con partes del cuerpo artificiales.",
 			"stats": [
 
 			],
@@ -948,7 +948,7 @@
 			"degree": 0
 		},
 		{
-			"description": "Timmy se siente alienadPAWN_gender ? o : a e incomprendidPAWN_gender ? o : a por otros seres humanos. él tendrá una constante perdida de humor, pero tendrá una probabilidad del (50%) de obtener una inspiración creativa después de sufrir un colapso mental.",
+			"description": "Timmy se siente alienado e incomprendido por otros seres humanos. él tendrá una constante perdida de humor, pero tendrá una probabilidad del (50%) de obtener una inspiración creativa después de sufrir un colapso mental.",
 			"stats": [
 				"Mórbido meditation focus type allowed."
 			],
@@ -978,7 +978,7 @@
 			"degree": 0
 		},
 		{
-			"description": "La vida de Timmy gira en torno a la comida. Le entra hambre rápidamente, y de vez en cuando se ve superadPAWN_gender ? o : a por el impulso de comer vorazmente, incluso cuando no tiene hambre.",
+			"description": "La vida de Timmy gira en torno a la comida. Le entra hambre rápidamente, y de vez en cuando se ve superado por el impulso de comer vorazmente, incluso cuando no tiene hambre.",
 			"stats": [
 				"Only mental break \"Binging_Food\" allowed.",
 				"+4 cocina"
@@ -1010,7 +1010,7 @@
 			"degree": 0
 		},
 		{
-			"description": "Timmy no necesita dormir tanto como una persona normal. Si él está durmiendo en una cama o en el suelo, estará completamente descansadPAWN_gender ? o : a en dos tercios del tiempo habitual.",
+			"description": "Timmy no necesita dormir tanto como una persona normal. Si él está durmiendo en una cama o en el suelo, estará completamente descansado en dos tercios del tiempo habitual.",
 			"stats": [
 				"+50% multi. de la tasa de reposo"
 			],
@@ -1408,7 +1408,7 @@
 			"degree": 1
 		},
 		{
-			"description": "Timmy tiende a flaquear al ser sometidPAWN_gender ? o : a a presión.",
+			"description": "Timmy tiende a flaquear al ser sometido a presión.",
 			"stats": [
 				"+8% umbral de colapso mental",
 				"x200% factor de pérdida de certeza global"
@@ -1536,7 +1536,7 @@
 			"degree": 2
 		},
 		{
-			"description": "A Timmy le parece fácil mantenerse concentradPAWN_gender ? o : a en el trabajo y hacer las cosas más rápido que a la mayoría.",
+			"description": "A Timmy le parece fácil mantenerse concentrado en el trabajo y hacer las cosas más rápido que a la mayoría.",
 			"stats": [
 				"+35% velocidad de trabajo general"
 			],
@@ -1596,7 +1596,7 @@
 			"degree": 1
 		},
 		{
-			"description": "Timmy es un poco flojPAWN_gender ? o : a.",
+			"description": "Timmy es un poco flojo.",
 			"stats": [
 				"-20% velocidad de trabajo general"
 			],
@@ -1840,7 +1840,7 @@
 			"degree": -1
 		},
 		{
-			"description": "Timmy es excepcionalmente hermosPAWN_gender ? o : a, con una estructura facial exótica pero a la vez familiar y una mirada paralizante. La gente se siente atraída a él aunque él ni siquiera haya abierto la boca.",
+			"description": "Timmy es excepcionalmente hermoso, con una estructura facial exótica pero a la vez familiar y una mirada paralizante. La gente se siente atraída a él aunque él ni siquiera haya abierto la boca.",
 			"stats": [
 				"+2.0 belleza"
 			],
@@ -1900,7 +1900,7 @@
 			"degree": 1
 		},
 		{
-			"description": "Timmy es algo fePAWN_gender ? o : a. Esto repele sutilmente a los demás durante las interacciones sociales.",
+			"description": "Timmy es algo feo. Esto repele sutilmente a los demás durante las interacciones sociales.",
 			"stats": [
 				"-1.0 belleza"
 			],
