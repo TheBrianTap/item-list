@@ -167,7 +167,7 @@
                                 <button type="button" class="btn btn-primary sort" data-sort="name">
                                     Ordenar
                                 </button>
-                                <button type="button" class="btn btn-primary sort" data-sort="addprice">
+                                <button type="button" class="btn btn-primary sort" data-sort="price">
                                     Ordenar por precio
                                 </button>
                             </p>
@@ -177,7 +177,7 @@
                                     <th scope="col" class="sort" data-sort="description">Descripción</th>
                                     <th scope="col" class="sort" data-sort="conflicts">Conflictos</th>
                                     <th scope="col" class="sort" data-sort="stats">Estadisticas</th>
-                                    <th scope="col" class="sort" data-sort="addprice">Precio</th>
+                                    <th scope="col" class="sort" data-sort="price">Precio</th>
                                     <th scope="col" class="sort" data-sort="removePrice">Precio Borrar</th>
                                 </tr>
                                 <tbody class="list">
@@ -289,13 +289,13 @@
         let traitList = null;
         $.getJSON(traitListURL, function(data) {
             var options = {
-                valueNames: ['name', 'description', 'conflicts', 'stats', 'addprice', 'removePrice'],
-                item: '<tr><td class="name" scope="row"></td><td class="description"></td><td class="conflicts"></td><td class="stats"></td><td class="addprice"></td><td class="removePrice"></td></tr>'
+                valueNames: ['name', 'description', 'conflicts', 'stats', 'price', 'removePrice'],
+                item: '<tr><td class="name" scope="row"></td><td class="description"></td><td class="conflicts"></td><td class="stats"></td><td class="price"></td><td class="removePrice"></td></tr>'
             };
 
             var traitData = [];
             $.each(data.traits, function(index, value) {
-                if (value["addprice"] > 0) {
+                if (value["price"] > 0) {
                     traitData.push(value);
                 }
             });
@@ -336,10 +336,10 @@
             });
 	    triatList.filter(function(item) {
                 var allow = true;
-                if (minPrice != "" && parseInt(item.values().addPrice) < minPrice) {
+                if (minPrice != "" && parseInt(item.values().price) < minPrice) {
                     allow = false;
                 }
-                if (maxPrice != "" && parseInt(item.values().addPrice) > maxPrice) {
+                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
                     allow = false;
                 }
                 return allow;
