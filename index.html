@@ -336,10 +336,10 @@
             });
 	    triatList.filter(function(item) {
                 var allow = true;
-                if (minPrice != "" && parseInt(item.values().price) < minPrice) {
+                if (minPrice != "" && parseInt(item.values().addPrice) < minPrice) {
                     allow = false;
                 }
-                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
+                if (maxPrice != "" && parseInt(item.values().addPrice) > maxPrice) {
                     allow = false;
                 }
                 return allow;
