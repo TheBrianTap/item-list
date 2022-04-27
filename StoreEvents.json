@@ -15,511 +15,613 @@
 	{
 		"abr": "despejarlluvia",
 		"price": 400,
+		"desc": "Despeja el cielo.",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "lluvia",
 		"price": 350,
+		"desc": "Invoca una lluvia",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "vomitrain",
 		"price": 650,
+		"desc": "Invoca una lluvia que intoxicara a todos los seres vivos",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "nieblalluvia",
 		"price": 300,
+		"desc": "Invoca lluvia con niebla",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "tormentalluviosa",
 		"price": 250,
+		"desc": "Invoca una tormenta con lluvia",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "tormentaseca",
 		"price": 450,
+		"desc": "Invoca una tormenta pero sin lluvia",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "nevada",
 		"price": 350,
+		"desc": "Invoca clima nevado",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "nevadafuerte",
 		"price": 450,
+		"desc": "Invoca clima muy nevado",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "niebla",
 		"price": 300,
+		"desc": "Invoca una niebla",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "oladecalor",
 		"price": 750,
+		"desc": "Invoca una ola de calor",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "flashstorm",
 		"price": 400,
+		"desc": "Invoca una tormenta eléctrica",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "olafrio",
 		"price": 800,
+		"desc": "Invoca una ola de frío",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "llamaradasolar",
 		"price": 500,
+		"desc": "Apagara todos los circuitos electronicos y todo sistema de electricidad",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "cortocircuito",
 		"price": 500,
+		"desc": "Hace explotar un mecanismo electronico",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "toxicfallout",
 		"price": 6500,
+		"desc": "Invoca una lluvia toxica",
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
 		"price": 3200,
+		"desc": "El cielo estará tapado y los paneles solares producirán menos energia y las plantas menos crecimiento",
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "eclipse",
 		"price": 450,
+		"desc": "Un eclipse B)",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "plaga",
 		"price": 700,
+		"desc": "Una plaga que hará perder las cocechas de la colonia ",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "animaltame",
 		"price": 150,
+		"desc": "Un animal aleatorio ingresa a la colonia como mascota",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "capsulacarga",
 		"price": 300,
+		"desc": "Cen capsulas de con carga desde el cielo con objetos aleatorios",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "caravana",
 		"price": 275,
+		"desc": "Una caravana pasara por la colonia",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "orbitaltraderarrival",
 		"price": 350,
+		"desc": "Invoca una nave comercial. (solo se activará si hay una consola de Comunicaciones)",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "meteor",
 		"price": 150,
+		"desc": "Un meteorito chico",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "maninblack",
 		"price": 1850,
+		"desc": "Un colono con estadisticas altas ingresará a la colonia",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "animalloco",
 		"price": 200,
+		"desc": "Un animal del mapa empezara a cazar a algun colono",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicdrone",
 		"price": 400,
+		"desc": "Invoca a un dron que hace una mala psíquica a tus colonos",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicsoothe",
 		"price": 250,
+		"desc": "Invoca un dron que hace una animación buena a tus colonos",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "ambrosiabrote",
 		"price": 150,
+		"desc": "Invoca un brote de ambrosia (fruto rico y adictivo)",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "migracionmanada",
 		"price": 200,
+		"desc": "Un grupo de animales salvajes aparecerá en la colonia",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "animaldegranja",
 		"price": 400,
+		"desc": "Un animal de granja se incorporará a la colonia",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "salvaje",
 		"price": 300,
+		"desc": "Un humano slavaje aparecerá",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "rarethrumbos",
 		"price": 500,
+		"desc": "Un grupo de thrumbos no domesticados pasarán de visita por la colonia",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "pedazosnave",
 		"price": 300,
+		"desc": "Algunos pedazos de naves caeran desde el cielo (eston pueden desarmarse para obtener recursos)",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "grupoviajeros",
 		"price": 80,
+		"desc": "Un grupo de viajeros pasarán por la colonia",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "visitorgroup",
 		"price": 200,
+		"desc": "Un grupo de visitantes pasarán por la colonia",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "skillrandom",
 		"price": 200,
+		"desc": "Otorga a tu colono un pequeño incremento en alguna skill aleatoria",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "party",
 		"price": 400,
+		"desc": "Un colono organiza una fiesta :D",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "ataquedecastores",
 		"price": 600,
+		"desc": "Un grupo de castores carniboros aparecerán en el mapa, Se comportan de manera inofenciva hasta que se los moleste o no tengan donde comer.",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "pedazosnavevenoso",
 		"price": 1900,
+		"desc": "Un pedazo de nave caera del cielo dejando un humo venenoso que con el tiempo ira dejando enfermedades",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "pedazosnavepsiquica",
 		"price": 2400,
+		"desc": "Aterriza un pedazo de nave que afecta el humor de los colonos",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "militaryaid",
 		"price": 700,
+		"desc": "Un grupo militar aliado pasará por tu colonia, ATENCIÓN: este evento solo es posble si la colonia tiene aliados, caso contrario se presentara un BUG",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
 		"price": 1500,
+		"desc": "Un grupo de asaltantes atacarán de manera inmediata a la colonia",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
 		"price": 1500,
+		"desc": "Un grupo de asaltantes caerán desde el cielo en capsulas y atacarán la colonia",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "zaperraid",
 		"price": 1500,
+		"desc": "Invoca una raid de hostiles que intentarán hacer un túnel para atacar a la colonia",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "incurcion",
 		"price": 2500,
+		"desc": "Un grupo de asaltantes se establecerán cerca de la colonia y empezaran a asediarla con morteros."
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
 		"price": 2500,
+		"desc": "Invoca un asalto de mecanoides",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
 		"price": 2500,
+		"desc": "Una colmena de insectos surgirán del suelo en lugares oscuros y atacarán a todos los seres vivos que se cruzen",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "manadacazahumanos",
 		"price": 1500,
+		"desc": "Una manada de animales atacaran a los colonos",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "predators",
 		"price": 2500,
+		"desc": "Un grupo de animales muy peligrosos atacaran la colonia",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "enfermedadazar",
 		"price": 1000,
+		"desc": "Da una enfermedad aleatoria a algún/os colono/os",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "enfermedad",
 		"price": 1000,
+		"desc": "Da una enfermedad especifica aleatoria a algún/os colono/os. utilice el comando !buscar disease para ver algunas enfermedades.",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviverandomcolono",
-		"price": 1200,
+		"price": 2000,
+		"desc": "Revive a un colono aleatorio",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "colono",
-		"price": 1,
+		"price": 1500,
+		"desc": "Agrega tu colono a la colonia, pudes especificar que tipo de raaza quieres que sea tu colono",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "levelskill",
 		"price": 1500,
+		"desc": "Agrega skills a tu colono",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "rasgo",
-		"price": 1,
+		"price": "Indefinido",
+		"desc": "Agrega rasgo a tu colono",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removerrasgo",
-		"price": 1,
+		"price": "Indefinido",
+		"desc": "Remueve un rasgo a tu colono",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "genero",
 		"price": 10,
+		"desc": "Cambia de genero a tu colono",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "prisoner",
 		"price": 800,
+		"desc": "Aparece en la colonia como un colono que huyo de prisiondes desde una capsula",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "visitcolony",
 		"price": 300,
+		"desc": "Un visitante pasa por la colonia",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "randominspire",
 		"price": 450,
+		"desc": "Da una inspiración aleatoria a un colono aleatorio",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "votehistoria",
 		"price": 750,
+		"desc": "Comienza una votacion",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "votebot",
 		"price": 600,
+		"desc": "Comienza una votacion",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "reviveall",
 		"price": 22664,
+		"desc": "Revive a todos los colones",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "revivir",
 		"price": 5000,
+		"desc": "Revive a tu colono",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
 		"price": 17336,
+		"desc": "Cura a todos los colonos",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healrandom",
 		"price": 2000,
+		"desc": "Cura a un colono aleatorio",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
 		"price": 2167,
+		"desc": "Cura a tu colono",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "cirugia",
-		"price": 1,
+		"price": "indefinido",
+		"desc": "Se utiliza para agregarle una cirujia a tu colono. Ejemplo: $cirugia brazobiónico",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "pasionesazar",
 		"price": 2000,
+		"desc": "Aleatoriza las pasiones de tu colono",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "reemplazarrasgo",
-		"price": 1,
+		"price": "indefinido",
+		"desc": "Aleatoriza las pasiones de tu colono",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rescueme",
 		"price": 800,
+		"desc": "DESHABILITADO (BUG) - Crea un evento para rescatar a tu colono",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "fullheal",
 		"price": 2167,
+		"desc": "Cura carias lesiones en tu colono, intente revisar con el comando !salud antes de usar este comando",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "pasion",
 		"price": 7000,
+		"desc": "Agrega una pasion a tu colono. Ejemplo: $pasion construcción",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removepasion",
 		"price": 5000,
+		"desc": "Remueve una pasion a tu colono. Ejemplo: $removepasion construcción",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "mochila",
-		"price": 1,
+		"price": "Indefinido",
+		"desc": "Se utiliza para guardar objetos dentro de tu mochila",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "setrasgo",
-		"price": 1,
+		"price": "Indefinido",
+		"desc": "Resetea los rasgos de tu colono a los que vinieron por predeterminado",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "borrarrasgos",
 		"price": 1,
+		"desc": "Borra todos los rasgos, algunos rasgos no se borraran igualmente. Ejemplo: BIsexual, Asexual, Etc..",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "use",
-		"price": 1,
+		"price": "Indefinido",
+		"desc": "Se utiliza para que tu colono consuma consumibles. Ej: $use porro",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "vestir",
-		"price": 1,
+		"price": "Indefinido",
+		"desc": "Se utiliza para que tu colono vista una ropa de forma forzada. Ej: $vestir gorra",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "equip",
-		"price": 1,
+		"price": "Indefinido",
+		"desc": "Se utiliza para que tu colono se equipe un arma. Tambien aplica la subcategoría de calidaes. Ej: $equip hacha[acero,legendary]",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomchildhood",
 		"price": 3000,
+		"desc": "Cambia tu historia de niñez, ADVERTENCIA: Esto podría alterar algunas skills e incapacidades al colono",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomadulthood",
 		"price": 3000,
+		"desc": "Cambia tu historia de adultez, ADVERTENCIA: Esto podría alterar algunas skills e incapacidades al colono",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "smite",
 		"price": 2500,
+		"desc": "DESHABILITADO (BUG) - Invoca un rayo sobre un colono. Ejemplo: $smite regulusthorbound",
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "santuario",
 		"price": 100000,
+		"desc": "La verdad no tengo idea, pero lo unico que se es que hace algo chido B)",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "alphaasteroid",
 		"price": 1000,
+		"desc": "UN asteroide con minerales poco no normales",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "aeorofleetmigration",
 		"price": 500,
+		"desc": "Un grupo de animales exoticos pasan por la colonia por migración",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "stalkingarcticlion",
 		"price": 1000,
+		"desc": "Un animal exotico pasa por la colonia",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "stalkingsnowclutchmother",
 		"price": 2000,
+		"desc": "Un animal exotico pasa por la colonia",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "stalkingduneclutchmother",
 		"price": 2000,
+		"desc": "Un animal exotico pasa por la colonia",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "stalkingclutchmother",
 		"price": 2000,
+		"desc": "Un animal exotico pasa por la colonia",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "animaliskwanderin",
 		"price": 700,
+		"desc": "animal exotico de uso para caravanas pasa por la colonia",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "SummitCrabRaid",
 		"price": 1500,
+		"desc": "Animal raro gigante lento pero que destruye todo a su paso.",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "cactipinedroppod",
 		"price": 1000,
+		"desc": "Caerá una capsula con contenido extraño que hara algo raro pero malo",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "gallatrosswanderin",
 		"price": 1400,
+		"desc": "Una criatura exotica pasará por la colonia",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "bumbledroneswanderin",
 		"price": 500,
+		"desc": "Abejas gigantes pasarán por la colonia por migración",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "raidblackhive",
 		"price": 1500,
+		"desc": "Gusanos atacarán tu colonia",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "raidmechanoidsappers",
 		"price": 1500,
+		"desc": "Mecanoides pasarán cerca de tu colonia por recursos.",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "fungalhuskwandersin",
 		"price": 600,
+		"desc": "Animales RAROS! pasan por la colonia...",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "factionwar",
 		"price": 1500,
+		"desc": "Dos faciones que se encuentran luchando pasarán por tu colonia. La gravedad dependera del monto que se le establesca. Ejemplo: $factionwar 5000",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "factionsiege",
 		"price": 1500,
+		"desc": "Dos facciones estarán en guerra de bombardeo cerca de tu territorio en el mundo, puede irse a explorar para unirse.",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "factioncontention",
 		"price": 1500,
+		"desc": "Un lote precioso cayo cerca de la colonia y dos facciones se estan peleando por ella, puede irse a explorar para unirse.",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "factioncamp",
 		"price": 1500,
+		"desc": "Un grupo de facciones estará acampando cerca del territorio de tu colonia,  puede irse a explorar para unirse.",
 		"karmatype": "Neutral"
 	},
 	{
@@ -545,6 +647,7 @@
 	{
 		"abr": "iceage",
 		"price": 15000,
+		"desc": "genera una ola de frio muy muy fria...",
 		"karmatype": "Doom"
 	},
 	{
@@ -560,6 +663,7 @@
 	{
 		"abr": "longnight",
 		"price": 25000,
+		"desc": "Por varios dias no se vera la luz del sol",
 		"karmatype": "Doom"
 	},
 	{
@@ -570,51 +674,61 @@
 	{
 		"abr": "hailstorm",
 		"price": 800,
+		"desc": "Tormenta de granizos, esto pondran de muy mal humor a los colonos.",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "lluviameteoritos",
 		"price": 600,
+		"desc": "Meteoritos!",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "animalpodcrash",
 		"price": 350,
+		"desc": "Unas capsulas caerán con animales",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "spacebattle",
 		"price": 750,
+		"desc": "Partes de naves caerán dentro de un prriodo de tiempo a causa de una batalla espacial",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "terremoto",
 		"price": 600,
+		"desc": "Un pequeño sismo que dañara un par de estructuras",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "capsulaarma",
 		"price": 1000,
+		"desc": "Unas capsulas caerán con armas",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "capsularopa",
 		"price": 1000,
+		"desc": "Unas capsulas caerán con ropa",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "caravananimals",
 		"price": 5000,
+		"desc": "Animales de caravana se uniran a la colonia",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "cropsprout",
 		"price": 600,
+		"desc": "Invoca un brote de plantas",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "battleanimals",
 		"price": 1000,
+		"desc": "Animales de batalla se uniran a la colonia",
 		"karmatype": "Neutral"
 	},
 	{
@@ -625,11 +739,13 @@
 	{
 		"abr": "humanossalvajes",
 		"price": 600,
+		"desc": "Varios humanos salvajes pasarán por la colonia",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "bigassmeteor",
 		"price": 4000,
+		"desc": "Un meteorito de tamaño muy grande que puede destruir gran parte de la colonia",
 		"karmatype": "Doom"
 	}
 	],
