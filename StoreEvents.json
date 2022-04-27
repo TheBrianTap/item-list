@@ -338,13 +338,13 @@
 	},
 	{
 		"abr": "rasgo",
-		"price": "Indefinido",
+		"price": 1,
 		"desc": "Agrega rasgo a tu colono",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removerrasgo",
-		"price": "Indefinido",
+		"price": 1,
 		"desc": "Remueve un rasgo a tu colono",
 		"karmatype": "Good"
 	},
@@ -416,7 +416,7 @@
 	},
 	{
 		"abr": "cirugia",
-		"price": "indefinido",
+		"price": 1,
 		"desc": "Se utiliza para agregarle una cirujia a tu colono. Ejemplo: $cirugia brazobiónico",
 		"karmatype": "Neutral"
 	},
@@ -428,7 +428,7 @@
 	},
 	{
 		"abr": "reemplazarrasgo",
-		"price": "indefinido",
+		"price": 1,
 		"desc": "Aleatoriza las pasiones de tu colono",
 		"karmatype": "Neutral"
 	},
@@ -458,13 +458,13 @@
 	},
 	{
 		"abr": "mochila",
-		"price": "Indefinido",
+		"price": 1,
 		"desc": "Se utiliza para guardar objetos dentro de tu mochila",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "setrasgo",
-		"price": "Indefinido",
+		"price": 1,
 		"desc": "Resetea los rasgos de tu colono a los que vinieron por predeterminado",
 		"karmatype": "Neutral"
 	},
@@ -476,19 +476,19 @@
 	},
 	{
 		"abr": "use",
-		"price": "Indefinido",
+		"price": 1,
 		"desc": "Se utiliza para que tu colono consuma consumibles. Ej: $use porro",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "vestir",
-		"price": "Indefinido",
+		"price": 1,
 		"desc": "Se utiliza para que tu colono vista una ropa de forma forzada. Ej: $vestir gorra",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "equip",
-		"price": "Indefinido",
+		"price": 1,
 		"desc": "Se utiliza para que tu colono se equipe un arma. Tambien aplica la subcategoría de calidaes. Ej: $equip hacha[acero,legendary]",
 		"karmatype": "Neutral"
 	},
