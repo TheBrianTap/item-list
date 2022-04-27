@@ -338,7 +338,7 @@
 	},
 	{
 		"abr": "rasgo",
-		"price": "Indefinido",
+		"price": 1,
 		"desc": "Agrega rasgo a tu colono",
 		"karmatype": "Good"
 	},
