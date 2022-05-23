@@ -191,25 +191,15 @@
                 <div class="row" ng-show='selected == 4'>
                     <div class="col-md-12">
                         <div id="events">
-                            <div class="input-group input-group-sm mb-3">
-                                <div class="input-group-prepend">
-                                    <span class="input-group-text" id="inputGroup-sizing-sm">Buscar</span>
-                                </div>
-                                <input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
-                            </div>
-                            <p>
-                                <button type="button" class="btn btn-primary sort" data-sort="abr">
-                                    Ordenar
-                                </button>
-                            </p>
                             <table class="table comandos">
                                 <tr>
                                     <th scope="col" class="sort" data-sort="abr">Nombre</th>
                                     <th scope="col" class="sort" data-sort="desc">Descripción</th>
+                                    <th scope="col" class="sort" data-sort="desc">Ejemplo</th>
                                 </tr>
                                 <tbody class="list">
-					<tr><td class="abr" scope="row">!bal</td><td class="description">mira tu balance</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">!price</td><td class="description">mira el precio de un objeto</td><td class="category"></td></tr>
+					<tr><td class="abr" scope="row">!bal</td><td class="description">mira tu balance</td><td class="category">!bal</td></tr>
+					<tr><td class="abr" scope="row">!price</td><td class="description">mira el precio de un objeto</td><td class="category">!price acero</td></tr>
                                 </tbody>
                             </table>
                         </div>
