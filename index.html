@@ -40,15 +40,6 @@
             <div class="container">
                 <h1 class="display-3">Rimworld CHAT</h1>
                 <p>Rimworld es un simulador de colonia en donde los integrantes (colonos) tendrán que sobrevivir a distintas catástrofes como tornados, olas de calor, animales salvajes, asaltos enemigos o a ellos mismos como peleas de ideología, enfermedades, discusiones y rasgos con problemas de personalidad. El juego es un simple PVE, lo que he hecho fue integrarle una diversidad de distintos mods en donde permitiesen la iteración entre "colono -> espectador" a traves del chat de Twitch.</p>
-                <ul class="list-group">
-                    <li class="list-group-item">$colono [raza]- Compra un colono de forma inmediata</li>
-                    <li class="list-group-item">Razas: android(4200), asari(6500), drell(5500), droidebatalla(5000), droidwork(4000), harpy(3850), humano(3500), naga(4200), thrumkin(5000)</li>
-                    <li class="list-group-item">$mochila - cómprale un objeto en la mochila de tu colono.</li>
-                    <li class="list-group-item">$use - cómprale un objeto para que consuma tu colono.</li>
-                    <li class="list-group-item">$equip - cómprale un arma a tu colono.</li>
-                    <li class="list-group-item">$vestir - comprale vestimenta a tu colono.</li>
-                    <li class="list-group-item">Puedes indicar que tipo de material y calidad quieres. - Ejemplo: $cama[oro,legendary]</li>
-                </ul>
             </div>
         </div>
         <div ng-app='tabs' ng-controller='tabCtrl'>
@@ -161,8 +152,8 @@
                                 </tr>
                                 <tbody class="list">
 					<tr><td class="abr" scope="row">!bal</td><td class="description">Muestra tu balance en el chat</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">!price [trait/event] <nombre></td><td class="description">Muestra el precio de un objeto/evento/rasgo.</td><td class="category">!price acero<br> !price cama[madera,good]</td></tr>
-					<tr><td class="abr" scope="row">!buscar [trait/event] <nombre></td><td class="description">Muestra una lista de los eventos/items o rasgos que sean similares.</td><td class="category">!buscar fusil<br> !buscar event tornado</td></tr>
+					<tr><td class="abr" scope="row">!price [trait/event/pawn] <nombre></td><td class="description">Muestra el precio de un objeto/evento/rasgo.</td><td class="category">!price acero<br> !price cama[madera,good]<br> !price pawn asari</td></tr>
+					<tr><td class="abr" scope="row">!buscar [trait/event/pawn] <nombre></td><td class="description">Muestra una lista de los eventos/items o rasgos que sean similares.</td><td class="category">!buscar fusil<br> !buscar event tornado</td></tr>
 					<tr><td class="abr" scope="row">!join</td><td class="description">Te coloca en la lista de espera para ingresar a la colonia cuando algún colono no tenga asignado un usuario.</td><td class="category"></td></tr>
 					<tr><td class="abr" scope="row">!charla [nombredeusuario]</td><td class="description">Ten una charla con un colono.</td><td class="category">!charla feniix909</td></tr>
 					<tr><td class="abr" scope="row">!charlaprofunda [nombredeusuario]</td><td class="description">Ten una charla profunda con un colono. Ten en cuenta que esto puede llevar una buena o mala charla dependiendo los rasgos, intereses e idiologias de cada uno.</td><td class="category">!charlaprofunda feniix909</td></tr>
@@ -183,6 +174,10 @@
 					<tr><td class="abr" scope="row">!colonists</td><td class="description">Muestra la cantinad de colonos en la colonia.</td><td class="category"></td></tr>
 					<tr><td class="abr" scope="row">!wealth</td><td class="description">Muestra el poder de la colonia</td><td class="category"></td></tr>
 					<tr><td class="abr" scope="row">!giftcoins <nombredeusuario> <coins></td><td class="description">Regala coins a un usuario</td><td class="category">!giftcoins feniix909 5000</td></tr>
+					<tr><td class="abr" scope="row">$colono [raza] <coins></td><td class="description">Compra un colono de forma inmediata. Si el comando se deja vacio, se comprara la raza "humana" por defecto<br><br>Asari: $6500<br>Drell: $5500<br>Humano: $3500<br>Saiyan: $7500<br>Synth: $10000<br>T1 Android: $3300<br>T2 Android: $5200<br>T3 Android: $7000<br>T4 Android: $15500<br>T5 Android: $25000<br>Yautja: $7000</td><td class="category">$colono asari</td></tr>
+				        <tr><td class="abr" scope="row">$mochila</td><td class="description">cómprale un objeto en la mochila de tu colono para que solo la use él.</td><td class="category">$mochila medicina 5</td></tr>
+					<tr><td class="abr" scope="row">$equip </td><td class="description">cómprale y equipale un arma a tu colono.</td><td class="category">$equip gladius[acero,good]</td></tr>
+					<tr><td class="abr" scope="row">$vestir</td><td class="description">cómprale y equipale un arma a tu colono.</td><td class="category">$vestir turbante[cueroliso,good]</td></tr>
                                 </tbody>
                             </table>
                         </div>
