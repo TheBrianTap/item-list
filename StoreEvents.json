@@ -2,15 +2,15 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 2000,
 		"desc": "Invoca un tornado",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 5000,
 		"desc": "Invoca varios tornados",
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "despejarlluvia",
@@ -26,7 +26,7 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
+		"price": 1650,
 		"desc": "Invoca una lluvia que intoxicara a todos los seres vivos",
 		"karmatype": "Neutral"
 	},
@@ -56,7 +56,7 @@
 	},
 	{
 		"abr": "nevadafuerte",
-		"price": 450,
+		"price": 2450,
 		"desc": "Invoca clima muy nevado",
 		"karmatype": "Bad"
 	},
@@ -68,7 +68,7 @@
 	},
 	{
 		"abr": "oladecalor",
-		"price": 750,
+		"price": 1750,
 		"desc": "Invoca una ola de calor",
 		"karmatype": "Bad"
 	},
@@ -86,25 +86,25 @@
 	},
 	{
 		"abr": "llamaradasolar",
-		"price": 500,
+		"price": 2500,
 		"desc": "Apagara todos los circuitos electronicos y todo sistema de electricidad",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "cortocircuito",
-		"price": 500,
+		"price": 1500,
 		"desc": "Hace explotar un mecanismo electronico",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 8500,
 		"desc": "Invoca una lluvia toxica",
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 5200,
 		"desc": "El cielo estará tapado y los paneles solares producirán menos energia y las plantas menos crecimiento",
 		"karmatype": "Doom"
 	},
@@ -152,19 +152,19 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 1850,
+		"price": 4000,
 		"desc": "Un colono con estadisticas altas ingresará a la colonia",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "animalloco",
-		"price": 200,
+		"price": 700,
 		"desc": "Un animal del mapa empezara a cazar a algun colono",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 400,
+		"price": 1800,
 		"desc": "Invoca a un dron que hace una mala psíquica a tus colonos",
 		"karmatype": "Bad"
 	},
@@ -260,43 +260,43 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
+		"price": 2500,
 		"desc": "Un grupo de asaltantes atacarán de manera inmediata a la colonia",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 3250,
 		"desc": "Un grupo de asaltantes caerán desde el cielo en capsulas y atacarán la colonia",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "zaperraid",
-		"price": 1500,
+		"price": 2500,
 		"desc": "Invoca una raid de hostiles que intentarán hacer un túnel para atacar a la colonia",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "incurcion",
-		"price": 2500,
+		"price": 4500,
 		"desc": "Un grupo de asaltantes se establecerán cerca de la colonia y empezaran a asediarla con morteros",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 3500,
 		"desc": "Invoca un asalto de mecanoides",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 3500,
 		"desc": "Una colmena de insectos surgirán del suelo en lugares oscuros y atacarán a todos los seres vivos que se cruzen",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "manadacazahumanos",
-		"price": 1500,
+		"price": 3200,
 		"desc": "Una manada de animales atacaran a los colonos",
 		"karmatype": "Bad"
 	},
@@ -325,27 +325,9 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "colono",
-		"price": 1500,
-		"desc": "Agrega tu colono a la colonia, pudes especificar que tipo de raaza quieres que sea tu colono",
-		"karmatype": "Good"
-	},
-	{
 		"abr": "levelskill",
-		"price": 1500,
+		"price": 750,
 		"desc": "Agrega skills a tu colono",
-		"karmatype": "Good"
-	},
-	{
-		"abr": "rasgo",
-		"price": 1,
-		"desc": "Agrega rasgo a tu colono",
-		"karmatype": "Good"
-	},
-	{
-		"abr": "removerrasgo",
-		"price": 1,
-		"desc": "Remueve un rasgo a tu colono",
 		"karmatype": "Good"
 	},
 	{
@@ -386,13 +368,13 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 50664,
 		"desc": "Revive a todos los colones",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "revivir",
-		"price": 5000,
+		"price": 7000,
 		"desc": "Revive a tu colono",
 		"karmatype": "Good"
 	},
@@ -415,39 +397,21 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "cirugia",
-		"price": 1,
-		"desc": "Se utiliza para agregarle una cirugia a tu colono. Ejemplo: $cirugia brazobiónico",
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "pasionesazar",
 		"price": 2000,
 		"desc": "Aleatoriza las pasiones de tu colono",
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "reemplazarrasgo",
-		"price": 1,
-		"desc": "Aleatoriza las pasiones de tu colono",
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "rescueme",
-		"price": 800,
-		"desc": "DESHABILITADO (BUG) - Crea un evento para rescatar a tu colono",
+		"price": 3200,
+		"desc": "Crea un evento para rescatar a tu colono",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "fullheal",
 		"price": 2167,
-		"desc": "Cura carias lesiones en tu colono, intente revisar con el comando !salud antes de usar este comando",
-		"karmatype": "Good"
-	},
-	{
-		"abr": "pasion",
-		"price": 7000,
-		"desc": "Agrega una pasion a tu colono. Ejemplo: $pasion construcción",
+		"desc": "Cura varias lesiones en tu colono, intente revisar con el comando !salud antes de usar este comando",
 		"karmatype": "Good"
 	},
 	{
@@ -457,58 +421,16 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "mochila",
-		"price": 1,
-		"desc": "Se utiliza para guardar objetos dentro de tu mochila",
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "setrasgo",
-		"price": 1,
-		"desc": "Resetea los rasgos de tu colono a los que vinieron por predeterminado",
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "borrarrasgos",
-		"price": 1,
-		"desc": "Borra todos los rasgos, algunos rasgos no se borraran igualmente. Ejemplo: BIsexual, Asexual, Etc..",
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "use",
-		"price": 1,
-		"desc": "Se utiliza para que tu colono consuma consumibles. Ej: $use porro",
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "vestir",
-		"price": 1,
-		"desc": "Se utiliza para que tu colono vista una ropa de forma forzada. Ej: $vestir gorra",
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "equip",
-		"price": 1,
-		"desc": "Se utiliza para que tu colono se equipe un arma. Tambien aplica la subcategoría de calidaes. Ej: $equip hacha[acero,legendary]",
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "randomchildhood",
 		"price": 3000,
-		"desc": "Cambia tu historia de niñez, ADVERTENCIA: Esto podría alterar algunas skills e incapacidades al colono",
+		"desc": "Cambia tu historia de niñez",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomadulthood",
 		"price": 3000,
-		"desc": "Cambia tu historia de adultez, ADVERTENCIA: Esto podría alterar algunas skills e incapacidades al colono",
+		"desc": "Cambia tu historia de adultez",
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "smite",
-		"price": 2500,
-		"desc": "DESHABILITADO (BUG) - Invoca un rayo sobre un colono. Ejemplo: $smite regulusthorbound",
-		"karmatype": "Doom"
 	},
 	{
 		"abr": "santuario",
@@ -519,7 +441,7 @@
 	{
 		"abr": "alphaasteroid",
 		"price": 1000,
-		"desc": "UN asteroide con minerales poco no normales",
+		"desc": "Un asteroide con minerales poco no normales",
 		"karmatype": "Neutral"
 	},
 	{
@@ -590,7 +512,7 @@
 	},
 	{
 		"abr": "raidmechanoidsappers",
-		"price": 1500,
+		"price": 4000,
 		"desc": "Mecanoides pasarán cerca de tu colonia por recursos.",
 		"karmatype": "Bad"
 	},
@@ -679,9 +601,9 @@
 	},
 	{
 		"abr": "lluviameteoritos",
-		"price": 600,
+		"price": 1000,
 		"desc": "Meteoritos!",
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "animalpodcrash",
@@ -744,10 +666,10 @@
 	},
 	{
 		"abr": "bigassmeteor",
-		"price": 4000,
+		"price": 7000,
 		"desc": "Un meteorito de tamaño muy grande que puede destruir gran parte de la colonia",
 		"karmatype": "Doom"
 	}
 	],
-	"total": 126
+	"total": 124
 }
