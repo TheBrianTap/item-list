@@ -16,12 +16,23 @@
         const eventListURL = "https://raw.githubusercontent.com/TheBrianTap/item-list/master/StoreEvents.json";
         const traitListURL = "https://raw.githubusercontent.com/TheBrianTap/item-list/master/ShopExt.json";
     </script>
+<style>
+.boton {
+background-color: #a78528;
+}
+.boton:hover {
+background-color: #7e651e;
+}
+.header {
+background-color: #403734 
+}
+</style>
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark header">
         <a class="navbar-brand" href="#">SoyBrianT</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <button navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarsExampleDefault">
@@ -49,16 +60,16 @@
                         <div class='tabs'>
                             <form>
                                 <div class="form-group">
-                                    <button class="btn btn-success" ng-class="{'active': (selected == '4')}" ng-click='selected=4'>
+                                    <button class="btn btn-success boton" ng-class="{'active': (selected == '4')}" ng-click='selected=4'>
                                         Comandos
                                     </button>
-                                    <button class="btn btn-success" ng-class="{'active': (selected == '1')}" ng-click='selected=1'>
+                                    <button class="btn btn-success boton" ng-class="{'active': (selected == '1')}" ng-click='selected=1'>
                                         Items
                                     </button>
-                                    <button class="btn btn-success" ng-class="{'active': (selected == '2')}" ng-click='selected=2'>
+                                    <button class="btn btn-success boton" ng-class="{'active': (selected == '2')}" ng-click='selected=2'>
                                         Eventos
                                     </button>
-                                    <button class="btn btn-success" ng-class="{'active': (selected == '3')}" ng-click='selected=3'>
+                                    <button class="btn btn-success boton" ng-class="{'active': (selected == '3')}" ng-click='selected=3'>
                                         Rasgos
                                     </button>
                                 </div>
@@ -143,9 +154,13 @@
                                 </tr>
                                 <tbody class="list">
 					<tr><td class="abr" scope="row">!bal</td><td class="description">Muestra tu balance en el chat</td><td class="category"></td></tr>
+					<tr><td class="abr" scope="row">$mochila</td><td class="description">comprale un objeto en la mochila de tu colono para que solo la use él.</td><td class="category">$mochila medicina 5</td></tr><
 					<tr><td class="abr" scope="row">!price [item / event / trait / skill / disease] <nombre></td><td class="description">Muestra el precio de un objeto/evento/rasgo.</td><td class="category">!price acero<br> !price cama[madera,good]<br> !price pawn asari</td></tr>
 				<tr><td class="abr" scope="row">!buscar [item / event / trait / skill / disease] <nombre></td><td class="description">Muestra una lista de los eventos/items o rasgos que sean similares.</td><td class="category">!buscar fusil<br> !buscar event tornado</td></tr>
+					<tr><td class="abr" scope="row">$colono [raza] <coins></td><td class="description">Compra un colono de forma inmediata. Si el comando se deja vacio, se comprara la raza "humana" por defecto<br><br>Asari: $6500<br>Drell: $5500<br>Humano: $3500<br>Saiyan: $7500<br>Synth: $10000<br>T1 Android: $3300<br>T2 Android: $5200<br>T3 Android: $7000<br>T4 Android: $15500<br>T5 Android: $25000<br>Yautja: $7000<br>M7 Mechanised infantry: 1000BITS<br>M8 Mechanised infantry: 1000BITS</td><td class="category">$colono asari</td></tr>
+					<tr><td class="abr" scope="row">$equip </td><td class="description">comprale y equipale un arma a tu colono.</td><td class="category">$equip gladius[acero,good]</td></tr>
 					<tr><td class="abr" scope="row">!join</td><td class="description">Te coloca en la lista de espera para ingresar a la colonia cuando algún colono no tenga asignado un usuario.</td><td class="category"></td></tr>
+					<tr><td class="abr" scope="row">$vestir</td><td class="description">comprale y equipale una vestimenta o armadura a tu colono.</td><td class="category">$vestir turbante[cueroliso,good]</td></tr>
 					<tr><td class="abr" scope="row">!charla [nombredeusuario]</td><td class="description">Ten una charla con un colono.</td><td class="category">!charla feniix909</td></tr>
 					<tr><td class="abr" scope="row">!charlaprofunda [nombredeusuario]</td><td class="description">Ten una charla profunda con un colono. Ten en cuenta que esto puede llevar una buena o mala charla dependiendo los rasgos, intereses e idiologias de cada uno.</td><td class="category">!charlaprofunda feniix909</td></tr>
 					<tr><td class="abr" scope="row">!coquetear [nombredeusuario]</td><td class="description">Coquetea con un colono. Si el coqueteo es exitoso amobs colonos entablaran una relación de amantes, de lo contrario esto reflejará una mala opinión entre ambos.</td><td class="category">!coquetear feniix909</td></tr>
@@ -158,7 +173,7 @@
 					<tr><td class="abr" scope="row">!stats</td><td class="description">Muestra tus estadisticas</td><td class="category"></td></tr>
 					<tr><td class="abr" scope="row">!salud</td><td class="description">Muestra la salud física de tu colono.</td><td class="category"></td></tr>
 					<tr><td class="abr" scope="row">!needs</td><td class="description">Muestra tus necesidades chat.</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">!!fixmypawn</td><td class="description">Relinkea tu colono con tu cuenta de twitch. Usa este comando cuando el bot te diga"no estas en la colonia" y ves a tu colono dentro de ella.</td><td class="category"></td></tr>
+					<tr><td class="abr" scope="row">!fixmypawn</td><td class="description">Relinkea tu colono con tu cuenta de twitch. Usa este comando cuando el bot te diga"no estas en la colonia" y ves a tu colono dentro de ella.</td><td class="category"></td></tr>
 					<tr><td class="abr" scope="row">!vestimenta</td><td class="description">Muestra tu tu vestimenta en el chat.</td><td class="category"></td></tr>
 					<tr><td class="abr" scope="row">!cerpo</td><td class="description">Muestra los detalles de tu cuerpo en el chat.</td><td class="category"></td></tr>
 					<tr><td class="abr" scope="row">!story</td><td class="description">Muestra tus rasgos y tu historia en el chat.</td><td class="category"></td></tr>
@@ -170,10 +185,6 @@
 					<tr><td class="abr" scope="row">!divorce</td><td class="description">Pídele divorcio a un colono con el cual ya tenías un matrimonio.</td><td class="category">!divorce feniix909</td></tr>
 					<tr><td class="abr" scope="row">!mypawnclass</td><td class="description">Muestra a que clase pertenece tu colono.</td><td class="category"></td></tr>
 					<tr><td class="abr" scope="row">!giftcoins <nombredeusuario> <coins></td><td class="description">Regala coins a un usuario</td><td class="category">!giftcoins feniix909 5000</td></tr>
-					<tr><td class="abr" scope="row">$colono [raza] <coins></td><td class="description">Compra un colono de forma inmediata. Si el comando se deja vacio, se comprara la raza "humana" por defecto<br><br>Asari: $6500<br>Drell: $5500<br>Humano: $3500<br>Saiyan: $7500<br>Synth: $10000<br>T1 Android: $3300<br>T2 Android: $5200<br>T3 Android: $7000<br>T4 Android: $15500<br>T5 Android: $25000<br>Yautja: $7000<br>M7 Mechanised infantry: 1000BITS<br>M8 Mechanised infantry: 1000BITS</td><td class="category">$colono asari</td></tr>
-				        <tr><td class="abr" scope="row">$mochila</td><td class="description">comprale un objeto en la mochila de tu colono para que solo la use él.</td><td class="category">$mochila medicina 5</td></tr><
-					<tr><td class="abr" scope="row">$equip </td><td class="description">comprale y equipale un arma a tu colono.</td><td class="category">$equip gladius[acero,good]</td></tr>
-					<tr><td class="abr" scope="row">$vestir</td><td class="description">comprale y equipale una vestimenta o armadura a tu colono.</td><td class="category">$vestir turbante[cueroliso,good]</td></tr>
 					<tr><td class="abr" scope="row">$cirugia</td><td class="description">Se utiliza para agregarle una cirugia a tu colono.</td><td class="category">$cirugia brazobiónico</td></tr>
 					<tr><td class="abr" scope="row">$reemplazarrasgo</td><td class="description">Reeemplaza el razo de tu colono por otro.</td><td class="category">$reemplazarrasgo homosexual asexual</td></tr>
 					<tr><td class="abr" scope="row">$setrasgo</td><td class="description">Resetea los rasgos de tu colono a los que vinieron por predeterminado.</td><td class="category"></td></tr>
