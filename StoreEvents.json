@@ -15,447 +15,446 @@
 	{
 		"abr": "despejado",
 		"price": 800,
-		"desc": "",
+		"desc": "Crea un clima despejado",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "lluvia",
 		"price": 700,
-		"desc": "",
+		"desc": "Invoca una lluvia suave",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "vomitrain",
 		"price": 650,
-		"desc": "",
+		"desc": "Invoca una lluvia de vómito",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "nieblalluvia",
 		"price": 800,
-		"desc": "",
+		"desc": "Crea una lluvia con niebla",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rainythunderstorm",
 		"price": 250,
-		"desc": "",
+		"desc": "Invoca una tormenta de lluvia",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "tormentaseca",
 		"price": 600,
-		"desc": "",
+		"desc": "Crea una tormenta de polvo seco",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "nevada",
 		"price": 900,
-		"desc": "",
+		"desc": "Invoca una nevada suave",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "nevadafuerte",
 		"price": 1300,
-		"desc": "",
+		"desc": "Invoca una nevada intensa",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "niebla",
 		"price": 300,
-		"desc": "",
+		"desc": "Invoca una niebla espesa",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "oladecalor",
 		"price": 1500,
-		"desc": "",
+		"desc": "Invoca una ola de calor",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "flashstorm",
 		"price": 400,
-		"desc": "",
+		"desc": "Invoca una tormenta eléctrica",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "olafrio",
 		"price": 800,
-		"desc": "",
+		"desc": "Invoca una ola de frío",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "solarflare",
 		"price": 500,
-		"desc": "",
+		"desc": "Invoca una erupción solar",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "cortocircuito",
 		"price": 500,
-		"desc": "",
+		"desc": "Hace explotar un mecanismo electrónico",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "toxicfallout",
 		"price": 6500,
-		"desc": "",
+		"desc": "Invoca una lluvia tóxica",
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
 		"price": 3200,
-		"desc": "",
+		"desc": "Invoca un invierno volcánico",
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "eclipse",
 		"price": 450,
-		"desc": "",
+		"desc": "Invoca un eclipse",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "aurora",
 		"price": 200,
-		"desc": "",
+		"desc": "Invoca una aurora boreal",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "plaga",
 		"price": 1500,
-		"desc": "",
+		"desc": "Invoca una plaga de insectos",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "animaltame",
 		"price": 150,
-		"desc": "",
+		"desc": "Domestica a un animal salvaje",
 		"karmatype": "Good"
 	},
 	{
-		"abr": "podrecursos",
+		"abr": "recursospod",
 		"price": 300,
-		"desc": "",
+		"desc": "Hace caer una cápsula con recursos",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "orbitaltraderarrival",
 		"price": 350,
-		"desc": "",
+		"desc": "Llega un comerciante orbital",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
-		"desc": "",
+		"price": 300,
+		"desc": "Invoca un meteorito",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "animalloco",
 		"price": 200,
-		"desc": "",
+		"desc": "Un animal del mapa empezará a cazar a algún colono",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 400,
-		"desc": "",
+		"price": 900,
+		"desc": "Invoca un dron que causa una mala psíquica a tus colonos",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicsoothe",
-		"price": 250,
-		"desc": "",
+		"price": 550,
+		"desc": "Invoca un dron que calma a tus colonos psíquicamente",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "ambrosiasprout",
 		"price": 150,
-		"desc": "",
+		"desc": "Hace crecer un arbusto de ambrosía",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "herdmigration",
 		"price": 200,
-		"desc": "",
+		"desc": "Hace migrar a un grupo de animales",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "animaldegranja",
 		"price": 750,
-		"desc": "",
+		"desc": "Invoca a un animal de granja",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "rarethrumbos",
-		"price": 500,
-		"desc": "",
+		"desc": "Invoca a un animal raro",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "pedazosnave",
 		"price": 1000,
-		"desc": "",
+		"desc": "Hace caer pedazos de nave con recursos",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "skillup",
 		"price": 200,
-		"desc": "",
+		"desc": "Incrementa las habilidades de un colono",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "party",
 		"price": 400,
-		"desc": "",
+		"desc": "Organiza una fiesta para tus colonos",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "ataquedecastores",
 		"price": 600,
-		"desc": "",
+		"desc": "Los castores atacarán tu colonia",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpoison",
 		"price": 1900,
-		"desc": "",
+		"desc": "Hace caer un fragmento de nave envenenado",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpsychic",
 		"price": 2400,
-		"desc": "",
+		"desc": "Hace caer un fragmento de nave con maldición psíquica",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "militaryaid",
 		"price": 700,
-		"desc": "",
+		"desc": "Solicita ayuda militar",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "dropraid",
 		"price": 1500,
-		"desc": "",
+		"desc": "Un grupo de asaltantes caerán desde el cielo en cápsulas y atacarán la colonia",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
 		"price": 2500,
-		"desc": "",
+		"desc": "Invoca un asalto de mecanoides",
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "infestacion",
 		"price": 2500,
-		"desc": "",
+		"desc": "Una colmena de insectos surgirá del suelo en lugares oscuros y atacará a todos los seres vivos que se crucen",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "manhunterpack",
 		"price": 1500,
-		"desc": "",
+		"desc": "Un grupo de animales enloquecidos atacará tu colonia",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "predators",
 		"price": 2500,
-		"desc": "",
+		"desc": "Invoca a un grupo de depredadores para cazar animales",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "enfermedadazar",
 		"price": 1000,
-		"desc": "",
+		"desc": "Desata una enfermedad al azar entre tus colonos",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "enfermedad",
 		"price": 1000,
-		"desc": "",
+		"desc": "Provoca una enfermedad en tus colonos",
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviverandom",
 		"price": 5000,
-		"desc": "",
+		"desc": "Revive a un colono al azar",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "colono",
 		"price": 1,
-		"desc": "",
+		"desc": "Agrega un colono a la colonia, puedes especificar qué tipo de raza quieres que sea tu colono",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "levelskill",
 		"price": 50,
-		"desc": "",
+		"desc": "Agrega habilidades a tu colono",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "rasgo",
 		"price": 1,
-		"desc": "",
+		"desc": "Agrega un rasgo a tu colono",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removerrasgo",
 		"price": 1,
-		"desc": "",
+		"desc": "Remueve un rasgo de tu colono",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "genero",
 		"price": 1500,
-		"desc": "",
+		"desc": "Cambia el género de tu colono",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "prisoner",
 		"price": 800,
-		"desc": "",
+		"desc": "Agrega un prisionero a la colonia",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "randominspire",
 		"price": 450,
-		"desc": "",
+		"desc": "Inspira aleatoriamente a tus colonos",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "votehistoria",
 		"price": 750,
-		"desc": "",
+		"desc": "Vota por una historia aleatoria para tus colonos",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "votebot",
 		"price": 250,
-		"desc": "",
+		"desc": "Vota por una acción de un bot",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "reviveall",
 		"price": 999999,
-		"desc": "",
+		"desc": "Revive a todos los colonos",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "revivr",
 		"price": 7000,
-		"desc": "",
+		"desc": "Revive a un colono específico",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "curar",
 		"price": 200,
-		"desc": "",
+		"desc": "Cura las heridas de un colono",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "curarme",
 		"price": 600,
-		"desc": "",
+		"desc": "Cura tus propias heridas",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "surgery",
 		"price": 1,
-		"desc": "",
+		"desc": "Agrega una cirugía a tu colono. Ejemplo: $cirugia brazobiónico",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "pasionesazar",
 		"price": 2000,
-		"desc": "",
+		"desc": "Aleatoriza las pasiones de tu colono",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "reemplazarrasgo",
 		"price": 1,
-		"desc": "",
+		"desc": "Reemplaza un rasgo de tu colono al azar",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "resacte",
 		"price": 1200,
-		"desc": "",
+		"desc": "Crea un evento para rescatar a un colono",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "curartodo",
 		"price": 2200,
-		"desc": "",
+		"desc": "Cura todas las lesiones de un colono",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "pasion",
 		"price": 7000,
-		"desc": "",
+		"desc": "Agrega una pasión específica a tu colono. Ejemplo: $pasion construcción",
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removerpasion",
 		"price": 5000,
-		"desc": "",
+		"desc": "Remueve una pasión específica de tu colono. Ejemplo: $removerpasion construcción",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "mochila",
 		"price": 1,
-		"desc": "",
+		"desc": "Utiliza para guardar objetos dentro de la mochila de tu colono",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "setrasgo",
 		"price": 1,
-		"desc": "",
+		"desc": "Resetea los rasgos de tu colono a los predeterminados",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "clearrasgos",
 		"price": 1,
-		"desc": "",
+		"desc": "Elimina todos los rasgos de tu colono",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "use",
 		"price": 1,
-		"desc": "",
+		"desc": "Permite que tu colono consuma consumibles. Ejemplo: $use porro",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "vestir",
 		"price": 1,
-		"desc": "",
+		"desc": "Obliga a tu colono a vestir una prenda específica. Ejemplo: $vestir gorra",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "equip",
 		"price": 1,
-		"desc": "",
+		"desc": "Equipa a tu colono con un arma o herramienta específica. Ejemplo: $equip hacha[acero,legendary]",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "niñohistoria",
 		"price": 3000,
-		"desc": "",
+		"desc": "Cambia la historia de niñez de tu colono. ADVERTENCIA: Esto podría alterar habilidades e incapacidades",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "adultohistoria",
 		"price": 3000,
-		"desc": "",
+		"desc": "Cambia la historia de adultez de tu colono. ADVERTENCIA: Esto podría alterar habilidades e incapacidades",
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "smite",
 		"price": 500,
-		"desc": "",
-		"karmatype": "Bad"
+		"desc": "Invoca un rayo sobre un colono específico. Ejemplo: $smite regulusthorbound",
+		"karmatype": "Doom"
 	}
 	],
 	"total": 76
-	}
+}
