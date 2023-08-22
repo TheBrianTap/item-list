@@ -36,40 +36,45 @@ background-color: #403734;
             justify-content: center;
             align-items: center;
             height: 50vh;
-            margin: 0;
             background-color: #f0f0f0;
+            width: 100%;
         }
 
         .box-container {
             display: flex;
             justify-content: space-between;
-            width: 50%;
         }
 
         .box {
             flex: 1;
             margin: 5px;
-            padding: 20px;
+            height: 20vh;
+            padding: 25px;
+            padding-top: 5vh;
             background-color: #964b00;
             color: #fff;
             text-align: center;
             cursor: pointer;
-            transition: background-color 0.3s ease;
+            transition: background-color 0.3s ease, transform 0.5s cubic-bezier(0.2, 0.8, 0.2, 1.0);
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
         }
 
         .box:hover {
             background-color: #b87333;
+            transform: translateY(-10px);
+            box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.2);
         }
 </style>
 </head>
 
 <body>
     <nav class="header navbar navbar-expand-md navbar-dark fixed-top">
-        <a class="navbar-brand" href="index.html">SoyBrianT</a>
+        <a class="navbar-brand" style="color: white;">SoyBrianT</a>
         <div class="collapse navbar-collapse" id="navbarsExampleDefault">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="https://thebriantap.github.io/item-list/">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="Server Riworld.html">Server Rimwrold <span class="sr-only">(current)</span></a>
@@ -84,26 +89,26 @@ background-color: #403734;
         </div>
     </nav>
     <main role="main">
-        <div class="jumbotron" style="padding-bottom: 15px;">
+        <div class="jumbotron" style="padding-bottom: 0px; margin-bottom: 0px;">
             <div class="container">
-                <p style="font-size: 2rem;margin-bottom: 0px;">Rimworld CHAT</p>
+                <p style="font-size: 2rem;margin-bottom: 0px;"></p>
                 <p>.</p>
             </div>
         </div>
 
-        <div class="main-container">
+        <div class="main-container" style="background-color:#fff">
             <div class="box-container">
-                <div class="box" onclick="window.location.href='enlace1.html'">
-                    Texto 1
+                <div class="box" onclick="window.location.href='https://thebriantap.github.io/item-list/ttk.html'">
+                    Rimworld CHAT (TTK)
                 </div>
                 <div class="box" onclick="window.location.href='enlace2.html'">
-                    Texto 2
+                    Rimworld Server
                 </div>
             </div>
         </div>
 
     </main>
-    <footer class="text-muted">
+    <footer class="text-muted" style="padding-top: 15%;">
         <div class="container">
             <p class="float-right">
                 <a href="#">Back to top</a>
