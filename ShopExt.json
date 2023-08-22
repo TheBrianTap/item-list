@@ -6,7 +6,7 @@
       "price": 2000,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy disfruta de la sensación de libertad que resulta de estar completamente desnudPAWN_gender ? o : a. Puede soportar la ropa, pero será más feliz si no trae nada. ",
+      "description": "Regulus disfruta de la sensación de libertad que resulta de estar completamente desnudPAWN_gender ? o : a. Puede soportar la ropa, pero será más feliz si no trae nada. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -28,7 +28,7 @@
       "price": 3710,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy se apresura a hacer daño a la gente y no le importa ver sangre o muerte. Es cuatro veces más probable que empiece una pelea. ",
+      "description": "Regulus se apresura a hacer daño a la gente y no le importa ver sangre o muerte. Es cuatro veces más probable que empiece una pelea. ",
       "stats": [
         "TKUtils.Trait.MeditationEnabled ",
         "-10.00% vulnerabilidad"
@@ -56,7 +56,7 @@
       "price": 3530,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy es una persona excepcionalmente agradable y generosa. él raramente insulta a los demás y a veces ofrece palabras amables para alegrar el ánimo de los que le rodean. Tampoco juzga a las personas por su aspecto. Su simpatía también le hace más proclive a conformarse con las opiniones predominantes. ",
+      "description": "Regulus es una persona excepcionalmente agradable y generosa. él raramente insulta a los demás y a veces ofrece palabras amables para alegrar el ánimo de los que le rodean. Tampoco juzga a las personas por su aspecto. Su simpatía también le hace más proclive a conformarse con las opiniones predominantes. ",
       "stats": [
         "x200% factor de pérdida de certeza global"
       ],
@@ -88,7 +88,7 @@
       "price": 3600,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy no tiene empatía. El sufrimiento de los demás no le molesta en lo más mínimo. A él no le importa que otras personas sean descuartizadas, se les deje sin enterrar, se les encarcele o que sean vendidas a la esclavitud, a no ser que lo afecte directamente. él no podrá mejorar su humor socializando con la gente. ",
+      "description": "Regulus no tiene empatía. El sufrimiento de los demás no le molesta en lo más mínimo. A él no le importa que otras personas sean descuartizadas, se les deje sin enterrar, se les encarcele o que sean vendidas a la esclavitud, a no ser que lo afecte directamente. él no podrá mejorar su humor socializando con la gente. ",
       "stats": [
         "TKUtils.Trait.MeditationEnabled ",
         "x50% factor de pérdida de certeza global"
@@ -116,7 +116,7 @@
       "price": 2800,
       "removePrice": 5500,
       "degree": 0,
-      "description": "A Timmy le enseñaron que comer carne humana está mal y es algo horrible. Pero una vez, hace mucho tiempo, él la probó... y le gustó. ",
+      "description": "A Regulus le enseñaron que comer carne humana está mal y es algo horrible. Pero una vez, hace mucho tiempo, él la probó... y le gustó. ",
       "stats": [
         "TKUtils.Trait.MeditationEnabled"
       ],
@@ -142,7 +142,7 @@
       "price": 1900,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy siempre dice exactamente lo que le pasa por la cabeza, especialmente si es algo que lo molesta. Y eso tiende a irritar a la gente. ",
+      "description": "Regulus siempre dice exactamente lo que le pasa por la cabeza, especialmente si es algo que lo molesta. Y eso tiende a irritar a la gente. ",
       "stats": [
         "x50% factor de pérdida de certeza global"
       ],
@@ -168,7 +168,7 @@
       "price": 5500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "La inteligencia de Timmy es demasiado elevada para su propio bien. él aprende cualquier cosa mucho más rápido que todos los demás, pero puede comportarse de forma excéntrica. ",
+      "description": "La inteligencia de Regulus es demasiado elevada para su propio bien. él aprende cualquier cosa mucho más rápido que todos los demás, pero puede comportarse de forma excéntrica. ",
       "stats": [
         "+75% factor de aprendizaje global ",
         "+12% umbral de colapso mental ",
@@ -212,7 +212,7 @@
       "price": 5900,
       "removePrice": 5500,
       "degree": 0,
-      "description": "A Timmy le encanta pelear cara a cara. Su puntería aumenta significativamente durante el combate cuerpo a cuerpo, pero él se enfadará bastante si se le pide que lleve un arma a distancia. ",
+      "description": "A Regulus le encanta pelear cara a cara. Su puntería aumenta significativamente durante el combate cuerpo a cuerpo, pero él se enfadará bastante si se le pide que lleve un arma a distancia. ",
       "stats": [
         "TKUtils.Trait.Inspiration ",
         "+4 cuerpo a cuerpo ",
@@ -252,7 +252,7 @@
       "price": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy encuentra algo emocionante en ser heridPAWN_gender ? o : a. él no sabe por qué, su cerebro está programado de manera diferente. ",
+      "description": "Regulus encuentra algo emocionante en ser heridPAWN_gender ? o : a. él no sabe por qué, su cerebro está programado de manera diferente. ",
       "stats": [
         "TKUtils.Trait.MeditationEnabled ",
         "+30.00% vulnerabilidad"
@@ -284,7 +284,7 @@
       "price": 2000,
       "removePrice": 5500,
       "degree": 0,
-      "description": "A Timmy le gusta estar despiertPAWN_gender ? o : a durante la noche, y dormir durante el día.\n\n recibe un bono de humor si se despierta por la noche (23h-6h) y una pérdida de humor si se despierta durante el día (11h-18h).\n\nNo sufre de penalización de humor por estar en la oscuridad. ",
+      "description": "A Regulus le gusta estar despiertPAWN_gender ? o : a durante la noche, y dormir durante el día.\n\n recibe un bono de humor si se despierta por la noche (23h-6h) y una pérdida de humor si se despierta durante el día (11h-18h).\n\nNo sufre de penalización de humor por estar en la oscuridad. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -306,7 +306,7 @@
       "price": 3560,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy necesita un dormitorio realmente impresionante. Pierde humor si no consigue lo que quiere. ",
+      "description": "Regulus necesita un dormitorio realmente impresionante. Pierde humor si no consigue lo que quiere. ",
       "stats": [],
       "conflicts": [
         "austero ",
@@ -334,7 +334,7 @@
       "price": 2340,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Para Timmy es degradante tener un dormitorio menos impresionante que el de alguien más. él pierde humor si algún colono tiene un dormitorio más impresionante. ",
+      "description": "Para Regulus es degradante tener un dormitorio menos impresionante que el de alguien más. él pierde humor si algún colono tiene un dormitorio más impresionante. ",
       "stats": [
         "TKUtils.Trait.MeditationEnabled"
       ],
@@ -366,7 +366,7 @@
       "price": 3510,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy ha renunciado a las comodidades físicas y a los placeres en favor de un estilo de vida simple y puro. él será infeliz si tiene un dormitorio demasiado impresionante. A él también le disgusta la comida elegante y prefiere comer su comida cruda. Nunca juzga a los demás por su apariencia. ",
+      "description": "Regulus ha renunciado a las comodidades físicas y a los placeres en favor de un estilo de vida simple y puro. él será infeliz si tiene un dormitorio demasiado impresionante. A él también le disgusta la comida elegante y prefiere comer su comida cruda. Nunca juzga a los demás por su apariencia. ",
       "stats": [
         "TKUtils.Trait.MeditationDisabled ",
         "TKUtils.Trait.MeditationEnabled ",
@@ -406,7 +406,7 @@
       "price": 3000,
       "removePrice": 5500,
       "degree": 0,
-      "description": "A Timmy le atrae la gente de su mismo sexo. ",
+      "description": "A Regulus le atrae la gente de su mismo sexo. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -428,7 +428,7 @@
       "price": 3000,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy se siente románticamente atraídPAWN_gender ? o : a tanto por hombres como por mujeres. ",
+      "description": "Regulus se siente románticamente atraídPAWN_gender ? o : a tanto por hombres como por mujeres. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -450,7 +450,7 @@
       "price": 3000,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy no tiene ninguna atracción sexual hacia nadie en absoluto. ",
+      "description": "Regulus no tiene ninguna atracción sexual hacia nadie en absoluto. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -472,7 +472,7 @@
       "price": 1170,
       "removePrice": 5500,
       "degree": 0,
-      "description": "La voz de Timmy tiene una cualidad aguda y nasal terriblemente incómoda al oído humano. Esto predispone a los demás contra él. ",
+      "description": "La voz de Regulus tiene una cualidad aguda y nasal terriblemente incómoda al oído humano. Esto predispone a los demás contra él. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -494,7 +494,7 @@
       "price": 1550,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy tiene una respiración muy sonora y profunda todo el tiempo. Además, siempre está sudando. Los demás se sienten incómodos a su alrededor. ",
+      "description": "Regulus tiene una respiración muy sonora y profunda todo el tiempo. Además, siempre está sudando. Los demás se sienten incómodos a su alrededor. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -516,7 +516,7 @@
       "price": 1670,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy ama el fuego. Nunca apagará los incendios, y de vez en cuando se lanzan a encender fuego al azar. él será feliz alrededor de las llamas, y más feliz cuando empuñe un arma incendiaria. ",
+      "description": "Regulus ama el fuego. Nunca apagará los incendios, y de vez en cuando se lanzan a encender fuego al azar. él será feliz alrededor de las llamas, y más feliz cuando empuñe un arma incendiaria. ",
       "stats": [
         "TKUtils.Trait.MeditationEnabled ",
         "TKUtils.Trait.MentalBreak"
@@ -544,7 +544,7 @@
       "price": 2430,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy es débil y cobarde. Incluso un poco de dolor lo inmovilizará. ",
+      "description": "Regulus es débil y cobarde. Incluso un poco de dolor lo inmovilizará. ",
       "stats": [
         "-50% umbral de dolor ",
         "+20.00% vulnerabilidad ",
@@ -580,7 +580,7 @@
       "price": 3840,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy tiene una remarcable inteligencia cinestésica. él parece bailar alrededor del peligro con una gracia preternatural. ",
+      "description": "Regulus tiene una remarcable inteligencia cinestésica. él parece bailar alrededor del peligro con una gracia preternatural. ",
       "stats": [
         "+15.0 prob. de esquivar golpes CaC. ",
         "-10.00% vulnerabilidad ",
@@ -610,7 +610,7 @@
       "price": 4030,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy tiene un don para aprender. él capta las cosas mucho más rápido que otros. ",
+      "description": "Regulus tiene un don para aprender. él capta las cosas mucho más rápido que otros. ",
       "stats": [
         "+75% factor de aprendizaje global"
       ],
@@ -636,7 +636,7 @@
       "price": 1050,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy es lentPAWN_gender ? o : a en la captación. Aprende mucho más lento que otros. ",
+      "description": "Regulus es lentPAWN_gender ? o : a en la captación. Aprende mucho más lento que otros. ",
       "stats": [
         "-75% factor de aprendizaje global ",
         "x50% factor de pérdida de certeza global"
@@ -668,7 +668,7 @@
       "price": 2640,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy no necesita estar al aire libre. él nunca se sentirá encerradPAWN_gender ? o : a ni tendrá claustrofobia, no importa cuánto tiempo se quede adentro y no le molesta la oscuridad. ",
+      "description": "Regulus no necesita estar al aire libre. él nunca se sentirá encerradPAWN_gender ? o : a ni tendrá claustrofobia, no importa cuánto tiempo se quede adentro y no le molesta la oscuridad. ",
       "stats": [
         "TKUtils.Trait.MeditationEnabled"
       ],
@@ -720,7 +720,7 @@
       "price": 2740,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy cree que el cuerpo humano está limitado por una razón. Para él, las partes artificiales del cuerpo y los xenogenes son poco éticos y repugnantes. ",
+      "description": "Regulus cree que el cuerpo humano está limitado por una razón. Para él, las partes artificiales del cuerpo y los xenogenes son poco éticos y repugnantes. ",
       "stats": [
         "-10.00% deseo sexual"
       ],
@@ -750,7 +750,7 @@
       "price": 2000,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy realmente odia y desconfía de los hombres. ",
+      "description": "Regulus realmente odia y desconfía de los hombres. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -772,7 +772,7 @@
       "price": 2000,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy realmente odia y desconfía de las mujeres. ",
+      "description": "Regulus realmente odia y desconfía de las mujeres. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -794,7 +794,7 @@
       "price": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy tiene una memoria fantástica para los detalles. él perderá habilidades no utilizadas a la mitad del ritmo de otras personas. ",
+      "description": "Regulus tiene una memoria fantástica para los detalles. él perderá habilidades no utilizadas a la mitad del ritmo de otras personas. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -816,7 +816,7 @@
       "price": 4300,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy tiene piel gruesa, carne densa y huesos fuertes. él recibe mucho menos daño que otras personas por los mismos golpes. él es extremadamente difícil de matar. ",
+      "description": "Regulus tiene piel gruesa, carne densa y huesos fuertes. él recibe mucho menos daño que otras personas por los mismos golpes. él es extremadamente difícil de matar. ",
       "stats": [
         "-40.00% vulnerabilidad ",
         "x50% multiplicador de daño recibido"
@@ -844,7 +844,7 @@
       "price": 3540,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy se siente alienadPAWN_gender ? o : a e incomprendidPAWN_gender ? o : a por otros seres humanos. él tendrá una constante perdida de humor, pero tendrá una probabilidad del (50%) de obtener una inspiración creativa después de sufrir un colapso mental. ",
+      "description": "Regulus se siente alienadPAWN_gender ? o : a e incomprendidPAWN_gender ? o : a por otros seres humanos. él tendrá una constante perdida de humor, pero tendrá una probabilidad del (50%) de obtener una inspiración creativa después de sufrir un colapso mental. ",
       "stats": [
         "TKUtils.Trait.MeditationEnabled"
       ],
@@ -870,7 +870,7 @@
       "price": 2840,
       "removePrice": 5500,
       "degree": 0,
-      "description": "La vida de Timmy gira en torno a la comida. Le entra hambre rápidamente, y de vez en cuando se ve superadPAWN_gender ? o : a por el impulso de comer vorazmente, incluso cuando no tiene hambre. ",
+      "description": "La vida de Regulus gira en torno a la comida. Le entra hambre rápidamente, y de vez en cuando se ve superadPAWN_gender ? o : a por el impulso de comer vorazmente, incluso cuando no tiene hambre. ",
       "stats": [
         "TKUtils.Trait.MentalBreak ",
         "+4 cocina"
@@ -902,7 +902,7 @@
       "price": 3860,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy no necesita dormir tanto como una persona normal. Si él está durmiendo en una cama o en el suelo, estará completamente descansadPAWN_gender ? o : a en dos tercios del tiempo habitual. ",
+      "description": "Regulus no necesita dormir tanto como una persona normal. Si él está durmiendo en una cama o en el suelo, estará completamente descansadPAWN_gender ? o : a en dos tercios del tiempo habitual. ",
       "stats": [
         "+50% multi. de la tasa de reposo"
       ],
@@ -928,7 +928,7 @@
       "price": 2200,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy siempre se queda atrás cada vez que viaja en grupo. ",
+      "description": "Regulus siempre se queda atrás cada vez que viaja en grupo. ",
       "stats": [
         "TKUtils.Trait.Inspiration ",
         "-0.20 velocidad de movimiento"
@@ -956,7 +956,7 @@
       "price": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "A Timmy le gusta llegar a los sitios rápido. él camina más rápido que el resto de la gente. ",
+      "description": "A Regulus le gusta llegar a los sitios rápido. él camina más rápido que el resto de la gente. ",
       "stats": [
         "+0.20 velocidad de movimiento"
       ],
@@ -982,7 +982,7 @@
       "price": 3620,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmy siempre se mueve como si tuviera prisa, tan deprisa que normalmente deja atrás a todos los demás. ",
+      "description": "Regulus siempre se mueve como si tuviera prisa, tan deprisa que normalmente deja atrás a todos los demás. ",
       "stats": [
         "+0.40 velocidad de movimiento"
       ],
@@ -1008,7 +1008,7 @@
       "price": 2680,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmy tiene una fascinación intensa por los químicos recreativos. El consumo de drogas recreativas mejorará el humor, mientras que la abstención conducirá a una creciente frustración a lo largo del tiempo y posiblemente a borracheras de drogas. Ignorará las directivas de no usar drogas recreativas, y consumirá más que una persona normal. ",
+      "description": "Regulus tiene una fascinación intensa por los químicos recreativos. El consumo de drogas recreativas mejorará el humor, mientras que la abstención conducirá a una creciente frustración a lo largo del tiempo y posiblemente a borracheras de drogas. Ignorará las directivas de no usar drogas recreativas, y consumirá más que una persona normal. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1030,7 +1030,7 @@
       "price": 2600,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy tiene un interés por los químicos recreativos. El consumo de drogas recreativas mejorará el humor, mientras que la abstención conducirá a una creciente frustración a lo largo del tiempo y posiblemente a borracheras de drogas. Ignorará las directivas de no usar drogas recreativas, y consumirá más que una persona normal. ",
+      "description": "Regulus tiene un interés por los químicos recreativos. El consumo de drogas recreativas mejorará el humor, mientras que la abstención conducirá a una creciente frustración a lo largo del tiempo y posiblemente a borracheras de drogas. Ignorará las directivas de no usar drogas recreativas, y consumirá más que una persona normal. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1052,7 +1052,7 @@
       "price": 4030,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy aborrece la idea de consumir cualquier sustancia con fines recreativos y se abstiene de consumir alcohol o drogas. ",
+      "description": "Regulus aborrece la idea de consumir cualquier sustancia con fines recreativos y se abstiene de consumir alcohol o drogas. ",
       "stats": [
         "TKUtils.Trait.MentalState ",
         "TKUtils.Trait.MentalState"
@@ -1080,7 +1080,7 @@
       "price": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmy considera alentadora cualquier situación, siempre, sin importarle cuál sea. ",
+      "description": "Regulus considera alentadora cualquier situación, siempre, sin importarle cuál sea. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1102,7 +1102,7 @@
       "price": 3600,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy tiene una inclinación natural hacia el optimismo. Es difícil entristecerlo. ",
+      "description": "Regulus tiene una inclinación natural hacia el optimismo. Es difícil entristecerlo. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1124,7 +1124,7 @@
       "price": 1720,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy suele centrarse en el lado negativo de las cosas. ",
+      "description": "Regulus suele centrarse en el lado negativo de las cosas. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1146,7 +1146,7 @@
       "price": 1500,
       "removePrice": 5500,
       "degree": -2,
-      "description": "Timmy siempre es infeliz. él tiene problemas para mantenerse de buen humor, incluso cuando todo le va bien. ",
+      "description": "Regulus siempre es infeliz. él tiene problemas para mantenerse de buen humor, incluso cuando todo le va bien. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1168,7 +1168,7 @@
       "price": 5440,
       "removePrice": 5500,
       "degree": 2,
-      "description": "La determinación de Timmy está protegida por un escudo de hierro. él sigue adelante a pesar de cualquier contratiempo, incluso los que harían rendirse a cualquier otro. ",
+      "description": "La determinación de Regulus está protegida por un escudo de hierro. él sigue adelante a pesar de cualquier contratiempo, incluso los que harían rendirse a cualquier otro. ",
       "stats": [
         "-18% umbral de colapso mental ",
         "x25% factor de pérdida de certeza global"
@@ -1196,7 +1196,7 @@
       "price": 4370,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy tiene una estabilidad mental firme, no se quebrará bajo las situaciones de estrés que quebrarían a la mayoría de personas. ",
+      "description": "Regulus tiene una estabilidad mental firme, no se quebrará bajo las situaciones de estrés que quebrarían a la mayoría de personas. ",
       "stats": [
         "-9% umbral de colapso mental ",
         "x50% factor de pérdida de certeza global"
@@ -1224,7 +1224,7 @@
       "price": 1900,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy tiende a flaquear al ser sometidPAWN_gender ? o : a a presión. ",
+      "description": "Regulus tiende a flaquear al ser sometidPAWN_gender ? o : a a presión. ",
       "stats": [
         "+8% umbral de colapso mental ",
         "x200% factor de pérdida de certeza global"
@@ -1252,7 +1252,7 @@
       "price": 1800,
       "removePrice": 5500,
       "degree": -2,
-      "description": "Timmy está continuamente a punto de estallar ante una situación problemática. él es quien primero se quiebra ante una situación difícil. ",
+      "description": "Regulus está continuamente a punto de estallar ante una situación problemática. él es quien primero se quiebra ante una situación difícil. ",
       "stats": [
         "+15% umbral de colapso mental ",
         "x300% factor de pérdida de certeza global"
@@ -1280,7 +1280,7 @@
       "price": 3000,
       "removePrice": 5500,
       "degree": 1,
-      "description": "A Timmy le gusta que todo esté siempre en su sitio. Trabajará más que la mayoría de las personas para conseguir que las cosas estén como él quiere. Pero en ocasiones, sus nervios lo derrotan. ",
+      "description": "A Regulus le gusta que todo esté siempre en su sitio. Trabajará más que la mayoría de las personas para conseguir que las cosas estén como él quiere. Pero en ocasiones, sus nervios lo derrotan. ",
       "stats": [
         "+20% velocidad de trabajo general ",
         "+8% umbral de colapso mental"
@@ -1308,7 +1308,7 @@
       "price": 3000,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmy no para de estresarse con todas las cosas que hay por hacer. Trabajará como un animal para que las cosas estén como él quiere. Pero sus nervios pueden facilmente derrotarlo. ",
+      "description": "Regulus no para de estresarse con todas las cosas que hay por hacer. Trabajará como un animal para que las cosas estén como él quiere. Pero sus nervios pueden facilmente derrotarlo. ",
       "stats": [
         "+40% velocidad de trabajo general ",
         "+14% umbral de colapso mental"
@@ -1336,7 +1336,7 @@
       "price": 3940,
       "removePrice": 5500,
       "degree": 2,
-      "description": "A Timmy le parece fácil mantenerse concentradPAWN_gender ? o : a en el trabajo y hacer las cosas más rápido que a la mayoría. ",
+      "description": "A Regulus le parece fácil mantenerse concentradPAWN_gender ? o : a en el trabajo y hacer las cosas más rápido que a la mayoría. ",
       "stats": [
         "+35% velocidad de trabajo general"
       ],
@@ -1362,7 +1362,7 @@
       "price": 4000,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy es PAWN_gender ? un trabajador nato : una trabajadora nata. Terminará cualquier tarea mucho antes que los demás. ",
+      "description": "Regulus es PAWN_gender ? un trabajador nato : una trabajadora nata. Terminará cualquier tarea mucho antes que los demás. ",
       "stats": [
         "+20% velocidad de trabajo general"
       ],
@@ -1388,7 +1388,7 @@
       "price": 1800,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy es un poco flojPAWN_gender ? o : a. ",
+      "description": "Regulus es un poco flojPAWN_gender ? o : a. ",
       "stats": [
         "-20% velocidad de trabajo general"
       ],
@@ -1414,7 +1414,7 @@
       "price": 1720,
       "removePrice": 5500,
       "degree": -2,
-      "description": "A Timmy le encanta estar sin hacer nada y odia cualquier cosa productiva. Se mueve despacio y rara vez se puede centrar en una sola tarea. ",
+      "description": "A Regulus le encanta estar sin hacer nada y odia cualquier cosa productiva. Se mueve despacio y rara vez se puede centrar en una sola tarea. ",
       "stats": [
         "-35% velocidad de trabajo general"
       ],
@@ -1440,7 +1440,7 @@
       "price": 4800,
       "removePrice": 5500,
       "degree": 2,
-      "description": "La mente de Timmy podría usarse como un diapasón psíquico. él es extremadamene sensible a fenomenos psíquicos. ",
+      "description": "La mente de Regulus podría usarse como un diapasón psíquico. él es extremadamene sensible a fenomenos psíquicos. ",
       "stats": [
         "+80% sensibilidad psíquica"
       ],
@@ -1466,7 +1466,7 @@
       "price": 3730,
       "removePrice": 5500,
       "degree": 1,
-      "description": "La mente de Timmy es inusualmente sensible a fenómenos psíquicos. ",
+      "description": "La mente de Regulus es inusualmente sensible a fenómenos psíquicos. ",
       "stats": [
         "+40% sensibilidad psíquica"
       ],
@@ -1492,7 +1492,7 @@
       "price": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "La mente de Timmy está desafinada psíquicamente en comparación con la mayoría de las personas. Los fenómenos psíquicos no le afectarán tanto como a los demás. ",
+      "description": "La mente de Regulus está desafinada psíquicamente en comparación con la mayoría de las personas. Los fenómenos psíquicos no le afectarán tanto como a los demás. ",
       "stats": [
         "-50% sensibilidad psíquica"
       ],
@@ -1518,7 +1518,7 @@
       "price": 3440,
       "removePrice": 5500,
       "degree": -2,
-      "description": "La mente de Timmy utiliza una frecuencia psíquica diferente a la de los demás. Los fenomenos psíquicos simplemente no le afectan. ",
+      "description": "La mente de Regulus utiliza una frecuencia psíquica diferente a la de los demás. Los fenomenos psíquicos simplemente no le afectan. ",
       "stats": [
         "-100% sensibilidad psíquica"
       ],
@@ -1544,7 +1544,7 @@
       "price": 3420,
       "removePrice": 5500,
       "degree": 1,
-      "description": "La puntería de Timmy es excelente, pero él necesita más tiempo para apuntar a su blanco. ",
+      "description": "La puntería de Regulus es excelente, pero él necesita más tiempo para apuntar a su blanco. ",
       "stats": [
         "+25% tiempo para apuntar ",
         "+5.0 precisión de disparo"
@@ -1576,7 +1576,7 @@
       "price": 3500,
       "removePrice": 5500,
       "degree": -1,
-      "description": "¡Pum, pum, pum! A Timmy le encanta apretar el gatillo. Dispara mucho más rápido que los demás pero con menos precisión. ",
+      "description": "¡Pum, pum, pum! A Regulus le encanta apretar el gatillo. Dispara mucho más rápido que los demás pero con menos precisión. ",
       "stats": [
         "-50% tiempo para apuntar ",
         "-5.0 precisión de disparo"
@@ -1608,7 +1608,7 @@
       "price": 4500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmy es excepcionalmente hermosPAWN_gender ? o : a, con una estructura facial exótica pero a la vez familiar y una mirada paralizante. La gente se siente atraída a él aunque él ni siquiera haya abierto la boca. ",
+      "description": "Regulus es excepcionalmente hermosPAWN_gender ? o : a, con una estructura facial exótica pero a la vez familiar y una mirada paralizante. La gente se siente atraída a él aunque él ni siquiera haya abierto la boca. ",
       "stats": [
         "+2.0 belleza"
       ],
@@ -1634,7 +1634,7 @@
       "price": 3800,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy tiene un bello rostro, lo cual predispone a la gente a gustar de él. ",
+      "description": "Regulus tiene un bello rostro, lo cual predispone a la gente a gustar de él. ",
       "stats": [
         "+1.0 belleza"
       ],
@@ -1660,7 +1660,7 @@
       "price": 1710,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy es algo fePAWN_gender ? o : a. Esto repele sutilmente a los demás durante las interacciones sociales. ",
+      "description": "Regulus es algo fePAWN_gender ? o : a. Esto repele sutilmente a los demás durante las interacciones sociales. ",
       "stats": [
         "-1.0 belleza"
       ],
@@ -1686,7 +1686,7 @@
       "price": 800,
       "removePrice": 5500,
       "degree": -2,
-      "description": "Timmy es increíblemente horrible. Su cara parece una mezcla entre un dibujo hecho por un niño poco talentoso, un feto malforme en un jarrón de formaldehído y una pieza de arte moderno. Los demás tienen que hacer un esfuerzo consciente para mirarlo a la cara mientras habla. ",
+      "description": "Regulus es increíblemente horrible. Su cara parece una mezcla entre un dibujo hecho por un niño poco talentoso, un feto malforme en un jarrón de formaldehído y una pieza de arte moderno. Los demás tienen que hacer un esfuerzo consciente para mirarlo a la cara mientras habla. ",
       "stats": [
         "-2.0 belleza"
       ],
@@ -1712,7 +1712,7 @@
       "price": 7000,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy tiene un sistema inmunológico naturalmente poderoso. Obtendrá inmunidad mucho más rápido de lo que lo haría una persona normal, y puede sobrevivir a enfermedades que matarían a otros. ",
+      "description": "Regulus tiene un sistema inmunológico naturalmente poderoso. Obtendrá inmunidad mucho más rápido de lo que lo haría una persona normal, y puede sobrevivir a enfermedades que matarían a otros. ",
       "stats": [
         "+30% velocidad de inmunización"
       ],
@@ -1738,7 +1738,7 @@
       "price": 3030,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy tiene un sistema inmunológico horrible. Se enferma con más frecuencia de lo normal, con frecuencia con enfermedades que nadie en la colonia ha padecido. ",
+      "description": "Regulus tiene un sistema inmunológico horrible. Se enferma con más frecuencia de lo normal, con frecuencia con enfermedades que nadie en la colonia ha padecido. ",
       "stats": [
         "+4 medicina"
       ],
@@ -1764,7 +1764,7 @@
       "price": 1800,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy tiene la piel y los huesos frágiles. él recibe más daño que otras personas por los mismos golpes. ",
+      "description": "Regulus tiene la piel y los huesos frágiles. él recibe más daño que otras personas por los mismos golpes. ",
       "stats": [
         "x115% multiplicador de daño recibido"
       ],
@@ -1790,7 +1790,7 @@
       "price": 1800,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Cuanta menos gente haya en la facción de Timmy, más feliz será él. La soledad es lo mejor de todo. ",
+      "description": "Cuanta menos gente haya en la facción de Regulus, más feliz será él. La soledad es lo mejor de todo. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1812,7 +1812,7 @@
       "price": 3500,
       "removePrice": 5500,
       "degree": 2,
-      "description": "Timmy está obsesionadPAWN_gender ? o : a con los gérmenes y necesita ir a lavarse con más frecuencia. ",
+      "description": "Regulus está obsesionadPAWN_gender ? o : a con los gérmenes y necesita ir a lavarse con más frecuencia. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1834,7 +1834,7 @@
       "price": 2100,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy esta obsesionadPAWN_gender ? o : a con la higiene y necesita ir a lavarse con más frecuencia. ",
+      "description": "Regulus esta obsesionadPAWN_gender ? o : a con la higiene y necesita ir a lavarse con más frecuencia. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1856,7 +1856,7 @@
       "price": 1520,
       "removePrice": 5500,
       "degree": -1,
-      "description": "Timmy no se preocupa mucho por su higiene y suele escaquearse más de lo normal a la hora de lavarse. ",
+      "description": "Regulus no se preocupa mucho por su higiene y suele escaquearse más de lo normal a la hora de lavarse. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1878,7 +1878,7 @@
       "price": 1900,
       "removePrice": 5500,
       "degree": -2,
-      "description": "Timmy tiene un concepto de limpieza inaudito, ¡no toca el agua ni con un palo! y sólo se lava cuando es absolutamente necesario. ",
+      "description": "Regulus tiene un concepto de limpieza inaudito, ¡no toca el agua ni con un palo! y sólo se lava cuando es absolutamente necesario. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -1900,7 +1900,7 @@
       "price": 1510,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working. ",
+      "description": "Regulus tends to occasionally allow their mind to drift, even in the middle of working. ",
       "stats": [],
       "conflicts": [
         "workaholic ",
@@ -1934,7 +1934,7 @@
       "price": 4370,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined. ",
+      "description": "Regulus has a loose screw or two, a small trade off for being naturally scientifically inclined. ",
       "stats": [
         "x115% velocidad de investigación"
       ],
@@ -1964,7 +1964,7 @@
       "price": 3120,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy strives for perfection in su work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in. ",
+      "description": "Regulus strives for perfection in su work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in. ",
       "stats": [
         "x65% velocidad de trabajo general"
       ],
@@ -1990,7 +1990,7 @@
       "price": 2600,
       "removePrice": 5500,
       "degree": 0,
-      "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and él will try to hide or run as a first priority. ",
+      "description": "While fully capable of warfare in theory, Regulus's fight or flight instincts heavily lean towards flight, and él will try to hide or run as a first priority. ",
       "stats": [],
       "conflicts": [
         "luchador ",
@@ -2020,7 +2020,7 @@
       "price": 3510,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds. ",
+      "description": "Regulus has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds. ",
       "stats": [
         "-20% umbral de colapso mental ",
         "+20% umbral de dolor"
@@ -2054,7 +2054,7 @@
       "price": 3530,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling. ",
+      "description": "Minor bruises and scrapes plague Regulus all too often, mostly due to uncoordinated tripping or falling. ",
       "stats": [],
       "conflicts": [
         "ágil"
@@ -2080,7 +2080,7 @@
       "price": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either. ",
+      "description": "Regulus loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either. ",
       "stats": [
         "+10.0C temperatura máxima agradable"
       ],
@@ -2110,7 +2110,7 @@
       "price": 3510,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either. ",
+      "description": "Regulus loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either. ",
       "stats": [
         "-10.0C temperatura mínima agradable"
       ],
@@ -2140,7 +2140,7 @@
       "price": 3070,
       "removePrice": 5500,
       "degree": 0,
-      "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either. ",
+      "description": "A bomb could go off next to Regulus while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2162,7 +2162,7 @@
       "price": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning. ",
+      "description": "Regulus is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning. ",
       "stats": [],
       "conflicts": [
         "slob"
@@ -2188,7 +2188,7 @@
       "price": 1670,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes. ",
+      "description": "Regulus is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes. ",
       "stats": [],
       "conflicts": [
         "neat"
@@ -2214,7 +2214,7 @@
       "price": 4770,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has problems taking breaks or resting mid job. él will continue to work even sacrificing their health or sleep. ",
+      "description": "Regulus has problems taking breaks or resting mid job. él will continue to work even sacrificing their health or sleep. ",
       "stats": [],
       "conflicts": [
         "absent-minded ",
@@ -2248,7 +2248,7 @@
       "price": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has never felt nausea in su life. Throwing up or food poisoning is foreign to lo. ",
+      "description": "Regulus has never felt nausea in su life. Throwing up or food poisoning is foreign to lo. ",
       "stats": [],
       "conflicts": [
         "squeamish"
@@ -2274,7 +2274,7 @@
       "price": 1520,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy can't stand mistreatment of animals. él will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher. ",
+      "description": "Regulus can't stand mistreatment of animals. él will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher. ",
       "stats": [],
       "conflicts": [
         "animalhater"
@@ -2300,7 +2300,7 @@
       "price": 1550,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them. ",
+      "description": "Regulus believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them. ",
       "stats": [],
       "conflicts": [
         "animallover ",
@@ -2328,7 +2328,7 @@
       "price": 2240,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more. ",
+      "description": "Whether because they're a bit chunky or because they shift their weight oddly, Regulus has broken a few chairs in their time and is likely to break more. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2350,7 +2350,7 @@
       "price": 2530,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do. ",
+      "description": "Regulus only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do. ",
       "stats": [],
       "conflicts": [
         "submissive"
@@ -2376,7 +2376,7 @@
       "price": 2000,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something. ",
+      "description": "Regulus needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something. ",
       "stats": [],
       "conflicts": [
         "rebel"
@@ -2402,7 +2402,7 @@
       "price": 2460,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending. ",
+      "description": "Regulus is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending. ",
       "stats": [],
       "conflicts": [
         "amable"
@@ -2428,7 +2428,7 @@
       "price": 1950,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Whether by past trauma or fear of change, Timmy rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids. ",
+      "description": "Whether by past trauma or fear of change, Regulus rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids. ",
       "stats": [
         "TKUtils.Trait.MentalBreak"
       ],
@@ -2458,7 +2458,7 @@
       "price": 3060,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most. ",
+      "description": "Regulus always recalls the good times and lives to party, any party attended will be remembered for many times longer than most. ",
       "stats": [],
       "conflicts": [
         "anxious"
@@ -2484,7 +2484,7 @@
       "price": 3540,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally. ",
+      "description": "Regulus has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally. ",
       "stats": [
         "-50% factor de aprendizaje global ",
         "-50.00% impacto social"
@@ -2522,7 +2522,7 @@
       "price": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently. ",
+      "description": "Regulus learned a specific move in melee combat which allows them to disarm opponents and will use it frequently. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2544,7 +2544,7 @@
       "price": 2940,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty. ",
+      "description": "Regulus believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty. ",
       "stats": [],
       "conflicts": [
         "austero"
@@ -2570,7 +2570,7 @@
       "price": 1950,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for lo. ",
+      "description": "Sour stomach plagues Regulus any time they're around too much blood or rotting corpses. Vomiting is just part of life for lo. ",
       "stats": [],
       "conflicts": [
         "ironstomach ",
@@ -2598,7 +2598,7 @@
       "price": 2340,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe. ",
+      "description": "Regulus feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe. ",
       "stats": [
         "TKUtils.Trait.MentalBreak"
       ],
@@ -2628,7 +2628,7 @@
       "price": 2500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "No amount of lovin' is enough lovin' for Timmy. él will tend to jump from partner to partner and tumble between the sheets with them frequently. ",
+      "description": "No amount of lovin' is enough lovin' for Regulus. él will tend to jump from partner to partner and tumble between the sheets with them frequently. ",
       "stats": [],
       "conflicts": [
         "prude ",
@@ -2658,7 +2658,7 @@
       "price": 2800,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns. ",
+      "description": "Regulus refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns. ",
       "stats": [],
       "conflicts": [
         "insatiable ",
@@ -2686,7 +2686,7 @@
       "price": 2000,
       "removePrice": 5500,
       "degree": 0,
-      "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so. ",
+      "description": "An armchair and flatscreen is all Regulus needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2708,7 +2708,7 @@
       "price": 1510,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs. ",
+      "description": "Regulus is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs. ",
       "stats": [],
       "conflicts": [
         "dogperson"
@@ -2734,7 +2734,7 @@
       "price": 1500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats. ",
+      "description": "Regulus is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats. ",
       "stats": [],
       "conflicts": [
         "catperson"
@@ -2760,7 +2760,7 @@
       "price": 3740,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently. ",
+      "description": "Regulus is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently. ",
       "stats": [
         "+20% umbral de colapso mental ",
         "x130% velocidad de investigación"
@@ -2792,7 +2792,7 @@
       "price": 4500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them. ",
+      "description": "Regulus believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them. ",
       "stats": [
         "x120% prob. de domesticación animal ",
         "x120% probabilidad de entrenamiento"
@@ -2824,7 +2824,7 @@
       "price": 1500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "The sea calls to Timmy. él feels happier just being near the ocean or a deep river. ",
+      "description": "The sea calls to Regulus. él feels happier just being near the ocean or a deep river. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2846,7 +2846,7 @@
       "price": 1800,
       "removePrice": 5500,
       "degree": 0,
-      "description": "The mountains call to Timmy. él feels happier just being near a large mountain. ",
+      "description": "The mountains call to Regulus. él feels happier just being near a large mountain. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2868,7 +2868,7 @@
       "price": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a twisted secret. él treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them. ",
+      "description": "Regulus has a twisted secret. él treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them. ",
       "stats": [
         "+20% factor de éxito de la cirugía"
       ],
@@ -2894,7 +2894,7 @@
       "price": 2600,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are. ",
+      "description": "Regulus is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are. ",
       "stats": [
         "+4 cuerpo a cuerpo"
       ],
@@ -2920,7 +2920,7 @@
       "price": 2500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party. ",
+      "description": "Regulus is compulsed to steal and take things that don't belong to them, even if it means angering the other party. ",
       "stats": [
         "TKUtils.Trait.MentalBreak"
       ],
@@ -2946,7 +2946,7 @@
       "price": 1950,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Smokeleaf culture is just part of life for Timmy. él absolutely adores smokeleaf and would rather die before giving it up. ",
+      "description": "Smokeleaf culture is just part of life for Regulus. él absolutely adores smokeleaf and would rather die before giving it up. ",
       "stats": [],
       "conflicts": [
         "fascinaciónquímica ",
@@ -2978,7 +2978,7 @@
       "price": 2400,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Alcohol culture is just part of life for Timmy. él absolutely adores booze and would rather die before giving it up. ",
+      "description": "Alcohol culture is just part of life for Regulus. él absolutely adores booze and would rather die before giving it up. ",
       "stats": [],
       "conflicts": [
         "fascinaciónquímica ",
@@ -3010,7 +3010,7 @@
       "price": 3600,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling. ",
+      "description": "Regulus loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling. ",
       "stats": [
         "+0.2 cantidad de comida forrajeada"
       ],
@@ -3036,7 +3036,7 @@
       "price": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is never really asleep or awake. él is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so. ",
+      "description": "Regulus is never really asleep or awake. él is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so. ",
       "stats": [
         "x50% velocidad de trabajo general ",
         "x70% velocidad de movimiento"
@@ -3068,7 +3068,7 @@
       "price": 2530,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. su bleak personality is a big downer and therefore it is very hard to become friends with them. ",
+      "description": "Regulus has grown tired of the world and needs to be constantly distracted to stop dark thoughts. su bleak personality is a big downer and therefore it is very hard to become friends with them. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3090,7 +3090,7 @@
       "price": 3530,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies. ",
+      "description": "Regulus is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies. ",
       "stats": [],
       "conflicts": [
         "squeamish"
@@ -3116,7 +3116,7 @@
       "price": 2980,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Only the finest of culinary creations may grace the lips of Timmy. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite. ",
+      "description": "Only the finest of culinary creations may grace the lips of Regulus. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite. ",
       "stats": [
         "x70% velocidad de alimentación"
       ],
@@ -3146,7 +3146,7 @@
       "price": 5530,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice. ",
+      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Regulus is surprisingly well read on a variety of topics, particularly science and medical practice. ",
       "stats": [
         "+4 intelectual ",
         "+4 medicina ",
@@ -3176,7 +3176,7 @@
       "price": 6500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy strongly believes infrastucture rules all and is a natural born stoneworker. ",
+      "description": "Regulus strongly believes infrastucture rules all and is a natural born stoneworker. ",
       "stats": [
         "+4 minería ",
         "+4 construcción ",
@@ -3208,7 +3208,7 @@
       "price": 4800,
       "removePrice": 5500,
       "degree": 0,
-      "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat. ",
+      "description": "In the eyes of Regulus food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat. ",
       "stats": [
         "+4 cocina ",
         "+4 arte ",
@@ -3238,7 +3238,7 @@
       "price": 5030,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings. ",
+      "description": "Flora and fauna are both vital to Regulus. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings. ",
       "stats": [
         "+4 animales ",
         "+4 agricultura ",
@@ -3270,7 +3270,7 @@
       "price": 5260,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and él will likely convince you if given the chance. ",
+      "description": "Regulus has an eye for silver and a tongue made from it. They believe their products are the best products and él will likely convince you if given the chance. ",
       "stats": [
         "+4 socialización ",
         "+4 fabricación ",
@@ -3300,7 +3300,7 @@
       "price": 3730,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is strangely hypercoagulating and will bleed much more slowly than most. ",
+      "description": "Regulus is strangely hypercoagulating and will bleed much more slowly than most. ",
       "stats": [],
       "conflicts": [
         "thinskinned"
@@ -3326,7 +3326,7 @@
       "price": 1870,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is strangely hemophilic and tends to bleed much more profusely than others. ",
+      "description": "Regulus is strangely hemophilic and tends to bleed much more profusely than others. ",
       "stats": [],
       "conflicts": [
         "thickskinned"
@@ -3352,7 +3352,7 @@
       "price": 2320,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown. ",
+      "description": "Regulus has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown. ",
       "stats": [],
       "conflicts": [
         "voluntaddehierro ",
@@ -3384,7 +3384,7 @@
       "price": 1800,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. él will prefer fishing above other activities. ",
+      "description": "Regulus enjoys the solitude and tranquility inherent to long fishing sessions. él will prefer fishing above other activities. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3406,7 +3406,7 @@
       "price": 3000,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance. ",
+      "description": "Either the body or mind of Regulus is one of insight and experience. While some find them old fashioned, others will respect their guidance. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3428,7 +3428,7 @@
       "price": 1750,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy no acepta un \"no\" por respuesta. ",
+      "description": "Regulus no acepta un \"no\" por respuesta. ",
       "stats": [
         "+10.00% deseo sexual"
       ],
@@ -3486,7 +3486,7 @@
       "price": 1880,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy gusta de un sexo mas salvaje. ",
+      "description": "Regulus gusta de un sexo mas salvaje. ",
       "stats": [
         "+10.00% deseo sexual"
       ],
@@ -3512,7 +3512,7 @@
       "price": 3000,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy Amo el sexo y siempre quiero más. Solo recupera el enfoque psíquico a través del sexo. ",
+      "description": "Regulus Amo el sexo y siempre quiero más. Solo recupera el enfoque psíquico a través del sexo. ",
       "stats": [
         "TKUtils.Trait.MeditationEnabled ",
         "+10.00% vulnerabilidad ",
@@ -3550,7 +3550,7 @@
       "price": 2000,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy really likes feet and prefers sex acts involving them. ",
+      "description": "Regulus really likes feet and prefers sex acts involving them. ",
       "stats": [
         "+10.00% vulnerabilidad"
       ],
@@ -3576,7 +3576,7 @@
       "price": 2000,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy really likes cum and prefers fellatio sex acts. ",
+      "description": "Regulus really likes cum and prefers fellatio sex acts. ",
       "stats": [
         "+10.00% vulnerabilidad"
       ],
@@ -3602,7 +3602,7 @@
       "price": 2850,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy really likes getting fucked in the butt and prefers anal sex acts. ",
+      "description": "Regulus really likes getting fucked in the butt and prefers anal sex acts. ",
       "stats": [
         "+10.00% vulnerabilidad"
       ],
@@ -3628,7 +3628,7 @@
       "price": 3000,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is romantically attracted to people of the opposite gender. ",
+      "description": "Regulus is romantically attracted to people of the opposite gender. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3650,7 +3650,7 @@
       "price": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy will never cheat on a partner, no matter how bad the relationship gets. ",
+      "description": "Regulus will never cheat on a partner, no matter how bad the relationship gets. ",
       "stats": [],
       "conflicts": [
         "philanderer ",
@@ -3678,7 +3678,7 @@
       "price": 2710,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy just cannot be trusted to stay faithful to a partner. ",
+      "description": "Regulus just cannot be trusted to stay faithful to a partner. ",
       "stats": [],
       "conflicts": [
         "faithful"
@@ -3704,7 +3704,7 @@
       "price": 2900,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy prefers romantic relationships involving multiple partners to monogamous relationships. él doesn't mind if su partners romance other people, but will be less happy in a restraining, monogamous relationship. ",
+      "description": "Regulus prefers romantic relationships involving multiple partners to monogamous relationships. él doesn't mind if su partners romance other people, but will be less happy in a restraining, monogamous relationship. ",
       "stats": [],
       "conflicts": [
         "asexual"
@@ -3730,7 +3730,7 @@
       "price": 2222,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Timmy is not capable of doing any work. ",
+      "description": "Regulus is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Regulus is not capable of doing any work. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3752,7 +3752,7 @@
       "price": 1320,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that Timmy is in constant, agonizing pain and can barely assemble his thoughts. Only installing Timmy back in a warcasket can cure the symptoms. ",
+      "description": "Regulus was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that Regulus is in constant, agonizing pain and can barely assemble his thoughts. Only installing Regulus back in a warcasket can cure the symptoms. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3796,7 +3796,7 @@
       "price": 1700,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy just can't keep a secret. ",
+      "description": "Regulus just can't keep a secret. ",
       "stats": [],
       "conflicts": [
         "trustworthy"
@@ -3822,7 +3822,7 @@
       "price": 4000,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is someone you can trust with your innermost thoughts. If you ask lo to keep something to loself, él will. ",
+      "description": "Regulus is someone you can trust with your innermost thoughts. If you ask lo to keep something to loself, él will. ",
       "stats": [],
       "conflicts": [
         "gossip"
@@ -3848,7 +3848,7 @@
       "price": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is socially manipulative. él doesn't always talk ill of people, but if él doesn't like someone, él will try to turn the rest of the colony against them. ",
+      "description": "Regulus is socially manipulative. él doesn't always talk ill of people, but if él doesn't like someone, él will try to turn the rest of the colony against them. ",
       "stats": [
         "+5.00% mejora de regateo ",
         "+20.00% capacidad diplomática"
@@ -3880,7 +3880,7 @@
       "price": 4000,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy just can't stand other people fighting. él will always try to persuade others to put aside their differences.. ",
+      "description": "Regulus just can't stand other people fighting. él will always try to persuade others to put aside their differences.. ",
       "stats": [],
       "conflicts": [
         "manipulative"
@@ -3906,7 +3906,7 @@
       "price": 1850,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy doesn't have a particular problem keeping other people's secrets, but can't help over sharing su own. ",
+      "description": "Regulus doesn't have a particular problem keeping other people's secrets, but can't help over sharing su own. ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3928,7 +3928,7 @@
       "price": 2000,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a difficult relationship with the truth. This causes lo to have difficult relationships with other colonists, as well.  ",
+      "description": "Regulus has a difficult relationship with the truth. This causes lo to have difficult relationships with other colonists, as well.  ",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
