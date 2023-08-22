@@ -31,19 +31,51 @@ background-color: #664C29;
 .header {
 background-color: #403734;
 }
+.main-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 50vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+
+        .box-container {
+            display: flex;
+            justify-content: space-between;
+            width: 50%;
+        }
+
+        .box {
+            flex: 1;
+            margin: 5px;
+            padding: 20px;
+            background-color: #964b00;
+            color: #fff;
+            text-align: center;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .box:hover {
+            background-color: #b87333;
+        }
 </style>
 </head>
 
 <body>
     <nav class="header navbar navbar-expand-md navbar-dark fixed-top">
-        <a class="navbar-brand" href="#">SoyBrianT</a>
+        <a class="navbar-brand" href="index.html">SoyBrianT</a>
         <div class="collapse navbar-collapse" id="navbarsExampleDefault">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
                 </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="https://thebriantap.github.io/ttk">Toolkit Twitch <span class="sr-only">(current)</span></a>
+                <li class="nav-item">
+                    <a class="nav-link" href="Server Riworld.html">Server Rimwrold <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="ttk.html">Toolkit Twitch <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="https://www.twitch.tv/soybriant">SoyBrianT Stream</a>
@@ -55,164 +87,21 @@ background-color: #403734;
         <div class="jumbotron" style="padding-bottom: 15px;">
             <div class="container">
                 <p style="font-size: 2rem;margin-bottom: 0px;">Rimworld CHAT</p>
-                <p>Rimworld es un simulador de colonia en donde los integrantes (colonos) tendrán que sobrevivir a distintas catástrofes como tornados, olas de calor, animales salvajes, asaltos enemigos o a ellos mismos como peleas de ideología, enfermedades, discusiones y rasgos con problemas de personalidad. El juego es un simple PVE, lo que he hecho fue integrarle una diversidad de distintos mods en donde permitiesen la iteración entre "colono -> espectador" a traves del chat de Twitch.</p>
+                <p>.</p>
             </div>
         </div>
-        <div ng-app='tabs' ng-controller='tabCtrl'>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class='tabs'>
-                            <form>
-                                <div class="form-group">
-                                    <button class="btn btn-success boton" ng-class="{'active': (selected == '4')}" ng-click='selected=4'>
-                                        Comandos
-                                    </button>
-                                    <button class="btn btn-success boton" ng-class="{'active': (selected == '1')}" ng-click='selected=1'>
-                                        Items
-                                    </button>
-                                    <button class="btn btn-success boton" ng-class="{'active': (selected == '2')}" ng-click='selected=2'>
-                                        Eventos
-                                    </button>
-                                    <button class="btn btn-success boton" ng-class="{'active': (selected == '3')}" ng-click='selected=3'>
-                                        Rasgos
-                                    </button>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
+
+        <div class="main-container">
+            <div class="box-container">
+                <div class="box" onclick="window.location.href='enlace1.html'">
+                    Texto 1
                 </div>
-                <div class="row" ng-show='selected == 1'>
-                    <div class="col-md-12">
-                        <div id="items">
-                            <div class="input-group input-group-sm mb-3">
-                                <div class="input-group-prepend">
-                                    <span class="input-group-text" id="inputGroup-sizing-sm">Buscar</span>
-                                </div>
-                                <input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
-                            </div>
-                            <table class="table items">
-                                <tr>
-                                    <th scope="col" class="sort" data-sort="abr">Nombre</th>
-                                    <th scope="col" class="sort" data-sort="price">Precio</th>
-                                    <th scope="col" class="sort" data-sort="category">Categoria</th>
-                                </tr>
-                                <tbody class="list">
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
-                </div>
-                <div class="row" ng-show='selected == 2'>
-                    <div class="col-md-12">
-                        <div id="events">
-                            <div class="input-group input-group-sm mb-3">
-                                <div class="input-group-prepend">
-                                    <span class="input-group-text" id="inputGroup-sizing-sm">Buscar</span>
-                                </div>
-                                <input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
-                            </div>
-                            <table class="table events">
-                                <tr>
-                                    <th scope="col" class="sort" data-sort="abr">Nombre</th>
-                                    <th scope="col" class="sort" data-sort="desc">Descripción</th>
-                                    <th scope="col" class="sort" data-sort="price">Precio</th>
-                                    <th scope="col" class="sort" data-sort="karmatype">Karma</th>
-                                </tr>
-                                <tbody class="list">
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
-                </div>
-                <div class="row" ng-show='selected == 3'>
-                    <div class="col-md-12">
-                        <div id="trait">
-                            <div class="input-group input-group-sm mb-3">
-                                <div class="input-group-prepend">
-                                    <span class="input-group-text" id="inputGroup-sizing-sm">Buscar</span>
-                                </div>
-                                <input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
-                            </div>
-                            <table class="table trait">
-                                <tr>
-                                    <th scope="col" class="sort" data-sort="name">Nombre</th>
-                                    <th scope="col" class="sort" data-sort="conflicts">Incompatible</th>
-                                    <th scope="col" class="sort" data-sort="description">Descripción</th>
-                                    <th scope="col" class="sort" data-sort="stats">Estadisticas</th>
-                                    <th scope="col" class="sort" data-sort="price">Precio</th>
-                                </tr>
-                                <tbody class="list">
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
-                </div>
-                <div class="row" ng-show='selected == 4'>
-                    <div class="col-md-12">
-                        <div id="events">
-                            <table class="table comandos">
-                                <tr>
-                                    <th scope="col" class="sort" data-sort="abr">Nombre</th>
-                                    <th scope="col" class="sort" data-sort="desc">Descripción</th>
-                                    <th scope="col" class="sort" data-sort="desc">Ejemplo</th>
-                                </tr>
-                                <tbody class="list">
-					<tr><td class="abr" scope="row">!bal</td><td class="description">Muestra tu balance en el chat</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">$mochila</td><td class="description">comprale un objeto en la mochila de tu colono para que solo la use él.</td><td class="category">$mochila medicina 5</td></tr><
-					<tr><td class="abr" scope="row">!price [item / event / trait / skill / disease] <nombre></td><td class="description">Muestra el precio de un objeto/evento/rasgo.</td><td class="category">!price acero<br> !price cama[madera,good]<br> !price pawn asari</td></tr>
-				<tr><td class="abr" scope="row">!buscar [item / event / trait / skill / disease] <nombre></td><td class="description">Muestra una lista de los eventos/items o rasgos que sean similares.</td><td class="category">!buscar fusil<br> !buscar event tornado</td></tr>
-					<tr><td class="abr" scope="row">$colono [raza] <coins></td><td class="description">Compra un colono de forma inmediata. Si el comando se deja vacio, se comprara la raza "humana" por defecto<br><br>Asari: $6500<br>Drell: $5500<br>Humano: $3500<br>Saiyan: $7500<br>Synth: $10000<br>T1 Android: $3300<br>T2 Android: $5200<br>T3 Android: $7000<br>T4 Android: $15500<br>T5 Android: $25000<br>Yautja: $7000<br>M7 Mechanised infantry: 1000BITS<br>M8 Mechanised infantry: 1000BITS</td><td class="category">$colono asari</td></tr>
-					<tr><td class="abr" scope="row">$equip </td><td class="description">comprale y equipale un arma a tu colono.</td><td class="category">$equip gladius[acero,good]</td></tr>
-					<tr><td class="abr" scope="row">!join</td><td class="description">Te coloca en la lista de espera para ingresar a la colonia cuando algún colono no tenga asignado un usuario.</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">$vestir</td><td class="description">comprale y equipale una vestimenta o armadura a tu colono.</td><td class="category">$vestir turbante[cueroliso,good]</td></tr>
-					<tr><td class="abr" scope="row">!charla [nombredeusuario]</td><td class="description">Ten una charla con un colono.</td><td class="category">!charla feniix909</td></tr>
-					<tr><td class="abr" scope="row">!charlaprofunda [nombredeusuario]</td><td class="description">Ten una charla profunda con un colono. Ten en cuenta que esto puede llevar una buena o mala charla dependiendo los rasgos, intereses e idiologias de cada uno.</td><td class="category">!charlaprofunda feniix909</td></tr>
-					<tr><td class="abr" scope="row">!coquetear [nombredeusuario]</td><td class="description">Coquetea con un colono. Si el coqueteo es exitoso amobs colonos entablaran una relación de amantes, de lo contrario esto reflejará una mala opinión entre ambos.</td><td class="category">!coquetear feniix909</td></tr>
-					<tr><td class="abr" scope="row">!insultar [nombredeusuario]</td><td class="description">Insulta a un colono. Cuando ambos colonos llegan a una opinión negativa lo mas probable es que estos comiencen una pelea, solo si estan cerca uno del otro.</td><td class="category">!insultar feniix909</td></tr>
-					<tr><td class="abr" scope="row">!shop</td><td class="description">Muestra ellink de esta pagina... Si no nose como llegaste acá (?</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">!colorfavorito <color></td><td class="description">Establece el color favorito de tu colono, si un colono tiene ropa dsu color favorito o contempla cosas con ese color se pondrá de buen humor.</td><td class="category">!colorfavorito red</td></tr>
-					<tr><td class="abr" scope="row">!dye [color/vestimenta=color]</td><td class="description">Colorea tu vestimenta de tu color favorito o establece que quieres colorear.</td><td class="category">!dye red (colorea todo de rojo)<br>!dye camiseta=red (colorea solo la camiseta de color rojo)</td></tr>
-					<tr><td class="abr" scope="row">!relacion [colono]</td><td class="description">Muestra la relacion que tienes con un colono o con todos</td><td class="category">!relacion feniix909</td></tr>
-					<tr><td class="abr" scope="row">!skills</td><td class="description">Muestra tus skills.</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">!stats</td><td class="description">Muestra tus estadisticas</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">!salud</td><td class="description">Muestra la salud física de tu colono.</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">!needs</td><td class="description">Muestra tus necesidades chat.</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">!fixmypawn</td><td class="description">Relinkea tu colono con tu cuenta de twitch. Usa este comando cuando el bot te diga"no estas en la colonia" y ves a tu colono dentro de ella.</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">!vestimenta</td><td class="description">Muestra tu tu vestimenta en el chat.</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">!cerpo</td><td class="description">Muestra los detalles de tu cuerpo en el chat.</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">!story</td><td class="description">Muestra tus rasgos y tu historia en el chat.</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">!work [trabajo=numero]</td><td class="description">Muestralas prioridades de trabajo o establece la prioridad del trabajo, 1 es mayor prioridad 4 es la menor, 0 es ninguna prioridad.</td><td class="category">!work construcción=1</td></tr>
-					<tr><td class="abr" scope="row">!research</td><td class="description">Muestra la investigacion actual.</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">!colonists</td><td class="description">Muestra la cantinad de colonos en la colonia.</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">!wealth</td><td class="description">Muestra el poder de la colonia</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">!marry</td><td class="description">Pídele matrimonio a un colono con el cual ya tengas una relación.</td><td class="category">!marry feniix909</td></tr>
-					<tr><td class="abr" scope="row">!divorce</td><td class="description">Pídele divorcio a un colono con el cual ya tenías un matrimonio.</td><td class="category">!divorce feniix909</td></tr>
-					<tr><td class="abr" scope="row">!mypawnclass</td><td class="description">Muestra a que clase pertenece tu colono.</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">!giftcoins <nombredeusuario> <coins></td><td class="description">Regala coins a un usuario</td><td class="category">!giftcoins feniix909 5000</td></tr>
-					<tr><td class="abr" scope="row">$cirugia</td><td class="description">Se utiliza para agregarle una cirugia a tu colono.</td><td class="category">$cirugia brazobiónico</td></tr>
-					<tr><td class="abr" scope="row">$reemplazarrasgo</td><td class="description">Reeemplaza el razo de tu colono por otro.</td><td class="category">$reemplazarrasgo homosexual asexual</td></tr>
-					<tr><td class="abr" scope="row">$setrasgo</td><td class="description">Resetea los rasgos de tu colono a los que vinieron por predeterminado.</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">$borrarrasgos</td><td class="description">Borra todos los rasgos exepto a alguno como bisexual, asexual, Etc....</td><td class="category"></td></tr>
-					<tr><td class="abr" scope="row">$rasgo</td><td class="description">Agrega rasgo a tu colono</td><td class="category">$rasgo resistente</td></tr>
-					<tr><td class="abr" scope="row">$removerrasgo</td><td class="description">Remueve un rasgo a tu colono. (Precio $5000)</td><td class="category">$removerrasgo enfermizo</td></tr>
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
+                <div class="box" onclick="window.location.href='enlace2.html'">
+                    Texto 2
                 </div>
             </div>
         </div>
-        <div class="container">
-            <!-- Example row of columns -->
-            <div class="row">
-                <div class="col-md-6">
-                </div>
-                <div class="col-md-6">
-                </div>
-            </div>
-            <hr>
-        </div>
+
     </main>
     <footer class="text-muted">
         <div class="container">
@@ -223,151 +112,6 @@ background-color: #403734;
             <p>New to Bootstrap? <a href="../../">Visit the homepage</a> or read our <a href="../../getting-started/">getting started guide</a>.</p>
         </div>
     </footer>
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-    <script src="https://embed.twitch.tv/embed/v1.js"></script>
-    <style>
-        .sort:after {
-            display: inline-block;
-            width: 0;
-            height: 0;
-            border-left: 5px solid transparent;
-            border-right: 5px solid transparent;
-            border-bottom: 5px solid transparent;
-            content: "";
-            position: relative;
-            top: -10px;
-            right: -5px;
-        }
-        
-        .sort.asc:after {
-            width: 0;
-            height: 0;
-            border-left: 5px solid transparent;
-            border-right: 5px solid transparent;
-            border-top: 5px solid #fff;
-            content: "";
-            position: relative;
-            top: 4px;
-            right: -5px;
-        }
-        
-        .sort.desc:after {
-            width: 0;
-            height: 0;
-            border-left: 5px solid transparent;
-            border-right: 5px solid transparent;
-            border-bottom: 5px solid #fff;
-            content: "";
-            position: relative;
-            top: -4px;
-            right: -5px;
-        }
-    </style>
-    <script type="text/javascript">
-        let itemList = null;
-        $.getJSON(itemListURL, function(data) {
-            var options = {
-                valueNames: ['abr', 'price', 'category'],
-                item: '<tr><td class="abr" scope="row"></td><td class="price"></td><td class="category"></td></tr>'
-            };
-
-            var itemData = [];
-            $.each(data.items, function(index, value) {
-                if (value["price"] > 0) {
-                    itemData.push(value);
-                }
-            });
-
-            itemList = new List('items', options, itemData);
-        });
-
-        let eventList = null;
-        $.getJSON(eventListURL, function(data) {
-            var options = {
-                valueNames: ['abr', 'price', 'desc', 'karmatype'],
-                item: '<tr><td class="abr" scope="row"></td><td class="desc"></td><td class="price"></td><td class="karmatype"></td></tr>'
-            };
-
-            var eventData = [];
-            $.each(data.incitems, function(index, value) {
-                if (value["price"] > 0) {
-                    eventData.push(value);
-                }
-            });
-
-            eventList = new List('events', options, eventData);
-        });
-
-        let traitList = null;
-        $.getJSON(traitListURL, function(data) {
-            var options = {
-                valueNames: ['name', 'conflicts', 'description', 'stats', 'price'],
-                item: '<tr><td class="name" scope="row"></td><td class="conflicts"></td><td class="description"></td><td class="stats"></td><td class="price"></td></tr>'
-            };
-
-            var traitData = [];
-            $.each(data.traits, function(index, value) {
-                if (value["price"] > 0) {
-                    traitData.push(value);
-                }
-            });
-
-            traitList = new List('trait', options, traitData);
-        });
-
-        $("#item-price-min").keyup(function() {
-            updateItemFilter();
-        });
-
-        $("#item-price-max").keyup(function() {
-            updateItemFilter();
-        });
-
-        function updateItemFilter() {
-            var minPrice = $("#item-price-min").val();
-            var maxPrice = $("#item-price-max").val();
-            itemList.filter(function(item) {
-                var allow = true;
-                if (minPrice != "" && parseInt(item.values().price) < minPrice) {
-                    allow = false;
-                }
-                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
-                    allow = false;
-                }
-                return allow;
-            });
-	    eventList.filter(function(item) {
-                var allow = true;
-                if (minPrice != "" && parseInt(item.values().price) < minPrice) {
-                    allow = false;
-                }
-                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
-                    allow = false;
-                }
-                return allow;
-            });
-	    triatList.filter(function(item) {
-                var allow = true;
-                if (minPrice != "" && parseInt(item.values().price) < minPrice) {
-                    allow = false;
-                }
-                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
-                    allow = false;
-                }
-                return allow;
-            });
-        }
-
-    </script>
-    <script type="text/javascript">
-        var tabs = angular.module('tabs', [])
-            .controller('tabCtrl', function($scope) {
-                $scope.selected = "1";
-            });
-    </script>
 </body>
 
 </html>
